@@ -1,0 +1,4 @@
+table,row_count_matches,rows,cells_differing,differing_columns
+sales_transactions,True,9223,30,{'payment_method': 30}
+service_orders,True,6941,7,{'satisfaction_score': 7}
+customers,True,6833,0,{}

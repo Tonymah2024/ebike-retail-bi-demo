@@ -1,0 +1,95 @@
+product_id,brand,model,product_category,product_class,retail_price_cad,units,net_sales,gross_profit,gross_margin_pct,first_sale,last_sale
+PRD-001,Aventon,Level 3,Commuter,E-Bike,2399.0,127,298575.5,76164.21,25.51,2024-03-30,2026-09-21
+PRD-010,Aventon,Aventure 3,Fat Tire,E-Bike,2799.0,94,257939.81,65872.43,25.54,2024-01-09,2026-09-12
+PRD-005,Aventon,Pace 500.3 Step Through,Comfort/Step-Through,E-Bike,1799.99,124,218328.76,55394.0,25.37,2024-01-02,2026-09-24
+PRD-002,Aventon,Level 3 Step Through,Commuter,E-Bike,2399.0,92,214846.36,53729.52,25.01,2024-01-04,2026-09-24
+PRD-011,Aventon,Aventure 3 Step-Through,Fat Tire,E-Bike,2799.0,73,200208.4,51049.69,25.5,2024-01-27,2026-08-03
+PRD-004,Aventon,Level 4 REC Step-Through,Commuter,E-Bike,2799.0,70,191883.41,48854.51,25.46,2024-01-04,2026-09-25
+PRD-003,Aventon,Level 4 ADV High-Step,Commuter,E-Bike,3899.0,49,186479.07,47011.84,25.21,2024-03-11,2026-09-17
+PRD-006,Aventon,Pace 4 Step Through (500.4),Comfort/Step-Through,E-Bike,2199.0,80,171727.77,43306.17,25.22,2024-02-22,2026-09-08
+PRD-018,Velotric,Nomad 2 High-Step,Fat Tire,E-Bike,2499.0,70,170106.85,47655.85,28.02,2024-01-27,2026-09-17
+PRD-034,Stromer,ST3,Speed Pedelec,E-Bike,4999.99,35,168649.65,51400.0,30.48,2024-04-08,2026-09-18
+PRD-008,Aventon,Soltera.2 High-Step,Commuter,E-Bike,1399.0,114,155824.26,39399.48,25.28,2024-01-09,2026-09-25
+PRD-017,Velotric,Discover 3,Commuter,E-Bike,2699.0,56,148175.1,42374.3,28.6,2024-01-24,2026-09-26
+PRD-016,Velotric,Discover 2 Step-Through,Commuter,E-Bike,2299.0,66,147955.6,41741.8,28.21,2024-03-11,2026-09-17
+PRD-025,NCM,Milano T7s,Commuter,E-Bike,1999.0,74,144307.76,46676.6,32.35,2024-04-09,2026-09-01
+PRD-013,Aventon,Ramblas Mountain E-Bike,Mountain,E-Bike,3299.0,44,141362.15,35398.27,25.04,2024-01-05,2026-08-19
+PRD-036,Gazelle,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,E-Bike,3499.0,40,136111.1,39538.7,29.05,2024-02-13,2026-08-22
+PRD-028,NCM,Aspen Plus Electric Fat Bike,Fat Tire,E-Bike,1599.0,82,128363.66,41825.78,32.58,2024-01-02,2026-09-30
+PRD-033,Stromer,ST2 Beltdrive,Speed Pedelec,E-Bike,4499.99,29,127059.71,39625.0,31.19,2024-03-27,2026-09-30
+PRD-012,Aventon,Abound SR,Cargo/Family,E-Bike,2699.0,46,122183.73,31551.31,25.82,2024-01-13,2026-08-22
+PRD-023,Velotric,Tempo 2 High-Step,Commuter,E-Bike,2099.99,59,120050.41,33321.0,27.76,2024-01-26,2026-09-28
+PRD-015,Aventon,Sinch.2 Step-Through,Folding,E-Bike,2259.0,53,117355.05,29954.34,25.52,2024-02-26,2026-08-18
+PRD-019,Velotric,Nomad 2X Step-Through,Fat Tire,E-Bike,2999.0,40,117340.84,33368.84,28.44,2024-03-01,2026-09-11
+PRD-020,Velotric,Fold 1 Plus,Folding,E-Bike,1999.99,60,117179.4,33180.0,28.32,2024-03-16,2026-09-18
+PRD-009,Aventon,Soltera 2.5,Commuter,E-Bike,1699.0,69,114837.35,29258.72,25.48,2024-01-30,2026-08-26
+PRD-027,NCM,Moscow M3,Mountain,E-Bike,1499.0,74,107977.9,34766.74,32.2,2024-02-24,2026-09-28
+PRD-039,Bulls,Iconic Evo 1 Diamond Smart System 750,Commuter,E-Bike,3799.0,28,104320.54,31987.58,30.66,2024-02-15,2026-08-22
+PRD-021,Velotric,Breeze Step-Through,Comfort/Step-Through,E-Bike,2199.0,48,102593.3,28706.9,27.98,2024-02-09,2026-09-09
+PRD-007,Aventon,Pace 5 REC Step-Through,Comfort/Step-Through,E-Bike,2499.0,40,96986.15,24015.35,24.76,2024-04-12,2026-09-28
+PRD-038,Gazelle,Arroyo C5 Bosch Smart System,Comfort/Step-Through,E-Bike,5499.0,18,96087.49,27789.91,28.92,2024-03-14,2026-07-27
+PRD-026,NCM,Milano Plus,Commuter,E-Bike,1799.0,54,95336.95,31220.59,32.75,2024-01-13,2026-09-11
+PRD-032,Stromer,ST1X,Speed Pedelec,E-Bike,2899.99,33,92931.67,28813.0,31.0,2024-03-12,2026-09-30
+PRD-031,ET Cycles,T720,Commuter,E-Bike,1699.0,54,89503.32,28950.96,32.35,2024-01-06,2026-09-16
+PRD-024,Velotric,Triker Electric Tricycle,Cargo/Family,E-Bike,3399.99,26,86633.74,24754.0,28.57,2024-03-13,2026-08-31
+PRD-047,Cannondale,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,E-Bike,2260.0,39,86345.0,23765.6,27.52,2024-04-20,2026-09-26
+PRD-045,Cube,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,E-Bike,2799.0,30,82430.55,24491.25,29.71,2024-04-04,2026-09-11
+PRD-014,Aventon,Current ADV,Commuter,E-Bike,5499.0,15,81450.17,21236.12,26.07,2024-06-07,2026-06-29
+PRD-040,Bulls,Copperhead Evo 2 Wave Smart System 750,Mountain,E-Bike,3799.0,22,81388.55,24555.51,30.17,2024-04-01,2026-08-22
+PRD-046,Cube,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,E-Bike,6999.0,12,81058.39,23106.67,28.51,2024-04-10,2026-08-21
+PRD-022,Velotric,Summit 2,Mountain,E-Bike,2799.0,29,78539.94,21720.24,27.66,2024-01-08,2026-09-25
+PRD-037,Gazelle,Ultimate T10 Low-Step,Commuter,E-Bike,3299.0,24,78153.31,23521.87,30.1,2024-03-26,2026-09-04
+PRD-056,Teewing,Turbo Force XT,Mountain,E-Bike,7745.0,10,76675.5,20911.5,27.27,2024-01-27,2026-03-06
+PRD-035,Stromer,ST5 ABS Graphite,Speed Pedelec,E-Bike,6999.99,11,75669.89,24080.0,31.82,2024-05-29,2026-09-02
+PRD-030,ET Cycles,F720 Matte Black,Fat Tire,E-Bike,1599.0,48,74553.25,23896.93,32.05,2024-02-17,2026-09-16
+PRD-029,NCM,Paris,Comfort/Step-Through,E-Bike,1499.0,49,71717.09,23239.43,32.4,2024-01-23,2026-08-31
+PRD-044,Cube,Touring Hybrid ONE 500 Easy Entry,Commuter,E-Bike,2799.0,26,71234.55,21020.49,29.51,2024-02-21,2026-09-02
+PRD-043,Cube,Reaction Hybrid Pro 500,Mountain,E-Bike,2999.0,23,67327.55,19733.42,29.31,2024-05-14,2026-07-03
+PRD-061,Kryptonite,EVOLUTION,Accessories,Accessories,185.99,362,65542.78,30533.76,46.59,2024-01-02,2026-09-29
+PRD-049,Tern,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,E-Bike,6649.0,10,64495.3,17952.3,27.84,2024-05-03,2026-08-29
+PRD-091,Aventon,Battery Soltera SS / Soltera 7S / Soltera 2 / Soltera 2.5,Batteries & Chargers,Batteries & Chargers,699.99,77,53283.23,15554.0,29.19,2024-01-09,2026-09-21
+PRD-054,Urtopia,Carbon Classic,Commuter,E-Bike,2995.0,17,49636.8,13996.3,28.2,2024-03-12,2026-09-18
+PRD-053,Yuba,Spicy Curry V4 Cargo eBike,Cargo/Family,E-Bike,4999.99,10,48599.9,13600.0,27.98,2024-05-24,2026-06-24
+PRD-094,Stromer,Battery 48V 17Ah 814 Wh Gold BQ814,Batteries & Chargers,Batteries & Chargers,2999.0,16,47684.1,14095.3,29.56,2024-01-02,2026-09-23
+PRD-066,Ortlieb,Pannier Urban Back-Roller 20L - High Visibility,Accessories,Accessories,249.99,190,46233.1,21535.0,46.58,2024-01-20,2026-09-30
+PRD-050,Tern,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,E-Bike,7699.0,6,44654.2,12318.4,27.59,2024-07-31,2026-03-24
+PRD-048,Cannondale,Moterra Neo 4 Bosch Smart System,Mountain,E-Bike,5699.0,7,39266.11,10942.08,27.87,2024-03-23,2026-08-24
+PRD-092,Bosch,Akku Intube PowerTube 500 Vertical US (2023)/BES3,Batteries & Chargers,Batteries & Chargers,1199.0,33,39207.3,11510.4,29.36,2024-03-19,2026-09-09
+PRD-055,Argon18,Subito Gravel Everlasting Green,Gravel & Road,E-Bike,3299.0,12,39126.14,11414.54,29.17,2024-06-05,2026-08-25
+PRD-093,Velotric,Extra Battery Pack Nomad 2,Batteries & Chargers,Batteries & Chargers,799.0,47,37169.48,10882.38,29.28,2024-01-30,2026-08-26
+PRD-051,Tern,Quick Haul D8,Cargo/Family,E-Bike,4649.0,8,36448.16,10413.76,28.57,2024-05-29,2026-05-20
+PRD-062,Abus,Goose 6206K Chain Lock w/ Key 6mm,Accessories,Accessories,109.99,328,35082.32,16324.0,46.53,2024-01-06,2026-09-29
+PRD-042,Bulls,Twenty4 E 32cm,Mountain,E-Bike,2399.0,15,34829.44,10359.64,29.74,2024-06-01,2026-08-29
+PRD-080,Giro,100 Proof Mitts / Gloves,Accessories,Accessories,129.99,257,32450.63,15080.0,46.47,2024-01-12,2026-09-18
+PRD-052,Tern,Vektron Q9 Satin Red 400Wh,Folding,E-Bike,4649.0,7,31520.22,8740.12,27.73,2024-06-12,2026-08-27
+PRD-041,Bulls,Grinder Evo Bosch Speed,Gravel & Road,E-Bike,2799.0,11,30033.27,9096.75,30.29,2024-08-19,2026-08-11
+PRD-060,HIPLOK,"Urban D Lock, All Black",Accessories,Accessories,93.99,325,29668.79,13786.04,46.47,2024-01-02,2026-09-30
+PRD-065,Ortlieb,E-Mate QL2.1 16L Touring Pannier (Single),Accessories,Accessories,169.99,179,29585.01,13763.2,46.52,2024-01-03,2026-09-30
+PRD-059,Bell,TRACE MIPS HELMET,Accessories,Accessories,119.99,232,27079.28,12604.8,46.55,2024-01-02,2026-09-29
+PRD-058,Cannondale,Tract Adult Helmet,Accessories,Accessories,99.0,229,22227.48,10438.56,46.96,2024-01-05,2026-09-28
+PRD-074,Selle Royal,"Selle Royal, Lookin Moderate, Saddle, 269 x 198mm, Unisex,",Accessories,Accessories,94.99,231,21289.09,9880.0,46.41,2024-01-02,2026-09-29
+PRD-078,EVOC,"EVOC, Tailgate Pad, 136cm / 53.5'' wide, for mid-sized trucks, Olive",Accessories,Accessories,180.0,107,18615.6,8600.4,46.2,2024-02-06,2026-09-24
+PRD-057,Cannondale,Trail Adult Helmet,Accessories,Accessories,70.0,246,16867.2,7912.8,46.91,2024-01-02,2026-09-30
+PRD-064,Lezyne,"Lezyne, Mini Drive 400, Light, Front, Black",Accessories,Accessories,59.99,263,15323.77,7120.8,46.47,2024-01-23,2026-09-30
+PRD-068,Axiom,STREAMLINER DISC DLX RACK- BLACK,Accessories,Accessories,84.99,183,15155.37,7068.6,46.64,2024-01-13,2026-09-24
+PRD-073,49N,SPRING SUSPENSION SEATPOST 27.2 350MM BLACK,Accessories,Accessories,49.99,284,13872.16,6491.0,46.79,2024-01-02,2026-09-30
+PRD-070,Acid,"Mudguard Set 75 29"" 2.0",Accessories,Accessories,69.99,191,13047.49,6097.0,46.73,2024-01-04,2026-09-30
+PRD-075,Lezyne,"Lezyne, Control Drive CO2, CO2 Inflator, Threaded, Presta, Schrader, Silver, 1x16g",Accessories,Accessories,45.99,267,11939.85,5555.88,46.53,2024-01-03,2026-09-29
+PRD-067,Topeak,EXPLORER TUBULAR RACK,Accessories,Accessories,64.99,184,11569.46,5352.1,46.26,2024-01-06,2026-09-30
+PRD-072,Delta,"Delta, Smart Phone Holder",Accessories,Accessories,54.99,205,10971.55,5110.6,46.58,2024-01-06,2026-09-30
+PRD-083,Pirelli,"Pirelli, Cinturato Gravel H, Gravel Tire, 650Bx45, Folding, Tubeless Ready, SpeedGrip, 127TPI, Tanwall",Parts,Parts,119.99,78,9157.62,4477.62,48.9,2024-04-09,2026-09-28
+PRD-069,Acid,Mudguard VANE PURE rear,Accessories,Accessories,34.99,206,7002.84,3255.7,46.49,2024-01-05,2026-09-18
+PRD-088,KMC,Z8.3 CHAIN 8SP GRAY,Parts,Parts,39.99,175,6922.25,3422.25,49.44,2024-01-27,2026-09-19
+PRD-063,Lezyne,"Lezyne, Femto USB Drive, Light, Front, Black",Accessories,Accessories,24.99,265,6455.35,3013.0,46.67,2024-01-02,2026-09-24
+PRD-071,QuadLock,Mag Universal Adaptor,Accessories,Accessories,29.99,221,6438.79,2993.4,46.49,2024-01-10,2026-09-30
+PRD-079,Lezyne,"Lezyne, Bike Tracking Tagger",Accessories,Accessories,22.99,270,6044.46,2817.96,46.62,2024-01-02,2026-09-28
+PRD-089,RFR,Pedals Flat RACE 2.0,Parts,Parts,49.99,104,5153.96,2553.96,49.55,2024-02-14,2026-09-28
+PRD-082,Pirelli,"Pirelli, Angel GT Urban, Hybrid Tire, 27.5''x2.125, Black",Parts,Parts,69.99,74,5138.66,2549.4,49.61,2024-01-02,2026-09-28
+PRD-077,Muc-Off,Bike Protect 500ml,Accessories,Accessories,22.99,184,4122.06,1923.26,46.66,2024-01-12,2026-09-23
+PRD-087,Jagwire,"Jagwire, Pro E-Bike, Disc Brake Pads, Shape: Shimano B-Type, Metallic, Pair",Parts,Parts,27.49,138,3747.42,1851.3,49.4,2024-01-03,2026-09-22
+PRD-081,EVO,"EVO, Ferguson, Fat Bike Tire, 24''x4.00, Clincher, Wire, 27TPI, Black",Parts,Parts,44.99,72,3185.28,1565.28,49.14,2024-01-04,2026-09-11
+PRD-076,WPL,FORKBOOST LUBE 120 ML,Accessories,Accessories,14.99,202,2973.98,1400.4,47.09,2024-01-24,2026-09-26
+PRD-086,Magura,Semi-Metallic Disc Brake Pads,Parts,Parts,19.99,140,2757.0,1358.4,49.27,2024-01-18,2026-09-22
+PRD-090,49N,High-Load Adjustable Kickstand,Parts,Parts,29.99,86,2579.14,1289.14,49.98,2024-01-02,2026-09-26
+PRD-085,EVO,"EVO, Presta, Tube, Length: 60mm, 700C, 28-32C",Parts,Parts,12.99,163,2094.23,1034.73,49.41,2024-01-02,2026-09-21
+PRD-084,49N,"STD Inner tubes - 27.5 x 1.95-2.4"" P/V48",Parts,Parts,9.99,171,1689.89,834.89,49.4,2024-01-03,2026-09-29

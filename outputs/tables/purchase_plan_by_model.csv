@@ -1,0 +1,225 @@
+product_id,brand,model,category,quarter,forecast_demand_units,opening_position_units,safety_stock_units,recommended_purchase_units
+PRD-001,Aventon,Level 3,Commuter,2026Q4,6.8,8.0,5,4
+PRD-001,Aventon,Level 3,Commuter,2027Q1,5.4,5.162544485292122,5,6
+PRD-001,Aventon,Level 3,Commuter,2027Q2,24.1,5.718403047780585,5,24
+PRD-001,Aventon,Level 3,Commuter,2027Q3,20.4,5.569264218244182,5,20
+PRD-002,Aventon,Level 3 Step Through,Commuter,2026Q4,6.2,3.0,4,8
+PRD-002,Aventon,Level 3 Step Through,Commuter,2027Q1,4.9,4.81999213093711,4,5
+PRD-002,Aventon,Level 3 Step Through,Commuter,2027Q2,21.8,4.899325831647836,4,21
+PRD-002,Aventon,Level 3 Step Through,Commuter,2027Q3,18.4,4.072219581874553,4,19
+PRD-003,Aventon,Level 4 ADV High-Step,Commuter,2026Q4,3.0,3.0,3,4
+PRD-003,Aventon,Level 4 ADV High-Step,Commuter,2027Q1,2.4,3.9757408300330535,3,2
+PRD-003,Aventon,Level 4 ADV High-Step,Commuter,2027Q2,10.7,3.567755194210643,3,11
+PRD-003,Aventon,Level 4 ADV High-Step,Commuter,2027Q3,9.0,3.886405327300313,3,9
+PRD-004,Aventon,Level 4 REC Step-Through,Commuter,2026Q4,3.7,4.0,3,3
+PRD-004,Aventon,Level 4 REC Step-Through,Commuter,2027Q1,2.9,3.3182931843880654,3,3
+PRD-004,Aventon,Level 4 REC Step-Through,Commuter,2027Q2,13.0,3.386832410343392,3,13
+PRD-004,Aventon,Level 4 REC Step-Through,Commuter,2027Q3,11.0,3.3834499636699444,3,11
+PRD-005,Aventon,Pace 500.3 Step Through,Comfort/Step-Through,2026Q4,8.3,4.0,5,10
+PRD-005,Aventon,Pace 500.3 Step Through,Comfort/Step-Through,2027Q1,6.6,5.716159664873148,5,6
+PRD-005,Aventon,Pace 500.3 Step Through,Comfort/Step-Through,2027Q2,29.3,5.120372923272632,5,30
+PRD-005,Aventon,Pace 500.3 Step Through,Comfort/Step-Through,2027Q3,24.7,5.862762418257375,5,24
+PRD-006,Aventon,Pace 4 Step Through (500.4),Comfort/Step-Through,2026Q4,4.2,5.0,4,4
+PRD-006,Aventon,Pace 4 Step Through (500.4),Comfort/Step-Through,2027Q1,3.4,4.792335067872075,4,3
+PRD-006,Aventon,Pace 4 Step Through (500.4),Comfort/Step-Through,2027Q2,14.9,4.442094183249591,4,15
+PRD-006,Aventon,Pace 4 Step Through (500.4),Comfort/Step-Through,2027Q3,12.5,4.581085672765651,4,12
+PRD-007,Aventon,Pace 5 REC Step-Through,Comfort/Step-Through,2026Q4,2.1,4.0,3,2
+PRD-007,Aventon,Pace 5 REC Step-Through,Comfort/Step-Through,2027Q1,1.7,3.8961675339360373,3,1
+PRD-007,Aventon,Pace 5 REC Step-Through,Comfort/Step-Through,2027Q2,7.4,3.221047091624795,3,8
+PRD-007,Aventon,Pace 5 REC Step-Through,Comfort/Step-Through,2027Q3,6.3,3.7905428363828255,3,6
+PRD-008,Aventon,Soltera.2 High-Step,Commuter,2026Q4,6.6,4.0,4,7
+PRD-008,Aventon,Soltera.2 High-Step,Commuter,2027Q1,5.2,4.425523543550116,4,5
+PRD-008,Aventon,Soltera.2 High-Step,Commuter,2027Q2,23.2,4.1907721613274855,4,24
+PRD-008,Aventon,Soltera.2 High-Step,Commuter,2027Q3,19.6,4.9704463636963325,4,19
+PRD-009,Aventon,Soltera 2.5,Commuter,2026Q4,2.0,4.0,3,1
+PRD-009,Aventon,Soltera 2.5,Commuter,2027Q1,1.6,3.027657063065035,3,2
+PRD-009,Aventon,Soltera 2.5,Commuter,2027Q2,7.0,3.457231648398246,3,7
+PRD-009,Aventon,Soltera 2.5,Commuter,2027Q3,5.9,3.491133909108898,3,6
+PRD-010,Aventon,Aventure 3,Fat Tire,2026Q4,5.1,3.0,4,7
+PRD-010,Aventon,Aventure 3,Fat Tire,2027Q1,4.1,4.871908363969092,4,4
+PRD-010,Aventon,Aventure 3,Fat Tire,2027Q2,18.1,4.788802285835438,4,18
+PRD-010,Aventon,Aventure 3,Fat Tire,2027Q3,15.3,4.676948163683136,4,15
+PRD-011,Aventon,Aventure 3 Step-Through,Fat Tire,2026Q4,3.7,5.0,3,2
+PRD-011,Aventon,Aventure 3 Step-Through,Fat Tire,2027Q1,2.9,3.3182931843880654,3,3
+PRD-011,Aventon,Aventure 3 Step-Through,Fat Tire,2027Q2,13.0,3.386832410343392,3,13
+PRD-011,Aventon,Aventure 3 Step-Through,Fat Tire,2027Q3,11.0,3.3834499636699444,3,11
+PRD-012,Aventon,Abound SR,Cargo/Family,2026Q4,1.4,3.0,3,2
+PRD-012,Aventon,Abound SR,Cargo/Family,2027Q1,1.2,3.553615179581026,3,1
+PRD-012,Aventon,Abound SR,Cargo/Family,2027Q2,5.1,3.401969875492047,3,5
+PRD-012,Aventon,Abound SR,Cargo/Family,2027Q3,4.3,3.2934982000131923,3,5
+PRD-013,Aventon,Ramblas Mountain E-Bike,Mountain,2026Q4,2.5,4.0,3,2
+PRD-013,Aventon,Ramblas Mountain E-Bike,Mountain,2027Q1,2.0,3.5016989465490442,3,2
+PRD-013,Aventon,Ramblas Mountain E-Bike,Mountain,2027Q2,8.8,3.5124934213044448,3,9
+PRD-013,Aventon,Ramblas Mountain E-Bike,Mountain,2027Q3,7.4,3.6887696182046046,3,7
+PRD-014,Aventon,Current ADV,Commuter,2026Q4,0.8,2.0,2,1
+PRD-014,Aventon,Current ADV,Commuter,2027Q1,0.6,2.211062825226014,2,1
+PRD-014,Aventon,Current ADV,Commuter,2027Q2,2.8,2.582892659359298,2,3
+PRD-014,Aventon,Current ADV,Commuter,2027Q3,2.3,2.7964535636435595,2,2
+PRD-015,Aventon,Sinch.2 Step-Through,Folding,2026Q4,3.0,3.0,3,4
+PRD-015,Aventon,Sinch.2 Step-Through,Folding,2027Q1,2.4,3.9757408300330535,3,2
+PRD-015,Aventon,Sinch.2 Step-Through,Folding,2027Q2,10.7,3.567755194210643,3,11
+PRD-015,Aventon,Sinch.2 Step-Through,Folding,2027Q3,9.0,3.886405327300313,3,9
+PRD-016,Velotric,Discover 2 Step-Through,Commuter,2026Q4,3.4,3.0,4,5
+PRD-016,Velotric,Discover 2 Step-Through,Commuter,2027Q1,2.9,4.602699898442564,4,3
+PRD-016,Velotric,Discover 2 Step-Through,Commuter,2027Q2,12.9,4.6774769893588,4,13
+PRD-016,Velotric,Discover 2 Step-Through,Commuter,2027Q3,10.7,4.821787882085211,4,10
+PRD-017,Velotric,Discover 3,Commuter,2026Q4,3.3,4.0,3,3
+PRD-017,Velotric,Discover 3,Commuter,2027Q1,2.8,3.715943235161145,3,3
+PRD-017,Velotric,Discover 3,Commuter,2027Q2,12.4,3.888227756380173,3,12
+PRD-017,Velotric,Discover 3,Commuter,2027Q3,10.3,3.4610616193490333,3,10
+PRD-018,Velotric,Nomad 2 High-Step,Fat Tire,2026Q4,2.6,5.0,4,2
+PRD-018,Velotric,Nomad 2 High-Step,Fat Tire,2027Q1,2.2,4.395403255472631,4,2
+PRD-018,Velotric,Nomad 2 High-Step,Fat Tire,2027Q2,9.9,4.152732358508412,4,10
+PRD-018,Velotric,Nomad 2 High-Step,Fat Tire,2027Q3,8.2,4.2967040429319905,4,8
+PRD-019,Velotric,Nomad 2X Step-Through,Fat Tire,2026Q4,1.8,4.0,3,1
+PRD-019,Velotric,Nomad 2X Step-Through,Fat Tire,2027Q1,1.6,3.1881066125027004,3,2
+PRD-019,Velotric,Nomad 2X Step-Through,Fat Tire,2027Q2,6.9,3.627987727658026,3,7
+PRD-019,Velotric,Nomad 2X Step-Through,Fat Tire,2027Q3,5.7,3.7716202037787756,3,5
+PRD-020,Velotric,Fold 1 Plus,Folding,2026Q4,3.3,4.0,3,3
+PRD-020,Velotric,Fold 1 Plus,Folding,2027Q1,2.8,3.715943235161145,3,3
+PRD-020,Velotric,Fold 1 Plus,Folding,2027Q2,12.4,3.888227756380173,3,12
+PRD-020,Velotric,Fold 1 Plus,Folding,2027Q3,10.3,3.4610616193490333,3,10
+PRD-021,Velotric,Breeze Step-Through,Comfort/Step-Through,2026Q4,3.5,3.0,2,3
+PRD-021,Velotric,Breeze Step-Through,Comfort/Step-Through,2027Q1,3.0,2.4894565617239826,2,3
+PRD-021,Velotric,Breeze Step-Through,Comfort/Step-Through,2027Q2,13.3,2.4667262223374258,2,13
+PRD-021,Velotric,Breeze Step-Through,Comfort/Step-Through,2027Q3,11.1,2.182514144821381,2,11
+PRD-022,Velotric,Summit 2,Mountain,2026Q4,1.6,4.0,3,1
+PRD-022,Velotric,Summit 2,Mountain,2027Q1,1.4,3.414593285939863,3,1
+PRD-022,Velotric,Summit 2,Mountain,2027Q2,6.0,3.0494892617007725,3,6
+PRD-022,Velotric,Summit 2,Mountain,2027Q3,5.0,3.0501676783064298,3,5
+PRD-023,Velotric,Tempo 2 High-Step,Commuter,2026Q4,2.5,5.0,3,1
+PRD-023,Velotric,Tempo 2 High-Step,Commuter,2027Q1,2.1,3.508646592191213,3,2
+PRD-023,Velotric,Tempo 2 High-Step,Commuter,2027Q2,9.4,3.3634831255297857,3,10
+PRD-023,Velotric,Tempo 2 High-Step,Commuter,2027Q3,7.8,3.9359777801958185,3,7
+PRD-024,Velotric,Triker Electric Tricycle,Cargo/Family,2026Q4,1.2,3.0,2,1
+PRD-024,Velotric,Triker Electric Tricycle,Cargo/Family,2027Q1,1.1,2.7543232960956066,2,1
+PRD-024,Velotric,Triker Electric Tricycle,Cargo/Family,2027Q2,4.7,2.681741562764893,2,5
+PRD-024,Velotric,Triker Electric Tricycle,Cargo/Family,2027Q3,3.9,2.9679888900979092,2,3
+PRD-025,NCM,Milano T7s,Commuter,2026Q4,4.5,3.0,3,5
+PRD-025,NCM,Milano T7s,Commuter,2027Q1,3.5,3.5304498102612785,3,3
+PRD-025,NCM,Milano T7s,Commuter,2027Q2,14.5,3.0626873627982465,3,15
+PRD-025,NCM,Milano T7s,Commuter,2027Q3,11.8,3.5863784862222516,3,12
+PRD-026,NCM,Milano Plus,Commuter,2026Q4,3.3,2.0,2,4
+PRD-026,NCM,Milano Plus,Commuter,2027Q1,2.5,2.7223298608582707,2,2
+PRD-026,NCM,Milano Plus,Commuter,2027Q2,10.6,2.1793040660520466,2,11
+PRD-026,NCM,Milano Plus,Commuter,2027Q3,8.7,2.5633442232296524,2,9
+PRD-027,NCM,Moscow M3,Mountain,2026Q4,3.4,2.0,3,5
+PRD-027,NCM,Moscow M3,Mountain,2027Q1,2.7,3.5733448545336466,3,3
+PRD-027,NCM,Moscow M3,Mountain,2027Q2,11.1,3.9147269781453216,3,11
+PRD-027,NCM,Moscow M3,Mountain,2027Q3,9.1,3.816223506103725,3,9
+PRD-028,NCM,Aspen Plus Electric Fat Bike,Fat Tire,2026Q4,4.6,4.0,3,4
+PRD-028,NCM,Aspen Plus Electric Fat Bike,Fat Tire,2027Q1,3.6,3.3814648039366544,3,4
+PRD-028,NCM,Aspen Plus Electric Fat Bike,Fat Tire,2027Q2,15.0,3.7981102748915214,3,15
+PRD-028,NCM,Aspen Plus Electric Fat Bike,Fat Tire,2027Q3,12.2,3.839257769096328,3,12
+PRD-029,NCM,Paris,Comfort/Step-Through,2026Q4,3.3,3.0,2,3
+PRD-029,NCM,Paris,Comfort/Step-Through,2027Q1,2.5,2.7223298608582707,2,2
+PRD-029,NCM,Paris,Comfort/Step-Through,2027Q2,10.6,2.1793040660520466,2,11
+PRD-029,NCM,Paris,Comfort/Step-Through,2027Q3,8.7,2.5633442232296524,2,9
+PRD-030,ET Cycles,F720 Matte Black,Fat Tire,2026Q4,2.9,2.0,2,3
+PRD-030,ET Cycles,F720 Matte Black,Fat Tire,2027Q1,2.8,2.1101359227182535,2,3
+PRD-030,ET Cycles,F720 Matte Black,Fat Tire,2027Q2,9.2,2.351251457257669,2,9
+PRD-030,ET Cycles,F720 Matte Black,Fat Tire,2027Q3,7.5,2.124976544823788,2,8
+PRD-031,ET Cycles,T720,Commuter,2026Q4,2.5,2.0,3,4
+PRD-031,ET Cycles,T720,Commuter,2027Q1,2.4,3.4870747154071764,3,2
+PRD-031,ET Cycles,T720,Commuter,2027Q2,8.0,3.0880447454414512,3,8
+PRD-031,ET Cycles,T720,Commuter,2027Q3,6.5,3.065196995498944,3,7
+PRD-032,Stromer,ST1X,Speed Pedelec,2026Q4,1.4,4.0,4,2
+PRD-032,Stromer,ST1X,Speed Pedelec,2027Q1,0.9,4.583194006891862,4,1
+PRD-032,Stromer,ST1X,Speed Pedelec,2027Q2,6.8,4.643525152597642,4,7
+PRD-032,Stromer,ST1X,Speed Pedelec,2027Q3,4.3,4.828722706300086,4,4
+PRD-033,Stromer,ST2 Beltdrive,Speed Pedelec,2026Q4,1.1,3.0,4,3
+PRD-033,Stromer,ST2 Beltdrive,Speed Pedelec,2027Q1,0.7,4.910149236070664,4,0
+PRD-033,Stromer,ST2 Beltdrive,Speed Pedelec,2027Q2,5.2,4.187327040459726,4,6
+PRD-033,Stromer,ST2 Beltdrive,Speed Pedelec,2027Q3,3.3,4.945171312538529,4,3
+PRD-034,Stromer,ST3,Speed Pedelec,2026Q4,2.1,3.0,3,3
+PRD-034,Stromer,ST3,Speed Pedelec,2027Q1,1.4,3.9292835485342605,3,1
+PRD-034,Stromer,ST3,Speed Pedelec,2027Q2,10.0,3.555921376873478,3,10
+PRD-034,Stromer,ST3,Speed Pedelec,2027Q3,6.2,3.5958254938232024,3,6
+PRD-035,Stromer,ST5 ABS Graphite,Speed Pedelec,2026Q4,0.8,2.0,2,1
+PRD-035,Stromer,ST5 ABS Graphite,Speed Pedelec,2027Q1,0.5,2.2371044652494643,2,1
+PRD-035,Stromer,ST5 ABS Graphite,Speed Pedelec,2027Q2,3.7,2.7311289283218074,2,3
+PRD-035,Stromer,ST5 ABS Graphite,Speed Pedelec,2027Q3,2.3,2.0616199187769686,2,3
+PRD-036,Gazelle,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,2026Q4,2.1,5.0,5,3
+PRD-036,Gazelle,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,2027Q1,1.7,5.871159259470842,5,1
+PRD-036,Gazelle,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,2027Q2,9.5,5.2088353922106325,5,10
+PRD-036,Gazelle,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,2027Q3,7.2,5.749001213870352,5,7
+PRD-037,Gazelle,Ultimate T10 Low-Step,Commuter,2026Q4,1.5,4.0,3,1
+PRD-037,Gazelle,Ultimate T10 Low-Step,Commuter,2027Q1,1.1,3.54342475648005,3,1
+PRD-037,Gazelle,Ultimate T10 Low-Step,Commuter,2027Q2,6.5,3.4060452683546436,3,7
+PRD-037,Gazelle,Ultimate T10 Low-Step,Commuter,2027Q3,5.0,3.933527146332347,3,5
+PRD-038,Gazelle,Arroyo C5 Bosch Smart System,Comfort/Step-Through,2026Q4,0.8,4.0,4,1
+PRD-038,Gazelle,Arroyo C5 Bosch Smart System,Comfort/Step-Through,2027Q1,0.6,4.2156902534892575,4,1
+PRD-038,Gazelle,Arroyo C5 Bosch Smart System,Comfort/Step-Through,2027Q2,3.5,4.603255144498654,4,3
+PRD-038,Gazelle,Arroyo C5 Bosch Smart System,Comfort/Step-Through,2027Q3,2.7,4.11805307879434,4,3
+PRD-039,Bulls,Iconic Evo 1 Diamond Smart System 750,Commuter,2026Q4,1.7,3.0,3,2
+PRD-039,Bulls,Iconic Evo 1 Diamond Smart System 750,Commuter,2027Q1,0.8,3.3018857155174364,3,1
+PRD-039,Bulls,Iconic Evo 1 Diamond Smart System 750,Commuter,2027Q2,7.4,3.4531788668593237,3,7
+PRD-039,Bulls,Iconic Evo 1 Diamond Smart System 750,Commuter,2027Q3,4.7,3.100288104469324,3,5
+PRD-040,Bulls,Copperhead Evo 2 Wave Smart System 750,Mountain,2026Q4,0.7,5.0,3,0
+PRD-040,Bulls,Copperhead Evo 2 Wave Smart System 750,Mountain,2027Q1,0.3,4.346879121352861,3,0
+PRD-040,Bulls,Copperhead Evo 2 Wave Smart System 750,Mountain,2027Q2,2.8,4.02045341033051,3,2
+PRD-040,Bulls,Copperhead Evo 2 Wave Smart System 750,Mountain,2027Q3,1.8,3.1924185017189717,3,2
+PRD-041,Bulls,Grinder Evo Bosch Speed,Gravel & Road,2026Q4,0.5,2.0,2,1
+PRD-041,Bulls,Grinder Evo Bosch Speed,Gravel & Road,2027Q1,0.3,2.477503297082288,2,0
+PRD-041,Bulls,Grinder Evo Bosch Speed,Gravel & Road,2027Q2,2.3,2.2163627282644076,2,3
+PRD-041,Bulls,Grinder Evo Bosch Speed,Gravel & Road,2027Q3,1.4,2.9539348013751767,2,1
+PRD-042,Bulls,Twenty4 E 32cm,Mountain,2026Q4,1.2,2.0,2,2
+PRD-042,Bulls,Twenty4 E 32cm,Mountain,2027Q1,0.6,2.8243824184351483,2,0
+PRD-042,Bulls,Twenty4 E 32cm,Mountain,2027Q2,5.1,2.2368161385949166,2,5
+PRD-042,Bulls,Twenty4 E 32cm,Mountain,2027Q3,3.3,2.1463533030941466,2,4
+PRD-043,Cube,Reaction Hybrid Pro 500,Mountain,2026Q4,1.4,5.0,3,0
+PRD-043,Cube,Reaction Hybrid Pro 500,Mountain,2027Q1,0.8,3.5889453937195688,3,1
+PRD-043,Cube,Reaction Hybrid Pro 500,Mountain,2027Q2,4.4,3.7808609150028953,3,4
+PRD-043,Cube,Reaction Hybrid Pro 500,Mountain,2027Q3,3.2,3.3401092204556306,3,3
+PRD-044,Cube,Touring Hybrid ONE 500 Easy Entry,Commuter,2026Q4,1.3,5.0,3,0
+PRD-044,Cube,Touring Hybrid ONE 500 Easy Entry,Commuter,2027Q1,0.7,3.730050854347612,3,0
+PRD-044,Cube,Touring Hybrid ONE 500 Easy Entry,Commuter,2027Q2,4.0,3.002774823502606,3,4
+PRD-044,Cube,Touring Hybrid ONE 500 Easy Entry,Commuter,2027Q3,2.9,3.0060982984100684,3,3
+PRD-045,Cube,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2026Q4,2.3,4.0,4,3
+PRD-045,Cube,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2027Q1,1.3,4.74231262995131,4,1
+PRD-045,Cube,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2027Q2,7.1,4.449377464004632,4,7
+PRD-045,Cube,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2027Q3,5.1,4.344174752729009,4,5
+PRD-046,Cube,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,2026Q4,1.0,3.0,3,1
+PRD-046,Cube,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,2027Q1,0.6,3.0122617756036982,3,1
+PRD-046,Cube,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,2027Q2,3.1,3.446602640502027,3,3
+PRD-046,Cube,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,2027Q3,2.2,3.3380764543189416,3,2
+PRD-047,Cannondale,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2026Q4,1.5,4.0,4,2
+PRD-047,Cannondale,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2027Q1,1.3,4.50897743334073,4,1
+PRD-047,Cannondale,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2027Q2,8.2,4.236174630213,4,8
+PRD-047,Cannondale,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2027Q3,7.0,4.078160871431464,4,7
+PRD-048,Cannondale,Moterra Neo 4 Bosch Smart System,Mountain,2026Q4,0.2,4.0,2,0
+PRD-048,Cannondale,Moterra Neo 4 Bosch Smart System,Mountain,2027Q1,0.1,3.824585580393027,2,0
+PRD-048,Cannondale,Moterra Neo 4 Bosch Smart System,Mountain,2027Q2,1.0,3.6748440741427055,2,0
+PRD-048,Cannondale,Moterra Neo 4 Bosch Smart System,Mountain,2027Q3,0.8,2.715077749580172,2,1
+PRD-049,Tern,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,2026Q4,0.8,3.0,2,0
+PRD-049,Tern,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,2027Q1,0.9,2.221082513212175,2,1
+PRD-049,Tern,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,2027Q2,2.6,2.3550700102613207,2,3
+PRD-049,Tern,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,2027Q3,2.4,2.7238728958412124,2,2
+PRD-050,Tern,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,2026Q4,0.1,3.0,1,0
+PRD-050,Tern,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,2027Q1,0.1,2.8701804188686957,1,0
+PRD-050,Tern,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,2027Q2,0.4,2.72584500171022,1,0
+PRD-050,Tern,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,2027Q3,0.4,2.2873121493068687,1,0
+PRD-051,Tern,Quick Haul D8,Cargo/Family,2026Q4,0.3,2.0,1,0
+PRD-051,Tern,Quick Haul D8,Cargo/Family,2027Q1,0.3,1.7403608377373916,1,0
+PRD-051,Tern,Quick Haul D8,Cargo/Family,2027Q2,0.9,1.45169000342044,1,1
+PRD-051,Tern,Quick Haul D8,Cargo/Family,2027Q3,0.8,1.5746242986137373,1,1
+PRD-052,Tern,Vektron Q9 Satin Red 400Wh,Folding,2026Q4,0.3,2.0,1,0
+PRD-052,Tern,Vektron Q9 Satin Red 400Wh,Folding,2027Q1,0.3,1.7403608377373916,1,0
+PRD-052,Tern,Vektron Q9 Satin Red 400Wh,Folding,2027Q2,0.9,1.45169000342044,1,1
+PRD-052,Tern,Vektron Q9 Satin Red 400Wh,Folding,2027Q3,0.8,1.5746242986137373,1,1
+PRD-053,Yuba,Spicy Curry V4 Cargo eBike,Cargo/Family,2026Q4,1.0,3.0,2,1
+PRD-053,Yuba,Spicy Curry V4 Cargo eBike,Cargo/Family,2027Q1,0.5,2.973576452951753,2,0
+PRD-053,Yuba,Spicy Curry V4 Cargo eBike,Cargo/Family,2027Q2,2.2,2.5174927133275116,2,2
+PRD-053,Yuba,Spicy Curry V4 Cargo eBike,Cargo/Family,2027Q3,1.2,2.2851931660711347,2,1
+PRD-054,Urtopia,Carbon Classic,Commuter,2026Q4,0.2,2.0,2,1
+PRD-054,Urtopia,Carbon Classic,Commuter,2027Q1,0.5,2.7973416452513873,2,0
+PRD-054,Urtopia,Carbon Classic,Commuter,2027Q2,2.2,2.295798771211668,2,2
+PRD-054,Urtopia,Carbon Classic,Commuter,2027Q3,3.6,2.082351903542607,2,4
+PRD-055,Argon18,Subito Gravel Everlasting Green,Gravel & Road,2026Q4,0.6,3.0,1,0
+PRD-055,Argon18,Subito Gravel Everlasting Green,Gravel & Road,2027Q1,0.1,2.4033406686382124,1,0
+PRD-055,Argon18,Subito Gravel Everlasting Green,Gravel & Road,2027Q2,1.9,2.2851469191579694,1,1
+PRD-055,Argon18,Subito Gravel Everlasting Green,Gravel & Road,2027Q3,2.5,1.3995880826243288,1,3
+PRD-056,Teewing,Turbo Force XT,Mountain,2026Q4,0.1,3.0,2,0
+PRD-056,Teewing,Turbo Force XT,Mountain,2027Q1,0.7,2.8807892030890514,2,0
+PRD-056,Teewing,Turbo Force XT,Mountain,2027Q2,1.5,2.1771040834292523,2,2
+PRD-056,Teewing,Turbo Force XT,Mountain,2027Q3,1.5,2.6634132102572137,2,1

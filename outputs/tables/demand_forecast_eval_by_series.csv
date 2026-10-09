@@ -1,0 +1,45 @@
+level,series,method,actual_units,forecast_units,abs_error
+category,Cargo/Family,Top-down (Prophet total x shrunk shares),28.0,37.298794511320146,17.454020994853288
+category,Cargo/Family,Seasonal naive,28.0,45.0,23.0
+category,Comfort/Step-Through,Top-down (Prophet total x shrunk shares),200.0,164.39142227656345,52.17666768060282
+category,Comfort/Step-Through,Seasonal naive,200.0,171.0,75.0
+category,Commuter,Top-down (Prophet total x shrunk shares),366.0,345.29401436676835,97.12763806901471
+category,Commuter,Seasonal naive,366.0,369.0,87.0
+category,Fat Tire,Top-down (Prophet total x shrunk shares),143.0,131.38223865047522,34.38067227030206
+category,Fat Tire,Seasonal naive,143.0,137.0,30.0
+category,Folding,Top-down (Prophet total x shrunk shares),43.0,34.31253334473319,13.35478461258764
+category,Folding,Seasonal naive,43.0,37.0,16.0
+category,Gravel & Road,Top-down (Prophet total x shrunk shares),18.0,8.814930626499413,12.159312667970378
+category,Gravel & Road,Seasonal naive,18.0,10.0,14.0
+category,Mountain,Top-down (Prophet total x shrunk shares),75.0,78.07253857321719,20.337775605015466
+category,Mountain,Seasonal naive,75.0,74.0,31.0
+category,Speed Pedelec,Top-down (Prophet total x shrunk shares),45.0,37.96059869908287,21.676574176539248
+category,Speed Pedelec,Seasonal naive,45.0,37.0,24.0
+brand,Argon18,Top-down (Prophet total x shrunk shares),7.0,2.476885832601615,5.730617748371614
+brand,Argon18,Seasonal naive,7.0,3.0,6.0
+brand,Aventon,Top-down (Prophet total x shrunk shares),397.0,378.35620325824146,90.66934200803058
+brand,Aventon,Seasonal naive,397.0,401.0,88.0
+brand,Bulls,Top-down (Prophet total x shrunk shares),29.0,26.274659246711316,12.54587529137886
+brand,Bulls,Seasonal naive,29.0,24.0,13.0
+brand,Cannondale,Top-down (Prophet total x shrunk shares),16.0,16.33104624439216,12.363388257209522
+brand,Cannondale,Seasonal naive,16.0,20.0,16.0
+brand,Cube,Top-down (Prophet total x shrunk shares),40.0,27.45100956674161,22.313068924367474
+brand,Cube,Seasonal naive,40.0,25.0,19.0
+brand,ET Cycles,Top-down (Prophet total x shrunk shares),33.0,32.03224001421068,14.469392800604474
+brand,ET Cycles,Seasonal naive,33.0,31.0,16.0
+brand,Gazelle,Top-down (Prophet total x shrunk shares),37.0,31.54503763609933,12.115863122446534
+brand,Gazelle,Seasonal naive,37.0,31.0,10.0
+brand,NCM,Top-down (Prophet total x shrunk shares),110.0,113.66627197647561,18.232914014919242
+brand,NCM,Seasonal naive,110.0,127.0,41.0
+brand,Stromer,Top-down (Prophet total x shrunk shares),45.0,37.96059869908287,21.67657417653925
+brand,Stromer,Seasonal naive,45.0,37.0,24.0
+brand,Teewing,Top-down (Prophet total x shrunk shares),1.0,4.271412475590132,5.133711476701943
+brand,Teewing,Seasonal naive,1.0,4.0,5.0
+brand,Tern,Top-down (Prophet total x shrunk shares),10.0,9.307560622049982,10.080811016441896
+brand,Tern,Seasonal naive,10.0,11.0,11.0
+brand,Urtopia,Top-down (Prophet total x shrunk shares),7.0,4.931660937679712,5.063075712850702
+brand,Urtopia,Seasonal naive,7.0,6.0,5.0
+brand,Velotric,Top-down (Prophet total x shrunk shares),184.0,148.901144170833,46.54580524110963
+brand,Velotric,Seasonal naive,184.0,155.0,31.0
+brand,Yuba,Top-down (Prophet total x shrunk shares),2.0,4.021340367950311,3.8797532631789395
+brand,Yuba,Seasonal naive,2.0,5.0,5.0

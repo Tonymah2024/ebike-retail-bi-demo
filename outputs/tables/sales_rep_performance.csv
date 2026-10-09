@@ -1,0 +1,7 @@
+sales_rep_id,role,transactions,bikes,net_sales,gross_margin_pct,avg_bike_discount_pct
+REP-02,Sales Expert,1379,613,1776216.48,29.27,2.35
+REP-01,Sales Expert,1410,641,1752014.64,29.49,2.29
+REP-04,Sales Expert,887,393,1130572.42,29.23,2.65
+REP-03,Sales Expert,392,201,551987.98,29.07,2.67
+REP-06,Sales Expert (seasonal),286,142,405470.24,29.37,2.41
+REP-05,Sales Expert (seasonal),281,136,375281.5,28.69,2.46

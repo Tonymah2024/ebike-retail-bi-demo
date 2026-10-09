@@ -1,0 +1,12 @@
+table,action,rows_affected
+sales_transactions,Standardised DD/MM/YYYY dates to ISO,40
+sales_transactions,Brand standardised from product master,185
+sales_transactions,Category label standardised from product master,25
+sales_transactions,Recomputed gross sales (units x price mismatch),12
+sales_transactions,Removed duplicate rows (identical after standardisation),45
+sales_transactions,Removed duplicate line_id rows keeping most complete record,0
+sales_transactions,Missing payment method set to 'Unknown' (not recoverable),30
+service_orders,Swapped received/completed dates where completed < received,9
+service_orders,Out-of-range satisfaction set to missing,7
+customers,Trimmed whitespace in customer_id,15
+customers,Removed duplicate customer records,15

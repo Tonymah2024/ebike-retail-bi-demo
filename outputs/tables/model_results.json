@@ -1,0 +1,519 @@
+{
+  "chosen": {
+    "retail_revenue": "Prophet",
+    "bike_units": "Prophet",
+    "service_revenue": "Prophet",
+    "bike_demand_unconstrained": "Prophet"
+  },
+  "fc_totals": {
+    "retail_revenue": 2568240.368809553,
+    "bike_units": 889.9354478277438,
+    "service_revenue": 706198.953779663,
+    "bike_demand_unconstrained": 1107.2944832040118
+  },
+  "fc_lo": {
+    "retail_revenue": 2323011.030424396,
+    "bike_units": 806.2309848469288,
+    "service_revenue": 637328.7354053631,
+    "bike_demand_unconstrained": 1014.4150459640292
+  },
+  "fc_hi": {
+    "retail_revenue": 3034014.369736665,
+    "bike_units": 1061.4171707921028,
+    "service_revenue": 793675.7796278929,
+    "bike_demand_unconstrained": 1306.6011593027504
+  },
+  "comparison": [
+    {
+      "target": "bike_units",
+      "model": "Prophet",
+      "holdout_MAE": 7.63587132633045,
+      "holdout_RMSE": 10.00186588200475,
+      "holdout_WAPE": 0.08936650446940708,
+      "holdout_bias_pct": -5.345662699272033,
+      "rolling_WAPE": 0.10734003781896524,
+      "pi80_coverage_holdout": 0.8888888888888888,
+      "combined_WAPE": 0.09835327114418616,
+      "skill_vs_naive_pct": 24.233485964379653
+    },
+    {
+      "target": "bike_units",
+      "model": "Ensemble (mean)",
+      "holdout_MAE": 8.734659667472426,
+      "holdout_RMSE": 11.268699085817243,
+      "holdout_WAPE": 0.10222618596521696,
+      "holdout_bias_pct": -9.410000985969907,
+      "rolling_WAPE": 0.10416807079861454,
+      "pi80_coverage_holdout": 1.0,
+      "combined_WAPE": 0.10319712838191575,
+      "skill_vs_naive_pct": 20.502017014547224
+    },
+    {
+      "target": "bike_units",
+      "model": "XGBoost",
+      "holdout_MAE": 10.27393192715115,
+      "holdout_RMSE": 12.029539703707638,
+      "holdout_WAPE": 0.12024107587042959,
+      "holdout_bias_pct": -12.024107587042959,
+      "rolling_WAPE": 0.11036506497482369,
+      "pi80_coverage_holdout": 1.0,
+      "combined_WAPE": 0.11530307042262664,
+      "skill_vs_naive_pct": 11.17619574931169
+    },
+    {
+      "target": "bike_units",
+      "model": "Seasonal naive",
+      "holdout_MAE": 10.777777777777779,
+      "holdout_RMSE": 11.73314393786536,
+      "holdout_WAPE": 0.12613784135240572,
+      "holdout_bias_pct": -5.591677503250976,
+      "rolling_WAPE": 0.1334841628959276,
+      "pi80_coverage_holdout": 0.6666666666666666,
+      "combined_WAPE": 0.12981100212416666,
+      "skill_vs_naive_pct": 0.0
+    },
+    {
+      "target": "bike_units",
+      "model": "SARIMA",
+      "holdout_MAE": 11.592368884282237,
+      "holdout_RMSE": 14.042055514301067,
+      "holdout_WAPE": 0.13567141737131358,
+      "holdout_bias_pct": -10.860232671594737,
+      "rolling_WAPE": 0.13348205314138553,
+      "pi80_coverage_holdout": 0.6666666666666666,
+      "combined_WAPE": 0.13457673525634956,
+      "skill_vs_naive_pct": -3.6712859882434223
+    },
+    {
+      "target": "retail_revenue",
+      "model": "Prophet",
+      "holdout_MAE": 26197.407999934403,
+      "holdout_RMSE": 32669.293314863564,
+      "holdout_WAPE": 0.10765757820754918,
+      "holdout_bias_pct": -8.861687395835194,
+      "rolling_WAPE": 0.11207327222234137,
+      "pi80_coverage_holdout": 0.7777777777777778,
+      "combined_WAPE": 0.10986542521494527,
+      "skill_vs_naive_pct": 20.358627921066674
+    },
+    {
+      "target": "retail_revenue",
+      "model": "Ensemble (mean)",
+      "holdout_MAE": 33577.07247929092,
+      "holdout_RMSE": 39191.53391074441,
+      "holdout_WAPE": 0.13798412065914537,
+      "holdout_bias_pct": -12.6531019577472,
+      "rolling_WAPE": 0.12517085146419196,
+      "pi80_coverage_holdout": 1.0,
+      "combined_WAPE": 0.13157748606166866,
+      "skill_vs_naive_pct": 4.619569767773202
+    },
+    {
+      "target": "retail_revenue",
+      "model": "Seasonal naive",
+      "holdout_MAE": 32540.631111111128,
+      "holdout_RMSE": 36136.39030602287,
+      "holdout_WAPE": 0.13372489136239074,
+      "holdout_bias_pct": -8.019327935821774,
+      "rolling_WAPE": 0.14217549143376854,
+      "pi80_coverage_holdout": 0.6666666666666666,
+      "combined_WAPE": 0.13795019139807962,
+      "skill_vs_naive_pct": 0.0
+    },
+    {
+      "target": "retail_revenue",
+      "model": "SARIMA",
+      "holdout_MAE": 40078.02818348064,
+      "holdout_RMSE": 46505.65554418563,
+      "holdout_WAPE": 0.16469963187114658,
+      "holdout_bias_pct": -14.38344044863653,
+      "rolling_WAPE": 0.13742395632046148,
+      "pi80_coverage_holdout": 0.6666666666666666,
+      "combined_WAPE": 0.15106179409580403,
+      "skill_vs_naive_pct": -9.504591885551328
+    },
+    {
+      "target": "retail_revenue",
+      "model": "XGBoost",
+      "holdout_MAE": 36787.89291666668,
+      "holdout_RMSE": 41589.73759792948,
+      "holdout_WAPE": 0.15117890513355003,
+      "holdout_bias_pct": -14.714178028769867,
+      "rolling_WAPE": 0.1554711160278111,
+      "pi80_coverage_holdout": 1.0,
+      "combined_WAPE": 0.15332501058068057,
+      "skill_vs_naive_pct": -11.145195977462752
+    },
+    {
+      "target": "service_revenue",
+      "model": "Prophet",
+      "holdout_MAE": 4023.62500021418,
+      "holdout_RMSE": 5156.351220688195,
+      "holdout_WAPE": 0.06389207831462554,
+      "holdout_bias_pct": -3.858290701212325,
+      "rolling_WAPE": 0.06494397221278556,
+      "pi80_coverage_holdout": 0.6666666666666666,
+      "combined_WAPE": 0.06441802526370555,
+      "skill_vs_naive_pct": 49.212613625098264
+    },
+    {
+      "target": "service_revenue",
+      "model": "SARIMA",
+      "holdout_MAE": 6496.551018023852,
+      "holdout_RMSE": 8233.856317376665,
+      "holdout_WAPE": 0.10316024639384767,
+      "holdout_bias_pct": -3.8053596157362404,
+      "rolling_WAPE": 0.1000514260755246,
+      "pi80_coverage_holdout": 0.8888888888888888,
+      "combined_WAPE": 0.10160583623468614,
+      "skill_vs_naive_pct": 19.893619190102473
+    },
+    {
+      "target": "service_revenue",
+      "model": "Ensemble (mean)",
+      "holdout_MAE": 7912.24309815301,
+      "holdout_RMSE": 9538.588921351287,
+      "holdout_WAPE": 0.12564035059048442,
+      "holdout_bias_pct": -11.756924520869566,
+      "rolling_WAPE": 0.10624715496852291,
+      "pi80_coverage_holdout": 1.0,
+      "combined_WAPE": 0.11594375277950367,
+      "skill_vs_naive_pct": 8.5895578750932
+    },
+    {
+      "target": "service_revenue",
+      "model": "Seasonal naive",
+      "holdout_MAE": 8071.872222222218,
+      "holdout_RMSE": 9914.550764684192,
+      "holdout_WAPE": 0.12817513862261515,
+      "holdout_bias_pct": -9.804422369879873,
+      "rolling_WAPE": 0.1255021220585521,
+      "pi80_coverage_holdout": 0.8888888888888888,
+      "combined_WAPE": 0.12683863034058362,
+      "skill_vs_naive_pct": 0.0
+    },
+    {
+      "target": "service_revenue",
+      "model": "XGBoost",
+      "holdout_MAE": 17385.678194444437,
+      "holdout_RMSE": 18855.192329263395,
+      "holdout_WAPE": 0.27607123245660137,
+      "holdout_bias_pct": -27.607123245660137,
+      "rolling_WAPE": 0.16720095839821503,
+      "pi80_coverage_holdout": 1.0,
+      "combined_WAPE": 0.2216360954274082,
+      "skill_vs_naive_pct": -74.73863824631108
+    }
+  ],
+  "demand_eval": [
+    {
+      "level": "brand",
+      "method": "Seasonal naive",
+      "WAPE": 0.3159041394335512,
+      "total_bias_pct": -4.139433551198257
+    },
+    {
+      "level": "brand",
+      "method": "Top-down (Prophet total x shrunk shares)",
+      "WAPE": 0.3059043497321903,
+      "total_bias_pct": -8.766114264851865
+    },
+    {
+      "level": "category",
+      "method": "Seasonal naive",
+      "WAPE": 0.32679738562091504,
+      "total_bias_pct": -4.139433551198257
+    },
+    {
+      "level": "category",
+      "method": "Top-down (Prophet total x shrunk shares)",
+      "WAPE": 0.2926660632645813,
+      "total_bias_pct": -8.766114264851877
+    }
+  ],
+  "segments": [
+    {
+      "cluster": 0,
+      "customers": 707,
+      "recency_days": 92.0,
+      "frequency": 1.0396039603960396,
+      "monetary": 275.6672842998585,
+      "bike_owner_share": 0.0,
+      "service_visits": 0.7340876944837341,
+      "total_spend": 194896.77,
+      "spend_share": 0.02296878419079217,
+      "segment": "Active Service & Accessory Customers",
+      "strategy": "Own a bike bought elsewhere: convert to Prairie Pulse E-Bikes loyalty - service plan, test-ride invitation on an upgrade, trade-in offer."
+    },
+    {
+      "cluster": 1,
+      "customers": 994,
+      "recency_days": 124.5,
+      "frequency": 5.142857142857143,
+      "monetary": 3976.9210160965795,
+      "bike_owner_share": 0.9879275653923542,
+      "service_visits": 3.228370221327968,
+      "total_spend": 3953059.49,
+      "spend_share": 0.46587211434634324,
+      "segment": "Premium Loyalists",
+      "strategy": "Protect & grow: early access to new Stromer/Gazelle models, annual service plan, referral reward. Never discount-led."
+    },
+    {
+      "cluster": 2,
+      "customers": 1078,
+      "recency_days": 561.0,
+      "frequency": 1.00278293135436,
+      "monetary": 146.77431354359925,
+      "bike_owner_share": 0.0,
+      "service_visits": 0.0,
+      "total_spend": 158222.71,
+      "spend_share": 0.01864670861437208,
+      "segment": "Lapsed One-time Accessory Buyers",
+      "strategy": "Lowest value: low-cost email/social nurture only; include in seasonal newsletters and test-ride event invitations."
+    },
+    {
+      "cluster": 3,
+      "customers": 2718,
+      "recency_days": 697.5,
+      "frequency": 1.0055187637969094,
+      "monetary": 248.5102207505519,
+      "bike_owner_share": 0.0,
+      "service_visits": 1.0022075055187638,
+      "total_spend": 675450.78,
+      "spend_share": 0.07960256702726393,
+      "segment": "Lapsed Service-only Customers",
+      "strategy": "Single repair, never returned: spring tune-up reminder (Mar), battery health-check offer, review request if satisfied."
+    },
+    {
+      "cluster": 4,
+      "customers": 1222,
+      "recency_days": 130.0,
+      "frequency": 1.7127659574468086,
+      "monetary": 2867.1515302782323,
+      "bike_owner_share": 1.0,
+      "service_visits": 0.4001636661211129,
+      "total_spend": 3503659.17,
+      "spend_share": 0.41290982582122837,
+      "segment": "New E-Bike Buyers",
+      "strategy": "Onboarding journey: 30-day free check, accessory bundle, first-service reminder at 3 months to lock in the service relationship."
+    }
+  ],
+  "silhouette": {
+    "3": 0.5329737510024395,
+    "4": 0.45153718388587577,
+    "5": 0.47291038691179754,
+    "6": 0.46583130047493126,
+    "7": 0.4693810803228268
+  },
+  "k": 5,
+  "inventory_totals": [
+    {
+      "policy": "Current flat policy",
+      "lost_units": 388,
+      "lost_gross_profit": 126343.03000000001,
+      "avg_inventory_value": 418008.30802631576,
+      "holding_cost": 57979.716166666665,
+      "ordering_cost": 26880.0,
+      "total_cost_of_policy": 211202.74616666668,
+      "units_sold": 2953,
+      "fill_rate": 0.8838671056569889
+    },
+    {
+      "policy": "Recommended seasonal policy",
+      "lost_units": 14,
+      "lost_gross_profit": 3561.4000000000005,
+      "avg_inventory_value": 610848.9918421053,
+      "holding_cost": 84727.45273333335,
+      "ordering_cost": 20880.0,
+      "total_cost_of_policy": 109168.85273333333,
+      "units_sold": 3327,
+      "fill_rate": 0.9958096378329842
+    }
+  ],
+  "inventory_frontier": [
+    {
+      "service_target": "Lean (A80/B75/C70)",
+      "lost_gross_profit": 18495.870000000003,
+      "avg_inventory_value": 507784.8679385965,
+      "holding_cost": 70431.9706,
+      "ordering_cost": 19980.0,
+      "total_cost": 108907.8406,
+      "fill_rate": 0.9904220293325352
+    },
+    {
+      "service_target": "Balanced (A90/B85/C80)",
+      "lost_gross_profit": 8876.94,
+      "avg_inventory_value": 570564.4016666666,
+      "holding_cost": 79139.79773333334,
+      "ordering_cost": 20340.0,
+      "total_cost": 108356.73773333334,
+      "fill_rate": 0.993415145166118
+    },
+    {
+      "service_target": "Recommended (A95/B92/C85)",
+      "lost_gross_profit": 3561.4000000000005,
+      "avg_inventory_value": 610848.9918421053,
+      "holding_cost": 84727.45273333335,
+      "ordering_cost": 20880.0,
+      "total_cost": 109168.85273333333,
+      "fill_rate": 0.9958096378329842
+    },
+    {
+      "service_target": "High (A98/B95/C90)",
+      "lost_gross_profit": 2671.2200000000003,
+      "avg_inventory_value": 689820.5635964914,
+      "holding_cost": 95681.19133333334,
+      "ordering_cost": 21000.0,
+      "total_cost": 119352.41133333334,
+      "fill_rate": 0.9964082609997007
+    },
+    {
+      "service_target": "Current flat policy",
+      "lost_gross_profit": 126343.03000000001,
+      "avg_inventory_value": 418008.30802631576,
+      "holding_cost": 57979.716166666665,
+      "ordering_cost": 26880.0,
+      "total_cost": 211202.74616666668,
+      "fill_rate": 0.8838671056569889
+    }
+  ],
+  "scenarios": [
+    {
+      "index": "Conservative",
+      "bike_units": 818.7406120015244,
+      "revenue": 3035966.9860066185,
+      "retail_revenue": 2350954.0008403454,
+      "service_revenue": 685012.9851662731,
+      "gross_profit": 1049189.1417311975,
+      "gross_margin_pct": 34.55864792229695,
+      "operating_expenses": 1107891.1392284837,
+      "operating_profit": -58701.99749728618,
+      "operating_margin_pct": -1.9335519051378185,
+      "inventory_investment": 409373.4858379389,
+      "inventory_holding_cost": 70695.38955849671,
+      "assumptions": "Bike demand -8% (weak spring/consumer slowdown), supplier costs +3% (CAD/USD, tariffs), +1pt discounting, service -3%."
+    },
+    {
+      "index": "Base",
+      "bike_units": 889.9354478277438,
+      "revenue": 3274439.322589216,
+      "retail_revenue": 2568240.368809553,
+      "service_revenue": 706198.953779663,
+      "gross_profit": 1185729.2101216884,
+      "gross_margin_pct": 36.21167147431182,
+      "operating_expenses": 1120075.411657409,
+      "operating_profit": 65653.79846427939,
+      "operating_margin_pct": 2.005039397473537,
+      "inventory_investment": 414370.25500000006,
+      "inventory_holding_cost": 71558.28995304165,
+      "assumptions": "Model 1 (Prophet) 12-month forecast, TTM cost structure, opex inflation +2.5%."
+    },
+    {
+      "index": "Optimistic",
+      "bike_units": 994.8736319918734,
+      "revenue": 3717389.741791726,
+      "retail_revenue": 2940570.8926340966,
+      "service_revenue": 776818.8491576293,
+      "gross_profit": 1400768.2457349224,
+      "gross_margin_pct": 37.681500811904996,
+      "operating_expenses": 1137840.5476604307,
+      "operating_profit": 262927.6980744917,
+      "operating_margin_pct": 7.072911810096202,
+      "inventory_investment": 438120.20271421486,
+      "inventory_holding_cost": 68093.73720635004,
+      "assumptions": "Demand +6%, +2% price realisation, -1pt discounting, service +10%, carrying cost -10%, lead conversion +10%, 5% mix shift to higher-margin brands."
+    }
+  ],
+  "sensitivity": [
+    {
+      "sensitivity": "5% price increase (no volume response)",
+      "delta_revenue": 128412.01844047755,
+      "delta_gross_profit": 120485.96436847025,
+      "delta_operating_profit": 115735.70605882537,
+      "delta_inventory_investment": 0.0,
+      "operating_profit": 181389.50452310476,
+      "gross_margin_pct": 38.38590180947786
+    },
+    {
+      "sensitivity": "5% price increase (elasticity -1.2)",
+      "delta_revenue": -17621.97723455075,
+      "delta_gross_profit": 73721.56166218454,
+      "delta_operating_profit": 80042.83067594236,
+      "delta_inventory_investment": -11954.483585890557,
+      "operating_profit": 145696.62914022175,
+      "gross_margin_pct": 38.67121297361918
+    },
+    {
+      "sensitivity": "10% increase in bike sales volume",
+      "delta_revenue": 244569.72494322062,
+      "delta_gross_profit": 70441.82583044725,
+      "delta_operating_profit": 51558.530481447,
+      "delta_inventory_investment": 20224.934862522,
+      "operating_profit": 117212.32894572639,
+      "gross_margin_pct": 35.69672652114876
+    },
+    {
+      "sensitivity": "10% reduction in inventory carrying costs",
+      "delta_revenue": 0.0,
+      "delta_gross_profit": 0.0,
+      "delta_operating_profit": 7155.828995304182,
+      "delta_inventory_investment": 0.0,
+      "operating_profit": 72809.62745958357,
+      "gross_margin_pct": 36.21167147431182
+    },
+    {
+      "sensitivity": "15% increase in repair & maintenance revenue",
+      "delta_revenue": 105929.8430669494,
+      "delta_gross_profit": 64515.34786319034,
+      "delta_operating_profit": 64515.34786319034,
+      "delta_inventory_investment": 0.0,
+      "operating_profit": 130169.14632746973,
+      "gross_margin_pct": 36.985444391313784
+    },
+    {
+      "sensitivity": "20% improvement in qualified lead conversion",
+      "delta_revenue": 391311.55990915326,
+      "delta_gross_profit": 112706.92132871575,
+      "delta_operating_profit": 82569.58611600171,
+      "delta_inventory_investment": 31920.167869870143,
+      "operating_profit": 148223.3845802811,
+      "gross_margin_pct": 35.42074115427788
+    }
+  ],
+  "mc": {
+    "0.1": {
+      "revenue": 2937444.164285682,
+      "gross_profit": 1059950.1826454897,
+      "operating_profit": -42248.13940206007
+    },
+    "0.5": {
+      "revenue": 3283444.8898600256,
+      "gross_profit": 1170719.6152268394,
+      "operating_profit": 49144.509952623746
+    },
+    "0.9": {
+      "revenue": 3630971.063651186,
+      "gross_profit": 1286225.5288491687,
+      "operating_profit": 143788.60158416917
+    },
+    "prob_loss": {
+      "revenue": NaN,
+      "gross_profit": NaN,
+      "operating_profit": 0.2472
+    }
+  },
+  "base": {
+    "bike_units": 889.9354478277438,
+    "revenue": 3274439.322589216,
+    "retail_revenue": 2568240.368809553,
+    "service_revenue": 706198.953779663,
+    "gross_profit": 1185729.2101216884,
+    "gross_margin_pct": 36.21167147431182,
+    "operating_expenses": 1120075.411657409,
+    "operating_profit": 65653.79846427939,
+    "operating_margin_pct": 2.005039397473537,
+    "inventory_investment": 414370.25500000006,
+    "inventory_holding_cost": 71558.28995304165
+  },
+  "purchase_q4_2026_units": 136
+}

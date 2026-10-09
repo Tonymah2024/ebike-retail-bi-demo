@@ -1,0 +1,11 @@
+service_type,orders,revenue,gross_profit,avg_ticket,avg_labour_hours,avg_turnaround_days,avg_satisfaction,gross_profit_per_labour_hour
+Battery / Motor Service,449,467583.64,244254.91,1041.39,1.94,11.27,4.22,280.89
+Electrical Diagnostics,913,265625.36,168823.13,290.94,1.6,9.89,4.21,115.66
+Deluxe Tune-up,699,253852.43,174214.75,363.17,2.14,6.82,4.21,116.62
+Drivetrain Repair,622,204212.51,122140.19,328.32,1.38,6.1,4.19,141.9
+Quick 7-Point Tune-up,1711,185797.89,128333.17,108.59,0.78,5.89,4.16,96.22
+Brake Service,699,135829.14,86175.31,194.32,0.96,5.7,4.17,128.0
+Flat Tire Repair,1023,106906.26,53462.89,104.5,0.49,3.88,4.18,106.03
+Warranty Repair,263,43322.4,27095.49,164.72,1.74,15.87,4.15,59.22
+Accessory Installation,289,24791.25,17793.23,85.78,0.68,4.44,4.2,90.76
+Pre-Storage Winter Inspection,273,22712.09,15602.83,83.19,0.67,4.5,4.38,84.93

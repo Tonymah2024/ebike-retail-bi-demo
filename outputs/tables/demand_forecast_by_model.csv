@@ -1,0 +1,673 @@
+month,product_id,brand,forecast_units,model,category,retail_price_cad,est_purchase_cost_cad,history_units,forecast_reliability
+2026-10-01,PRD-055,Argon18,0.5017890166606129,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2026-10-01,PRD-001,Aventon,2.916076535194629,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2026-10-01,PRD-002,Aventon,2.6356845606566837,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2026-10-01,PRD-003,Aventon,1.2898030828745475,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2026-10-01,PRD-004,Aventon,1.5701950574124925,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2026-10-01,PRD-005,Aventon,3.532938879178108,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2026-10-01,PRD-006,Aventon,1.7945086370428485,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2026-10-01,PRD-007,Aventon,0.8972543185214242,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2026-10-01,PRD-008,Aventon,2.803919745379451,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2026-10-01,PRD-009,Aventon,0.8411759236138353,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2026-10-01,PRD-010,Aventon,2.1870574013959714,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2026-10-01,PRD-011,Aventon,1.5701950574124925,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2026-10-01,PRD-012,Aventon,0.6168623439834792,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2026-10-01,PRD-013,Aventon,1.0654895032441913,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2026-10-01,PRD-014,Aventon,0.3364703694455341,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2026-10-01,PRD-015,Aventon,1.2898030828745475,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2026-10-01,PRD-039,Bulls,0.5449404062997321,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2026-10-01,PRD-040,Bulls,0.20959246396143538,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2026-10-01,PRD-041,Bulls,0.1676739711691483,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2026-10-01,PRD-042,Bulls,0.3772664351305837,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2026-10-01,PRD-047,Cannondale,0.21510805511831524,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2026-10-01,PRD-048,Cannondale,0.02530683001391944,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2026-10-01,PRD-043,Cube,0.643601508733119,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2026-10-01,PRD-044,Cube,0.5792413578598071,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2026-10-01,PRD-045,Cube,1.0297624139729906,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2026-10-01,PRD-046,Cube,0.4505210561131834,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2026-10-01,PRD-030,ET Cycles,0.975830686262583,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2026-10-01,PRD-031,ET Cycles,0.8485484228370287,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2026-10-01,PRD-036,Gazelle,0.8910524864930616,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2026-10-01,PRD-037,Gazelle,0.6096674907584105,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2026-10-01,PRD-038,Gazelle,0.3282824950237595,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2026-10-01,PRD-025,NCM,2.2718773204698466,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2026-10-01,PRD-026,NCM,1.6660433683445541,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2026-10-01,PRD-027,NCM,1.7417726123602157,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2026-10-01,PRD-028,NCM,2.3476065644855084,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2026-10-01,PRD-029,NCM,1.6660433683445541,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2026-10-01,PRD-032,Stromer,0.9797315437990829,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2026-10-01,PRD-033,Stromer,0.7536396490762176,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2026-10-01,PRD-034,Stromer,1.4319153332448133,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2026-10-01,PRD-035,Stromer,0.5275477543533523,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2026-10-01,PRD-056,Teewing,0.046233631756198976,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2026-10-01,PRD-049,Tern,0.08069870270172913,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2026-10-01,PRD-050,Tern,0.013449783783621522,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2026-10-01,PRD-051,Tern,0.026899567567243043,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2026-10-01,PRD-052,Tern,0.026899567567243043,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2026-10-01,PRD-054,Urtopia,0.07859717398553827,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2026-10-01,PRD-016,Velotric,1.1988719009248903,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2026-10-01,PRD-017,Velotric,1.158909504227394,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2026-10-01,PRD-018,Velotric,0.919135124042416,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2026-10-01,PRD-019,Velotric,0.6393983471599416,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2026-10-01,PRD-020,Velotric,1.158909504227394,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2026-10-01,PRD-021,Velotric,1.2388342976223867,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2026-10-01,PRD-022,Velotric,0.5594735537649489,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2026-10-01,PRD-023,Velotric,0.8791727273449196,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2026-10-01,PRD-024,Velotric,0.4395863636724598,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2026-10-01,PRD-053,Yuba,0.9388509488625474,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2026-11-01,PRD-055,Argon18,0.04754103509241619,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2026-11-01,PRD-001,Aventon,2.0252200471286157,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2026-11-01,PRD-002,Aventon,1.8304873502893255,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2026-11-01,PRD-003,Aventon,0.8957704054607339,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2026-11-01,PRD-004,Aventon,1.0905031023000238,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2026-11-01,PRD-005,Aventon,2.4536319801750537,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2026-11-01,PRD-006,Aventon,1.2462892597714557,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2026-11-01,PRD-007,Aventon,0.6231446298857278,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2026-11-01,PRD-008,Aventon,1.9473269683928998,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2026-11-01,PRD-009,Aventon,0.58419809051787,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2026-11-01,PRD-010,Aventon,1.5189150353464616,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2026-11-01,PRD-011,Aventon,1.0905031023000238,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2026-11-01,PRD-012,Aventon,0.42841193304643793,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2026-11-01,PRD-013,Aventon,0.739984247989302,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2026-11-01,PRD-014,Aventon,0.23367923620714795,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2026-11-01,PRD-015,Aventon,0.8957704054607339,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2026-11-01,PRD-039,Bulls,0.7240550763967557,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2026-11-01,PRD-040,Bulls,0.27848272169105986,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2026-11-01,PRD-041,Bulls,0.22278617735284792,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2026-11-01,PRD-042,Bulls,0.5012688990439078,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2026-11-01,PRD-047,Cannondale,0.7953275133868125,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2026-11-01,PRD-048,Cannondale,0.0935679427513897,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2026-11-01,PRD-043,Cube,0.509077994823553,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2026-11-01,PRD-044,Cube,0.45817019534119774,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2026-11-01,PRD-045,Cube,0.8145247917176849,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2026-11-01,PRD-046,Cube,0.35635459637648714,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2026-11-01,PRD-030,ET Cycles,1.1456057060939955,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2026-11-01,PRD-031,ET Cycles,0.996178874864344,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2026-11-01,PRD-036,Gazelle,0.8750113484537503,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2026-11-01,PRD-037,Gazelle,0.5986919752578291,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2026-11-01,PRD-038,Gazelle,0.32237260206190804,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2026-11-01,PRD-025,NCM,1.2238388096266464,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2026-11-01,PRD-026,NCM,0.8974817937262073,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2026-11-01,PRD-027,NCM,0.9382764207137622,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2026-11-01,PRD-028,NCM,1.2646334366142011,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2026-11-01,PRD-029,NCM,0.8974817937262073,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2026-11-01,PRD-032,Stromer,0.31150697279602224,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2026-11-01,PRD-033,Stromer,0.23962074830463248,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2026-11-01,PRD-034,Stromer,0.4552794217788017,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2026-11-01,PRD-035,Stromer,0.16773452381324272,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2026-11-01,PRD-056,Teewing,0.036570026994166296,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2026-11-01,PRD-049,Tern,0.44495749208174706,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2026-11-01,PRD-050,Tern,0.07415958201362452,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2026-11-01,PRD-051,Tern,0.14831916402724904,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2026-11-01,PRD-052,Tern,0.14831916402724904,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2026-11-01,PRD-054,Urtopia,0.06216904589008271,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2026-11-01,PRD-016,Velotric,1.10166760343987,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2026-11-01,PRD-017,Velotric,1.0649453499918744,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2026-11-01,PRD-018,Velotric,0.8446118293039004,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2026-11-01,PRD-019,Velotric,0.5875560551679307,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2026-11-01,PRD-020,Velotric,1.0649453499918744,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2026-11-01,PRD-021,Velotric,1.1383898568878659,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2026-11-01,PRD-022,Velotric,0.5141115482719395,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2026-11-01,PRD-023,Velotric,0.8078895758559048,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2026-11-01,PRD-024,Velotric,0.4039447879279524,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2026-11-01,PRD-053,Yuba,0.04388403239299955,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2026-12-01,PRD-055,Argon18,0.047329279608758365,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2026-12-01,PRD-001,Aventon,1.896158932384634,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2026-12-01,PRD-002,Aventon,1.7138359581168807,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2026-12-01,PRD-003,Aventon,0.8386856816316651,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2026-12-01,PRD-004,Aventon,1.0210086558994182,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2026-12-01,PRD-005,Aventon,2.297269475773691,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2026-12-01,PRD-006,Aventon,1.166867035313621,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2026-12-01,PRD-007,Aventon,0.5834335176568105,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2026-12-01,PRD-008,Aventon,1.8232297426775328,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2026-12-01,PRD-009,Aventon,0.5469689228032598,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2026-12-01,PRD-010,Aventon,1.4221191992884754,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2026-12-01,PRD-011,Aventon,1.0210086558994182,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2026-12-01,PRD-012,Aventon,0.4011105433890572,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2026-12-01,PRD-013,Aventon,0.6928273022174625,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2026-12-01,PRD-014,Aventon,0.21878756912130393,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2026-12-01,PRD-015,Aventon,0.8386856816316651,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2026-12-01,PRD-039,Bulls,0.4291188017860758,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2026-12-01,PRD-040,Bulls,0.16504569299464453,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2026-12-01,PRD-041,Bulls,0.13203655439571563,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2026-12-01,PRD-042,Bulls,0.2970822473903602,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2026-12-01,PRD-047,Cannondale,0.4805869981541426,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2026-12-01,PRD-048,Cannondale,0.05653964684166383,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2026-12-01,PRD-043,Cube,0.258375102723759,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2026-12-01,PRD-044,Cube,0.2325375924513831,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2026-12-01,PRD-045,Cube,0.4134001643580144,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2026-12-01,PRD-046,Cube,0.1808625719066313,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2026-12-01,PRD-030,ET Cycles,0.7684276849251683,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2026-12-01,PRD-031,ET Cycles,0.6681979868914508,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2026-12-01,PRD-036,Gazelle,0.3627769055823462,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2026-12-01,PRD-037,Gazelle,0.24821577750371054,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2026-12-01,PRD-038,Gazelle,0.1336546494250749,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2026-12-01,PRD-025,NCM,0.9738340596422288,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2026-12-01,PRD-026,NCM,0.7141449770709678,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2026-12-01,PRD-027,NCM,0.7466061123923754,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2026-12-01,PRD-028,NCM,1.0062951949636363,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2026-12-01,PRD-029,NCM,0.7141449770709678,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2026-12-01,PRD-032,Stromer,0.1255674765130324,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2026-12-01,PRD-033,Stromer,0.09659036654848646,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2026-12-01,PRD-034,Stromer,0.18352169644212427,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2026-12-01,PRD-035,Stromer,0.06761325658394052,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2026-12-01,PRD-056,Teewing,0.03640713816058336,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2026-12-01,PRD-049,Tern,0.25326129200434894,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2026-12-01,PRD-050,Tern,0.04221021533405816,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2026-12-01,PRD-051,Tern,0.08442043066811632,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2026-12-01,PRD-052,Tern,0.08442043066811632,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2026-12-01,PRD-054,Urtopia,0.06189213487299171,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2026-12-01,PRD-016,Velotric,1.096760597192676,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2026-12-01,PRD-017,Velotric,1.0602019106195868,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2026-12-01,PRD-018,Velotric,0.8408497911810516,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2026-12-01,PRD-019,Velotric,0.5849389851694272,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2026-12-01,PRD-020,Velotric,1.0602019106195868,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2026-12-01,PRD-021,Velotric,1.133319283765765,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2026-12-01,PRD-022,Velotric,0.5118216120232488,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2026-12-01,PRD-023,Velotric,0.8042911046079624,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2026-12-01,PRD-024,Velotric,0.4021455523039812,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2026-12-01,PRD-053,Yuba,0.04368856579270002,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-01-01,PRD-055,Argon18,0.036167537746923245,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-01-01,PRD-001,Aventon,1.4184076130908412,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-01-01,PRD-002,Aventon,1.28202226567826,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-01-01,PRD-003,Aventon,0.627372598097872,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-01-01,PRD-004,Aventon,0.7637579455104528,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-01-01,PRD-005,Aventon,1.718455377398519,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-01-01,PRD-006,Aventon,0.8728662234405176,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-01-01,PRD-007,Aventon,0.4364331117202588,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-01-01,PRD-008,Aventon,1.3638534741258088,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-01-01,PRD-009,Aventon,0.40915604223774266,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-01-01,PRD-010,Aventon,1.0638057098181308,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-01-01,PRD-011,Aventon,0.7637579455104528,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-01-01,PRD-012,Aventon,0.30004776430767793,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-01-01,PRD-013,Aventon,0.5182643201678073,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-01-01,PRD-014,Aventon,0.16366241689509706,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-01-01,PRD-015,Aventon,0.627372598097872,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-01-01,PRD-039,Bulls,0.10500252894268039,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-01-01,PRD-040,Bulls,0.040385588054877075,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-01-01,PRD-041,Bulls,0.03230847044390166,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-01-01,PRD-042,Bulls,0.07269405849877873,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-01-01,PRD-047,Cannondale,0.12944171404162003,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-01-01,PRD-048,Cannondale,0.015228436946072944,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-01-01,PRD-043,Cube,0.13415992634328794,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-01-01,PRD-044,Cube,0.12074393370895914,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-01-01,PRD-045,Cube,0.2146558821492607,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-01-01,PRD-046,Cube,0.09391194844030155,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-01-01,PRD-030,ET Cycles,0.5872081200063076,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-01-01,PRD-031,ET Cycles,0.510615756527224,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-01-01,PRD-036,Gazelle,0.2772226312088954,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-01-01,PRD-037,Gazelle,0.18967864240608634,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-01-01,PRD-038,Gazelle,0.10213465360327725,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-01-01,PRD-025,NCM,0.7441731715018978,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-01-01,PRD-026,NCM,0.545726992434725,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-01-01,PRD-027,NCM,0.5705327648181217,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-01-01,PRD-028,NCM,0.7689789438852944,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-01-01,PRD-029,NCM,0.545726992434725,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-01-01,PRD-032,Stromer,0.37801227887328487,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-01-01,PRD-033,Stromer,0.290778676056373,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-01-01,PRD-034,Stromer,0.5524794845071086,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-01-01,PRD-035,Stromer,0.20354507323946106,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-01-01,PRD-056,Teewing,0.29360621668399745,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-01-01,PRD-049,Tern,0.048560610121743085,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-01-01,PRD-050,Tern,0.008093435020290515,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-01-01,PRD-051,Tern,0.01618687004058103,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-01-01,PRD-052,Tern,0.01618687004058103,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-01-01,PRD-054,Urtopia,0.0472960108998227,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-01-01,PRD-016,Velotric,1.0325865955018394,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-01-01,PRD-017,Velotric,0.9981670423184447,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-01-01,PRD-018,Velotric,0.7916497232180769,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-01-01,PRD-019,Velotric,0.5507128509343143,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-01-01,PRD-020,Velotric,0.9981670423184447,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-01-01,PRD-021,Velotric,1.067006148685234,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-01-01,PRD-022,Velotric,0.4818737445675251,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-01-01,PRD-023,Velotric,0.7572301700346822,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-01-01,PRD-024,Velotric,0.3786150850173411,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-01-01,PRD-053,Yuba,0.03338541945869838,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-02-01,PRD-055,Argon18,0.03480956531302423,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-02-01,PRD-001,Aventon,1.3357220870350497,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-02-01,PRD-002,Aventon,1.207287270973987,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-02-01,PRD-003,Aventon,0.5908001538808874,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-02-01,PRD-004,Aventon,0.7192349699419498,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-02-01,PRD-005,Aventon,1.618278682369387,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-02-01,PRD-006,Aventon,0.8219828227907998,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-02-01,PRD-007,Aventon,0.4109914113953999,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-02-01,PRD-008,Aventon,1.2843481606106246,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-02-01,PRD-009,Aventon,0.38530444818318743,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-02-01,PRD-010,Aventon,1.0017915652762872,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-02-01,PRD-011,Aventon,0.7192349699419498,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-02-01,PRD-012,Aventon,0.2825565953343374,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-02-01,PRD-013,Aventon,0.4880523010320374,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-02-01,PRD-014,Aventon,0.15412177927327494,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-02-01,PRD-015,Aventon,0.5908001538808874,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-02-01,PRD-039,Bulls,0.3156067255047531,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-02-01,PRD-040,Bulls,0.12138720211721274,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-02-01,PRD-041,Bulls,0.09710976169377018,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-02-01,PRD-042,Bulls,0.21849696381098294,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-02-01,PRD-047,Cannondale,0.3534603661649892,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-02-01,PRD-048,Cannondale,0.04158357248999873,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-02-01,PRD-043,Cube,0.25093488841037254,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-02-01,PRD-044,Cube,0.22584139956933527,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-02-01,PRD-045,Cube,0.401495821456596,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-02-01,PRD-046,Cube,0.17565442188726077,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-02-01,PRD-030,ET Cycles,0.2915077956726593,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-02-01,PRD-031,ET Cycles,0.2534850397153559,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-02-01,PRD-036,Gazelle,0.516060388005553,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-02-01,PRD-037,Gazelle,0.35309394968800994,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-02-01,PRD-038,Gazelle,0.1901275113704669,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-02-01,PRD-025,NCM,0.7761863650086845,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-02-01,PRD-026,NCM,0.569203334339702,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-02-01,PRD-027,NCM,0.5950762131733248,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-02-01,PRD-028,NCM,0.8020592438423074,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-02-01,PRD-029,NCM,0.569203334339702,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-02-01,PRD-032,Stromer,0.16021872034552517,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-02-01,PRD-033,Stromer,0.12324516949655782,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-02-01,PRD-034,Stromer,0.23416582204345984,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-02-01,PRD-035,Stromer,0.08627161864759048,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-02-01,PRD-056,Teewing,0.026776588702326336,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-02-01,PRD-049,Tern,0.18626768795472826,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-02-01,PRD-050,Tern,0.03104461465912138,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-02-01,PRD-051,Tern,0.06208922931824276,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-02-01,PRD-052,Tern,0.06208922931824276,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-02-01,PRD-054,Urtopia,0.04552020079395477,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-02-01,PRD-016,Velotric,0.5445966289535581,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-02-01,PRD-017,Velotric,0.5264434079884395,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-02-01,PRD-018,Velotric,0.4175240821977279,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-02-01,PRD-019,Velotric,0.29045153544189767,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-02-01,PRD-020,Velotric,0.5264434079884395,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-02-01,PRD-021,Velotric,0.5627498499186767,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-02-01,PRD-022,Velotric,0.2541450935116605,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-02-01,PRD-023,Velotric,0.3993708612326093,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-02-01,PRD-024,Velotric,0.19968543061630464,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-02-01,PRD-053,Yuba,0.032131906442791604,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-03-01,PRD-055,Argon18,0.047216646420295445,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-03-01,PRD-001,Aventon,2.690011737385646,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-03-01,PRD-002,Aventon,2.431356762637026,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-03-01,PRD-003,Aventon,1.1898128838436512,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-03-01,PRD-004,Aventon,1.4484678585922708,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-03-01,PRD-005,Aventon,3.2590526818326095,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-03-01,PRD-006,Aventon,1.6553918383911668,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-03-01,PRD-007,Aventon,0.8276959191955834,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-03-01,PRD-008,Aventon,2.586549747486198,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-03-01,PRD-009,Aventon,0.7759649242458595,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-03-01,PRD-010,Aventon,2.0175088030392345,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-03-01,PRD-011,Aventon,1.4484678585922708,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-03-01,PRD-012,Aventon,0.5690409444469635,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-03-01,PRD-013,Aventon,0.9828889040447554,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-03-01,PRD-014,Aventon,0.31038596969834376,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-03-01,PRD-015,Aventon,1.1898128838436512,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-03-01,PRD-039,Bulls,0.4280975942106787,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-03-01,PRD-040,Bulls,0.16465292085026104,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-03-01,PRD-041,Bulls,0.13172233668020883,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-03-01,PRD-042,Bulls,0.2963752575304699,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-03-01,PRD-047,Cannondale,0.7899007229211208,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-03-01,PRD-048,Cannondale,0.09292949681424949,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-03-01,PRD-043,Cube,0.422989663963013,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-03-01,PRD-044,Cube,0.3806906975667117,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-03-01,PRD-045,Cube,0.6767834623408209,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-03-01,PRD-046,Cube,0.2960927647741091,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-03-01,PRD-030,ET Cycles,1.8801685497816176,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-03-01,PRD-031,ET Cycles,1.6349291737231457,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-03-01,PRD-036,Gazelle,0.8690408480457612,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-03-01,PRD-037,Gazelle,0.5946068960313102,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-03-01,PRD-038,Gazelle,0.3201729440168594,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-03-01,PRD-025,NCM,1.9474029109524496,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-03-01,PRD-026,NCM,1.4280954680317963,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-03-01,PRD-027,NCM,1.4930088983968781,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-03-01,PRD-028,NCM,2.0123163413175313,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-03-01,PRD-029,NCM,1.4280954680317963,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-03-01,PRD-032,Stromer,0.40143785507540974,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-03-01,PRD-033,Stromer,0.3087983500580075,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-03-01,PRD-034,Stromer,0.5867168651102143,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-03-01,PRD-035,Stromer,0.21615884504060523,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-03-01,PRD-056,Teewing,0.38330231427347533,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-03-01,PRD-049,Tern,0.631184204874383,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-03-01,PRD-050,Tern,0.10519736747906383,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-03-01,PRD-051,Tern,0.21039473495812766,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-03-01,PRD-052,Tern,0.21039473495812766,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-03-01,PRD-054,Urtopia,0.408726662345942,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-03-01,PRD-016,Velotric,1.348039684628367,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-03-01,PRD-017,Velotric,1.3031050284740882,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-03-01,PRD-018,Velotric,1.033497091548415,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-03-01,PRD-019,Velotric,0.7189544984684625,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-03-01,PRD-020,Velotric,1.3031050284740882,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-03-01,PRD-021,Velotric,1.392974340782646,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-03-01,PRD-022,Velotric,0.6290851861599047,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-03-01,PRD-023,Velotric,0.9885624353941359,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-03-01,PRD-024,Velotric,0.49428121769706795,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-03-01,PRD-053,Yuba,0.3905664137227515,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-04-01,PRD-055,Argon18,0.38571401999710275,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-04-01,PRD-001,Aventon,5.795900174808066,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-04-01,PRD-002,Aventon,5.238602081076522,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-04-01,PRD-003,Aventon,2.5635712311651067,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-04-01,PRD-004,Aventon,3.1208693248966513,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-04-01,PRD-005,Aventon,7.021955981017466,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-04-01,PRD-006,Aventon,3.566707799881887,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-04-01,PRD-007,Aventon,1.7833538999409435,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-04-01,PRD-008,Aventon,5.572980937315449,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-04-01,PRD-009,Aventon,1.671894281194635,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-04-01,PRD-010,Aventon,4.34692513110605,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-04-01,PRD-011,Aventon,3.1208693248966513,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-04-01,PRD-012,Aventon,1.2260558062093987,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-04-01,PRD-013,Aventon,2.117732756179871,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-04-01,PRD-014,Aventon,0.6687577124778539,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-04-01,PRD-015,Aventon,2.5635712311651067,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-04-01,PRD-039,Bulls,1.9850270522269062,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-04-01,PRD-040,Bulls,0.7634719431641946,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-04-01,PRD-041,Bulls,0.6107775545313557,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-04-01,PRD-042,Bulls,1.3742494976955504,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-04-01,PRD-047,Cannondale,1.6842255305479337,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-04-01,PRD-048,Cannondale,0.19814418006446277,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-04-01,PRD-043,Cube,1.5455976415556067,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-04-01,PRD-044,Cube,1.391037877400046,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-04-01,PRD-045,Cube,2.472956226488971,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-04-01,PRD-046,Cube,1.0819183490889248,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-04-01,PRD-030,ET Cycles,2.5661024140219224,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-04-01,PRD-031,ET Cycles,2.231393403497324,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-04-01,PRD-036,Gazelle,2.6697810805790767,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-04-01,PRD-037,Gazelle,1.8266923182909471,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-04-01,PRD-038,Gazelle,0.9836035560028177,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-04-01,PRD-025,NCM,3.25823803708778,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-04-01,PRD-026,NCM,2.3893745605310386,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-04-01,PRD-027,NCM,2.4979824951006315,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-04-01,PRD-028,NCM,3.366845971657373,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-04-01,PRD-029,NCM,2.3893745605310386,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-04-01,PRD-032,Stromer,2.1042234485094915,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-04-01,PRD-033,Stromer,1.618633421930378,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-04-01,PRD-034,Stromer,3.075403501667718,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-04-01,PRD-035,Stromer,1.1330433953512644,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-04-01,PRD-056,Teewing,0.03553876105624411,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-04-01,PRD-049,Tern,0.8027883042959578,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-04-01,PRD-050,Tern,0.133798050715993,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-04-01,PRD-051,Tern,0.267596101431986,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-04-01,PRD-052,Tern,0.267596101431986,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-04-01,PRD-054,Urtopia,0.3999295244196004,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-04-01,PRD-016,Velotric,3.6045318421153105,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-04-01,PRD-017,Velotric,3.484380780711467,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-04-01,PRD-018,Velotric,2.763474412288405,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-04-01,PRD-019,Velotric,1.9224169824614992,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-04-01,PRD-020,Velotric,3.484380780711467,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-04-01,PRD-021,Velotric,3.724682903519154,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-04-01,PRD-022,Velotric,1.6821148596538118,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-04-01,PRD-023,Velotric,2.643323350884561,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-04-01,PRD-024,Velotric,1.3216616754422805,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-04-01,PRD-053,Yuba,0.3821601438914783,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-05-01,PRD-055,Argon18,0.37861694184782535,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-05-01,PRD-001,Aventon,8.794829643153633,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-05-01,PRD-002,Aventon,7.949172946696552,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-05-01,PRD-003,Aventon,3.8900208037025683,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-05-01,PRD-004,Aventon,4.735677500159649,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-05-01,PRD-005,Aventon,10.655274375359209,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-05-01,PRD-006,Aventon,5.412202857325313,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-05-01,PRD-007,Aventon,2.7061014286626563,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-05-01,PRD-008,Aventon,8.4565669645708,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-05-01,PRD-009,Aventon,2.5369700893712404,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-05-01,PRD-010,Aventon,6.596122232365224,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-05-01,PRD-011,Aventon,4.735677500159649,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-05-01,PRD-012,Aventon,1.8604447322055762,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-05-01,PRD-013,Aventon,3.2134954465369043,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-05-01,PRD-014,Aventon,1.014788035748496,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-05-01,PRD-015,Aventon,3.8900208037025683,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-05-01,PRD-039,Bulls,2.228016812131973,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-05-01,PRD-040,Bulls,0.8569295431276819,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-05-01,PRD-041,Bulls,0.6855436345021455,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-05-01,PRD-042,Bulls,1.5424731776298275,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-05-01,PRD-047,Cannondale,3.740537582217789,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-05-01,PRD-048,Cannondale,0.44006324496679866,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-05-01,PRD-043,Cube,1.437809686442704,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-05-01,PRD-044,Cube,1.2940287177984335,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-05-01,PRD-045,Cube,2.3004954983083263,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-05-01,PRD-046,Cube,1.0064667805098928,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-05-01,PRD-030,ET Cycles,3.766698802646984,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-05-01,PRD-031,ET Cycles,3.275390263171291,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-05-01,PRD-036,Gazelle,3.1077395240492662,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-05-01,PRD-037,Gazelle,2.1263480954021294,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-05-01,PRD-038,Gazelle,1.1449566667549929,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-05-01,PRD-025,NCM,5.775896073053326,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-05-01,PRD-026,NCM,4.2356571202391065,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-05-01,PRD-027,NCM,4.428186989340884,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-05-01,PRD-028,NCM,5.968425942155104,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-05-01,PRD-029,NCM,4.2356571202391065,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-05-01,PRD-032,Stromer,2.684429809415,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-05-01,PRD-033,Stromer,2.0649460072423076,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-05-01,PRD-034,Stromer,3.923397413760384,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-05-01,PRD-035,Stromer,1.445462205069615,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-05-01,PRD-056,Teewing,0.36815148583851814,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-05-01,PRD-049,Tern,0.7880171239977746,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-05-01,PRD-050,Tern,0.13133618733296243,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-05-01,PRD-051,Tern,0.26267237466592486,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-05-01,PRD-052,Tern,0.26267237466592486,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-05-01,PRD-054,Urtopia,1.3923707806160506,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-05-01,PRD-016,Velotric,4.513623549301891,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-05-01,PRD-017,Velotric,4.363169430991828,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-05-01,PRD-018,Velotric,3.46044472113145,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-05-01,PRD-019,Velotric,2.407265892961009,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-05-01,PRD-020,Velotric,4.363169430991828,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-05-01,PRD-021,Velotric,4.664077667611954,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-05-01,PRD-022,Velotric,2.1063576563408826,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-05-01,PRD-023,Velotric,3.309990602821387,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-05-01,PRD-024,Velotric,1.6549953014106935,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-05-01,PRD-053,Yuba,0.37512845651138954,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-06-01,PRD-055,Argon18,1.1212278746887125,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-06-01,PRD-001,Aventon,9.558409011574701,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-06-01,PRD-002,Aventon,8.63933122200021,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-06-01,PRD-003,Aventon,4.2277578320426565,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-06-01,PRD-004,Aventon,5.146835621617147,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-06-01,PRD-005,Aventon,11.58038014863858,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-06-01,PRD-006,Aventon,5.88209785327674,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-06-01,PRD-007,Aventon,2.94104892663837,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-06-01,PRD-008,Aventon,9.190777895744906,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-06-01,PRD-009,Aventon,2.757233368723472,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-06-01,PRD-010,Aventon,7.1688067586810265,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-06-01,PRD-011,Aventon,5.146835621617147,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-06-01,PRD-012,Aventon,2.021971137063879,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-06-01,PRD-013,Aventon,3.4924956003830645,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-06-01,PRD-014,Aventon,1.1028933474893887,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-06-01,PRD-015,Aventon,4.2277578320426565,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-06-01,PRD-039,Bulls,3.1398468980311205,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-06-01,PRD-040,Bulls,1.2076334223196616,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-06-01,PRD-041,Bulls,0.9661067378557293,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-06-01,PRD-042,Bulls,2.173740160175391,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-06-01,PRD-047,Cannondale,2.7332506460158124,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-06-01,PRD-048,Cannondale,0.32155889953127204,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-06-01,PRD-043,Cube,1.4573443665489536,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-06-01,PRD-044,Cube,1.3116099298940582,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-06-01,PRD-045,Cube,2.3317509864783257,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-06-01,PRD-046,Cube,1.0201410565842675,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-06-01,PRD-030,ET Cycles,2.8934736957649747,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-06-01,PRD-031,ET Cycles,2.5160640832738914,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-06-01,PRD-036,Gazelle,3.6823135737119372,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-06-01,PRD-037,Gazelle,2.5194777083292204,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-06-01,PRD-038,Gazelle,1.3566418429465033,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-06-01,PRD-025,NCM,5.442174766434888,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-06-01,PRD-026,NCM,3.990928162052251,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-06-01,PRD-027,NCM,4.17233398760008,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-06-01,PRD-028,NCM,5.623580591982717,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-06-01,PRD-029,NCM,3.990928162052251,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-06-01,PRD-032,Stromer,2.0261491883730662,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-06-01,PRD-033,Stromer,1.5585762987485126,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-06-01,PRD-034,Stromer,2.9612949676221736,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-06-01,PRD-035,Stromer,1.0910034091239587,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-06-01,PRD-056,Teewing,1.1100006262772768,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-06-01,PRD-049,Tern,1.0403916861263756,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-06-01,PRD-050,Tern,0.17339861435439594,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-06-01,PRD-051,Tern,0.34679722870879187,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-06-01,PRD-052,Tern,0.34679722870879187,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-06-01,PRD-054,Urtopia,0.4211465626334105,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-06-01,PRD-016,Velotric,4.73753371585639,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-06-01,PRD-017,Velotric,4.579615925327844,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-06-01,PRD-018,Velotric,3.6321091821565665,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-06-01,PRD-019,Velotric,2.5266846484567416,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-06-01,PRD-020,Velotric,4.579615925327844,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-06-01,PRD-021,Velotric,4.895451506384937,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-06-01,PRD-022,Velotric,2.210849067399649,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-06-01,PRD-023,Velotric,3.47419139162802,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-06-01,PRD-024,Velotric,1.73709569581401,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-06-01,PRD-053,Yuba,1.475010946853509,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-07-01,PRD-055,Argon18,0.7504786235062441,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-07-01,PRD-001,Aventon,8.301587619109831,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-07-01,PRD-002,Aventon,7.50335804034927,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-07-01,PRD-003,Aventon,3.6718560622985796,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-07-01,PRD-004,Aventon,4.47008564105914,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-07-01,PRD-005,Aventon,10.057692692383064,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-07-01,PRD-006,Aventon,5.108669304067589,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-07-01,PRD-007,Aventon,2.5543346520337944,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-07-01,PRD-008,Aventon,7.982295787605607,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-07-01,PRD-009,Aventon,2.394688736281682,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-07-01,PRD-010,Aventon,6.226190714332374,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-07-01,PRD-011,Aventon,4.47008564105914,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-07-01,PRD-012,Aventon,1.7561050732732335,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-07-01,PRD-013,Aventon,3.033272399290131,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-07-01,PRD-014,Aventon,0.9578754945126728,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-07-01,PRD-015,Aventon,3.6718560622985796,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-07-01,PRD-039,Bulls,1.317471942132733,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-07-01,PRD-040,Bulls,0.5067199777433588,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-07-01,PRD-041,Bulls,0.405375982194687,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-07-01,PRD-042,Bulls,0.9120959599380459,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-07-01,PRD-047,Cannondale,2.3715712921188823,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-07-01,PRD-048,Cannondale,0.2790083873081038,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-07-01,PRD-043,Cube,1.097505374880672,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-07-01,PRD-044,Cube,0.9877548373926048,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-07-01,PRD-045,Cube,1.7560085998090753,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-07-01,PRD-046,Cube,0.7682537624164705,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-07-01,PRD-030,ET Cycles,3.031295501500324,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-07-01,PRD-031,ET Cycles,2.6359091317394125,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-07-01,PRD-036,Gazelle,3.6185530795475884,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-07-01,PRD-037,Gazelle,2.475852107058876,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-07-01,PRD-038,Gazelle,1.3331511345701643,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-07-01,PRD-025,NCM,5.018565296972598,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-07-01,PRD-026,NCM,3.6802812177799056,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-07-01,PRD-027,NCM,3.847566727678992,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-07-01,PRD-028,NCM,5.185850806871685,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-07-01,PRD-029,NCM,3.6802812177799056,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-07-01,PRD-032,Stromer,1.618220626463597,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-07-01,PRD-033,Stromer,1.24478509727969,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-07-01,PRD-034,Stromer,2.3650916848314107,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-07-01,PRD-035,Stromer,0.8713495680957829,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-07-01,PRD-056,Teewing,0.3881109640674239,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-07-01,PRD-049,Tern,0.8307397836513537,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-07-01,PRD-050,Tern,0.13845663060855898,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-07-01,PRD-051,Tern,0.27691326121711796,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-07-01,PRD-052,Tern,0.27691326121711796,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-07-01,PRD-054,Urtopia,1.4678587124899978,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-07-01,PRD-016,Velotric,4.244182923793936,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-07-01,PRD-017,Velotric,4.10271015966747,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-07-01,PRD-018,Velotric,3.2538735749086842,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-07-01,PRD-019,Velotric,2.2635642260234325,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-07-01,PRD-020,Velotric,4.10271015966747,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-07-01,PRD-021,Velotric,4.3856556879204005,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-07-01,PRD-022,Velotric,1.9806186977705036,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-07-01,PRD-023,Velotric,3.1124008107822196,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-07-01,PRD-024,Velotric,1.5562004053911098,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-07-01,PRD-053,Yuba,0.7468010085593009,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-08-01,PRD-055,Argon18,1.3624169840912272,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-08-01,PRD-001,Aventon,7.82115076389273,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-08-01,PRD-002,Aventon,7.069117036595351,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-08-01,PRD-003,Aventon,3.459355145567938,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-08-01,PRD-004,Aventon,4.2113888728653155,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-08-01,PRD-005,Aventon,9.475624963946961,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-08-01,PRD-006,Aventon,4.8130158547032185,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-08-01,PRD-007,Aventon,2.4065079273516092,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-08-01,PRD-008,Aventon,7.520337272973779,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-08-01,PRD-009,Aventon,2.256101181892134,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-08-01,PRD-010,Aventon,5.865863072919547,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-08-01,PRD-011,Aventon,4.2113888728653155,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-08-01,PRD-012,Aventon,1.6544742000542312,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-08-01,PRD-013,Aventon,2.857728163730036,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-08-01,PRD-014,Aventon,0.9024404727568535,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-08-01,PRD-015,Aventon,3.459355145567938,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-08-01,PRD-039,Bulls,2.2021552981725683,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-08-01,PRD-040,Bulls,0.8469828069894493,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-08-01,PRD-041,Bulls,0.6775862455915594,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-08-01,PRD-042,Bulls,1.524569052581009,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-08-01,PRD-047,Cannondale,2.518220546514353,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-08-01,PRD-048,Cannondale,0.29626124076639443,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-08-01,PRD-043,Cube,1.656404911483405,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-08-01,PRD-044,Cube,1.4907644203350645,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-08-01,PRD-045,Cube,2.650247858373448,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-08-01,PRD-046,Cube,1.1594834380383836,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-08-01,PRD-030,ET Cycles,2.137269225156181,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-08-01,PRD-031,ET Cycles,1.8584949783966793,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-08-01,PRD-036,Gazelle,2.9111906246091346,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-08-01,PRD-037,Gazelle,1.991867269469408,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-08-01,PRD-038,Gazelle,1.0725439143296813,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-08-01,PRD-025,NCM,4.319203909212256,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-08-01,PRD-026,NCM,3.1674162000889874,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-08-01,PRD-027,NCM,3.311389663729396,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-08-01,PRD-028,NCM,4.463177372852664,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-08-01,PRD-029,NCM,3.1674162000889874,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-08-01,PRD-032,Stromer,0.9928343502858499,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-08-01,PRD-033,Stromer,0.7637187309891152,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-08-01,PRD-034,Stromer,1.451065588879319,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-08-01,PRD-035,Stromer,0.5346031116923806,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-08-01,PRD-056,Teewing,0.36387819905794044,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-08-01,PRD-049,Tern,1.1382138486353817,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-08-01,PRD-050,Tern,0.18970230810589697,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-08-01,PRD-051,Tern,0.37940461621179394,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-08-01,PRD-052,Tern,0.37940461621179394,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-08-01,PRD-054,Urtopia,1.3762089562601956,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-08-01,PRD-016,Velotric,3.352525683667546,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-08-01,PRD-017,Velotric,3.2407748275452946,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-08-01,PRD-018,Velotric,2.5702696908117857,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-08-01,PRD-019,Velotric,1.7880136979560248,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-08-01,PRD-020,Velotric,3.2407748275452946,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-08-01,PRD-021,Velotric,3.464276539789798,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-08-01,PRD-022,Velotric,1.5645119857115217,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-08-01,PRD-023,Velotric,2.458518834689534,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-08-01,PRD-024,Velotric,1.229259417344767,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-08-01,PRD-053,Yuba,0.37077418514242444,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level
+2027-09-01,PRD-055,Argon18,0.4048204726249456,Subito Gravel Everlasting Green,Gravel & Road,3299.0,2309.3,13,Low volume - plan at brand level
+2027-09-01,PRD-001,Aventon,4.238276524660991,Level 3,Commuter,2399.0,1751.27,149,Model-level forecast
+2027-09-01,PRD-002,Aventon,3.83074993575128,Level 3 Step Through,Commuter,2399.0,1751.27,121,Model-level forecast
+2027-09-01,PRD-003,Aventon,1.8746223089846692,Level 4 ADV High-Step,Commuter,3899.0,2846.27,62,Model-level forecast
+2027-09-01,PRD-004,Aventon,2.2821488978943796,Level 4 REC Step-Through,Commuter,2799.0,2043.27,73,Model-level forecast
+2027-09-01,PRD-005,Aventon,5.134835020262354,Pace 500.3 Step Through,Comfort/Step-Through,1799.99,1313.99,155,Model-level forecast
+2027-09-01,PRD-006,Aventon,2.608170169022148,Pace 4 Step Through (500.4),Comfort/Step-Through,2199.0,1605.27,97,Model-level forecast
+2027-09-01,PRD-007,Aventon,1.304085084511074,Pace 5 REC Step-Through,Comfort/Step-Through,2499.0,1824.27,43,Low volume - plan at brand level
+2027-09-01,PRD-008,Aventon,4.075265889097107,Soltera.2 High-Step,Commuter,1399.0,1021.27,131,Model-level forecast
+2027-09-01,PRD-009,Aventon,1.222579766729132,Soltera 2.5,Commuter,1699.0,1240.27,83,Model-level forecast
+2027-09-01,PRD-010,Aventon,3.1787073934957433,Aventure 3,Fat Tire,2799.0,2043.27,109,Model-level forecast
+2027-09-01,PRD-011,Aventon,2.2821488978943796,Aventure 3 Step-Through,Fat Tire,2799.0,2043.27,81,Model-level forecast
+2027-09-01,PRD-012,Aventon,0.8965584956013635,Abound SR,Cargo/Family,2699.0,1970.27,50,Low volume - plan at brand level
+2027-09-01,PRD-013,Aventon,1.5486010378569006,Ramblas Mountain E-Bike,Mountain,3299.0,2408.27,50,Low volume - plan at brand level
+2027-09-01,PRD-014,Aventon,0.4890319066916528,Current ADV,Commuter,5499.0,4014.27,15,Low volume - plan at brand level
+2027-09-01,PRD-015,Aventon,1.8746223089846692,Sinch.2 Step-Through,Folding,2259.0,1649.07,60,Model-level forecast
+2027-09-01,PRD-039,Bulls,1.1867798087159898,Iconic Evo 1 Diamond Smart System 750,Commuter,3799.0,2583.32,36,Low volume - plan at brand level
+2027-09-01,PRD-040,Bulls,0.45645377258307296,Copperhead Evo 2 Wave Smart System 750,Mountain,3799.0,2583.32,26,Low volume - plan at brand level
+2027-09-01,PRD-041,Bulls,0.36516301806645834,Grinder Evo Bosch Speed,Gravel & Road,2799.0,1903.32,11,Low volume - plan at brand level
+2027-09-01,PRD-042,Bulls,0.8216167906495314,Twenty4 E 32cm,Mountain,2399.0,1631.32,17,Low volume - plan at brand level
+2027-09-01,PRD-047,Cannondale,2.0864770680429516,Adventure Neo Allroad Low Step Thru,Comfort/Step-Through,2260.0,1604.6,45,Low volume - plan at brand level
+2027-09-01,PRD-048,Cannondale,0.24546789035799427,Moterra Neo 4 Bosch Smart System,Mountain,5699.0,4046.29,7,Low volume - plan at brand level
+2027-09-01,PRD-043,Cube,0.4343874762561756,Reaction Hybrid Pro 500,Mountain,2999.0,2069.31,30,Low volume - plan at brand level
+2027-09-01,PRD-044,Cube,0.390948728630558,Touring Hybrid ONE 500 Easy Entry,Commuter,2799.0,1931.31,27,Low volume - plan at brand level
+2027-09-01,PRD-045,Cube,0.6950199620098809,Supreme Sport Hybrid Pro 500 Easy Entry,Comfort/Step-Through,2799.0,1931.31,37,Low volume - plan at brand level
+2027-09-01,PRD-046,Cube,0.3040712333793229,Nuroad Hybrid C:62 Race 400X 2027,Gravel & Road,6999.0,4829.31,13,Low volume - plan at brand level
+2027-09-01,PRD-030,ET Cycles,2.3120231463874474,F720 Matte Black,Fat Tire,1599.0,1055.34,50,Low volume - plan at brand level
+2027-09-01,PRD-031,ET Cycles,2.0104549099021285,T720,Commuter,1699.0,1121.34,58,Low volume - plan at brand level
+2027-09-01,PRD-036,Gazelle,0.7188604707139815,Medeo T9 City Low Step Bosch Smart System,Comfort/Step-Through,3499.0,2414.31,57,Low volume - plan at brand level
+2027-09-01,PRD-037,Gazelle,0.49185190101482945,Ultimate T10 Low-Step,Commuter,3299.0,2276.31,27,Low volume - plan at brand level
+2027-09-01,PRD-038,Gazelle,0.2648433313156774,Arroyo C5 Bosch Smart System,Comfort/Step-Through,5499.0,3794.31,25,Low volume - plan at brand level
+2027-09-01,PRD-025,NCM,2.500968540063674,Milano T7s,Commuter,1999.0,1319.34,89,Model-level forecast
+2027-09-01,PRD-026,NCM,1.8340435960466943,Milano Plus,Commuter,1799.0,1187.34,59,Low volume - plan at brand level
+2027-09-01,PRD-027,NCM,1.9174092140488168,Moscow M3,Mountain,1499.0,989.34,82,Model-level forecast
+2027-09-01,PRD-028,NCM,2.5843341580657966,Aspen Plus Electric Fat Bike,Fat Tire,1599.0,1055.34,86,Model-level forecast
+2027-09-01,PRD-029,NCM,1.8340435960466943,Paris,Comfort/Step-Through,1499.0,989.34,61,Model-level forecast
+2027-09-01,PRD-032,Stromer,1.6412351242732306,ST1X,Speed Pedelec,2899.99,1942.99,44,Low volume - plan at brand level
+2027-09-01,PRD-033,Stromer,1.2624885571332543,ST2 Beltdrive,Speed Pedelec,4499.99,3014.99,35,Low volume - plan at brand level
+2027-09-01,PRD-034,Stromer,2.398728258553183,ST3,Speed Pedelec,4999.99,3349.99,38,Low volume - plan at brand level
+2027-09-01,PRD-035,Stromer,0.8837419899932779,ST5 ABS Graphite,Speed Pedelec,6999.99,4689.99,13,Low volume - plan at brand level
+2027-09-01,PRD-056,Teewing,0.7499622514968279,Turbo Force XT,Mountain,7745.0,5576.4,10,Low volume - plan at brand level
+2027-09-01,PRD-049,Tern,0.45382933931306724,GSD P10(Gen 3) 500 Wh School Bus Yellow,Cargo/Family,6649.0,4654.3,11,Low volume - plan at brand level
+2027-09-01,PRD-050,Tern,0.07563822321884454,HSD Gen 3 P5i 545Wh Smart System,Cargo/Family,7699.0,5389.3,6,Low volume - plan at brand level
+2027-09-01,PRD-051,Tern,0.1512764464376891,Quick Haul D8,Cargo/Family,4649.0,3254.3,8,Low volume - plan at brand level
+2027-09-01,PRD-052,Tern,0.1512764464376891,Vektron Q9 Satin Red 400Wh,Folding,4649.0,3254.3,7,Low volume - plan at brand level
+2027-09-01,PRD-054,Urtopia,0.7760716800137931,Carbon Classic,Commuter,2995.0,2096.5,17,Low volume - plan at brand level
+2027-09-01,PRD-016,Velotric,3.1051843264246286,Discover 2 Step-Through,Commuter,2299.0,1609.3,90,Model-level forecast
+2027-09-01,PRD-017,Velotric,3.0016781822104743,Discover 3,Commuter,2699.0,1889.3,64,Model-level forecast
+2027-09-01,PRD-018,Velotric,2.380641316925549,Nomad 2 High-Step,Fat Tire,2499.0,1749.3,84,Model-level forecast
+2027-09-01,PRD-019,Velotric,1.6560983074264688,Nomad 2X Step-Through,Fat Tire,2999.0,2099.3,43,Low volume - plan at brand level
+2027-09-01,PRD-020,Velotric,3.0016781822104743,Fold 1 Plus,Folding,1999.99,1399.99,66,Model-level forecast
+2027-09-01,PRD-021,Velotric,3.2086904706387833,Breeze Step-Through,Comfort/Step-Through,2199.0,1539.3,58,Low volume - plan at brand level
+2027-09-01,PRD-022,Velotric,1.4490860189981603,Summit 2,Mountain,2799.0,1959.3,32,Low volume - plan at brand level
+2027-09-01,PRD-023,Velotric,2.2771351727113944,Tempo 2 High-Step,Commuter,2099.99,1469.99,65,Model-level forecast
+2027-09-01,PRD-024,Velotric,1.1385675863556972,Triker Electric Tricycle,Cargo/Family,3399.99,2379.99,28,Low volume - plan at brand level
+2027-09-01,PRD-053,Yuba,0.04475902031479742,Spicy Curry V4 Cargo eBike,Cargo/Family,4999.99,3499.99,12,Low volume - plan at brand level

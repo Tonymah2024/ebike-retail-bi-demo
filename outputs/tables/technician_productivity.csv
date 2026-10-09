@@ -1,0 +1,6 @@
+technician_id,role,orders,labour_hours,billable_hours,billable_ratio,revenue,gross_profit,avg_turnaround_days,avg_satisfaction
+TECH-01,Lead Technician,2533,2671.1,2991.9,1.12,610922.39,371210.72,6.82,4.19
+TECH-02,E-Bike Technician,2278,2698.0,2681.4,0.994,565016.06,340987.36,6.87,4.19
+TECH-03,E-Bike Technician (seasonal),458,637.5,544.2,0.854,112688.06,68037.91,10.07,3.75
+TECH-04,E-Bike Technician,1274,1492.6,1519.1,1.018,314174.42,193460.09,6.19,4.28
+TECH-05,E-Bike Technician (seasonal),398,533.1,475.2,0.891,107832.04,64199.82,4.69,4.42

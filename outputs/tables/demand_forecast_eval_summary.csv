@@ -1,0 +1,5 @@
+level,method,WAPE,total_bias_pct
+brand,Seasonal naive,0.3159041394335512,-4.139433551198257
+brand,Top-down (Prophet total x shrunk shares),0.3059043497321903,-8.766114264851865
+category,Seasonal naive,0.32679738562091504,-4.139433551198257
+category,Top-down (Prophet total x shrunk shares),0.2926660632645813,-8.766114264851877
