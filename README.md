@@ -1,5 +1,9 @@
 # Prairie Pulse E-Bikes — Retail Analytics & BI Demo (VisiVault Analytics)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prairie-pulse-ebikes-bi.streamlit.app)
+
+**▶ Live dashboard: <https://prairie-pulse-ebikes-bi.streamlit.app>**
+
 Interactive Streamlit dashboard demonstrating retail business intelligence and predictive analytics for a **fictional**
 Calgary electric-bicycle retailer, *Prairie Pulse E-Bikes*.
 
