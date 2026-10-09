@@ -1,0 +1,27 @@
+key,2024,2025,2026,label,data_status
+net_income,-10840.94,-23731.75,87122.97,Net income,SIMULATED
+da,33366.64,36277.26,31929.35,Depreciation and amortization,SIMULATED
+d_ar,-14872.46,1687.61,-9539.37,(Increase) decrease in accounts receivable,SIMULATED
+d_inv,-172769.78,-4807.4,72720.23,(Increase) decrease in inventory,SIMULATED
+d_ap,70862.52,-23049.36,82835.66,Increase (decrease) in accounts payable,SIMULATED
+d_wip,-1715.1,814.94,-7763.64,  Service work in progress,SIMULATED
+d_prepaid,-7737.92,-653.99,-18400.95,  Prepaid expenses & supplier deposits,SIMULATED
+d_accrued,17587.99,2610.93,10111.1,  Accrued payroll & due to head office,SIMULATED
+d_gst,2224.29,-5137.5,14650.07,  Sales tax payable / recoverable,SIMULATED
+d_tax,0.0,0.0,0.0,  Income taxes payable,SIMULATED
+other_wc,10359.26,-2365.62,-1403.42,Other working capital adjustments,SIMULATED
+cfo,-83894.76,-15989.26,263665.42,Net cash from operating activities,SIMULATED
+capex,0.0,-6500.0,-18000.0,Capital expenditures (leasehold & systems),SIMULATED
+equipment,-14500.0,-9800.0,-7200.0,Equipment purchases,SIMULATED
+cfi,-14500.0,-16300.0,-25200.0,Net cash used in investing activities,SIMULATED
+rev_draw,223000.0,54000.0,287000.0,New borrowings - revolving line of credit,SIMULATED
+rev_repay,-223000.0,-54000.0,-287000.0,Repayments - revolving line of credit,SIMULATED
+term_repay,-50000.04,-50000.04,-37500.03,Term loan repayments,SIMULATED
+contrib,0.0,0.0,0.0,Capital contributions from head office,SIMULATED
+dist,0.0,0.0,0.0,Distributions to head office,SIMULATED
+cff,-50000.04,-50000.04,-37500.03,Net cash from (used in) financing activities,SIMULATED
+net_change,-148394.8,-82289.3,200965.39,Net change in cash,SIMULATED
+open_cash,384178.15,235783.35,153494.05,Opening cash,SIMULATED
+close_cash,235783.35,153494.05,354459.44,Closing cash (cash flow statement),SIMULATED
+bs_cash,235783.35,153494.05,354459.44,Cash per balance sheet,SIMULATED
+check,-0.0,0.0,0.0,Check: closing cash - balance-sheet cash,SIMULATED

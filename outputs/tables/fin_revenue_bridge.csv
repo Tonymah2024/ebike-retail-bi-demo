@@ -1,0 +1,8 @@
+item,cad,data_status
+Total revenue per operational P&L (completed retail lines + all service orders by intake date),8614336.98,SIMULATED
++ Net sales of lines later returned (operational P&L excludes them),210960.09999999998,SIMULATED
+- Refunds issued (GL contra-revenue 4910),-210960.09999999998,SIMULATED
+- Revenue of service orders still in progress at 30-Sep-2026 (GL recognises on completion),-19220.050000000003,SIMULATED
+= Explained GL net revenue,8595116.93,SIMULATED
+GL net revenue Jan-2024 to Sep-2026,8595116.93,SIMULATED
+Unexplained residual (must be 0),0.0,SIMULATED

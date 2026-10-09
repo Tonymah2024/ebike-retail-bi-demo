@@ -1,0 +1,463 @@
+line,account,month,operational,general_ledger,difference,data_status
+4000 Bicycle sales (gross),4000,2024-01,50428.97,50428.97,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-02,50339.0,50339.0,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-03,122816.92,122816.92,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-04,295515.84,295515.84,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-05,357640.71,357640.71,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-06,310458.84,310458.84,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-07,318145.79,318145.79,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-08,272296.86,272296.86,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-09,160877.91,160877.91,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-10,122879.93,122879.93,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-11,104834.95,104834.95,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2024-12,104174.93,104174.93,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-01,50401.97,50401.97,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-02,43633.99,43633.99,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-03,74070.97,74070.97,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-04,312186.78,312186.78,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-05,335848.82,335848.82,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-06,330083.79,330083.79,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-07,295981.86,295981.86,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-08,283498.84,283498.84,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-09,202701.83,202701.83,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-10,106321.92,106321.92,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-11,106112.95,106112.95,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2025-12,67477.95,67477.95,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-01,73577.94,73577.94,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-02,68797.96,68797.96,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-03,138062.94,138062.94,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-04,263022.79,263022.79,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-05,396934.75,396934.75,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-06,346100.81,346100.81,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-07,325802.8,325802.8,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-08,296693.84,296693.84,0.0,SIMULATED
+4000 Bicycle sales (gross),4000,2026-09,172304.84,172304.84,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-01,7056.26,7056.26,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-02,7870.13,7870.13,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-03,11132.71,11132.71,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-04,18757.05,18757.05,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-05,21165.81,21165.81,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-06,20781.84,20781.84,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-07,20641.87,20641.87,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-08,18419.02,18419.02,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-09,13429.65,13429.65,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-10,13582.68,13582.68,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-11,11903.78,11903.78,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2024-12,10968.0,10968.0,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-01,6670.2,6670.2,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-02,7953.03,7953.03,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-03,10348.82,10348.82,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-04,19089.02,19089.02,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-05,21684.61,21684.61,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-06,18582.12,18582.12,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-07,17916.02,17916.02,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-08,19862.99,19862.99,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-09,14885.38,14885.38,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-10,13112.77,13112.77,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-11,9396.01,9396.01,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2025-12,10554.01,10554.01,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-01,9429.01,9429.01,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-02,6850.32,6850.32,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-03,12234.7,12234.7,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-04,18365.14,18365.14,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-05,23726.38,23726.38,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-06,21906.73,21906.73,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-07,20788.92,20788.92,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-08,20411.81,20411.81,0.0,SIMULATED
+4100 Accessories sales (gross),4100,2026-09,15356.54,15356.54,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-01,5897.97,5897.97,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-02,4497.99,4497.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-03,5296.97,5296.97,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-04,2099.97,2099.97,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-05,3796.98,3796.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-06,3797.98,3797.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-07,5196.96,5196.96,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-08,5696.99,5696.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-09,8496.95,8496.95,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-10,9992.98,9992.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-11,1898.99,1898.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2024-12,2598.98,2598.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-01,6498.95,6498.95,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-02,2198.98,2198.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-03,5494.99,5494.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-04,699.99,699.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-05,12595.94,12595.94,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-06,8896.95,8896.95,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-07,2297.99,2297.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-08,1498.99,1498.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-09,5095.99,5095.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-10,8794.98,8794.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-11,2898.97,2898.97,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2025-12,1998.0,1998.0,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-01,6993.98,6993.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-02,1399.98,1399.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-03,2697.99,2697.99,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-04,10593.96,10593.96,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-05,10391.98,10391.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-06,15392.96,15392.96,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-07,6993.98,6993.98,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-08,7297.95,7297.95,0.0,SIMULATED
+4110 Batteries & chargers (gross),4110,2026-09,5597.98,5597.98,0.0,SIMULATED
+4120 Parts (gross),4120,2024-01,1059.17,1059.17,0.0,SIMULATED
+4120 Parts (gross),4120,2024-02,593.31,593.31,0.0,SIMULATED
+4120 Parts (gross),4120,2024-03,701.73,701.73,0.0,SIMULATED
+4120 Parts (gross),4120,2024-04,1445.56,1445.56,0.0,SIMULATED
+4120 Parts (gross),4120,2024-05,1324.61,1324.61,0.0,SIMULATED
+4120 Parts (gross),4120,2024-06,1440.02,1440.02,0.0,SIMULATED
+4120 Parts (gross),4120,2024-07,1685.99,1685.99,0.0,SIMULATED
+4120 Parts (gross),4120,2024-08,1305.62,1305.62,0.0,SIMULATED
+4120 Parts (gross),4120,2024-09,1482.19,1482.19,0.0,SIMULATED
+4120 Parts (gross),4120,2024-10,1349.64,1349.64,0.0,SIMULATED
+4120 Parts (gross),4120,2024-11,1142.22,1142.22,0.0,SIMULATED
+4120 Parts (gross),4120,2024-12,585.82,585.82,0.0,SIMULATED
+4120 Parts (gross),4120,2025-01,503.31,503.31,0.0,SIMULATED
+4120 Parts (gross),4120,2025-02,1384.16,1384.16,0.0,SIMULATED
+4120 Parts (gross),4120,2025-03,871.26,871.26,0.0,SIMULATED
+4120 Parts (gross),4120,2025-04,1424.09,1424.09,0.0,SIMULATED
+4120 Parts (gross),4120,2025-05,1670.54,1670.54,0.0,SIMULATED
+4120 Parts (gross),4120,2025-06,2023.45,2023.45,0.0,SIMULATED
+4120 Parts (gross),4120,2025-07,1660.54,1660.54,0.0,SIMULATED
+4120 Parts (gross),4120,2025-08,1690.54,1690.54,0.0,SIMULATED
+4120 Parts (gross),4120,2025-09,1401.14,1401.14,0.0,SIMULATED
+4120 Parts (gross),4120,2025-10,984.22,984.22,0.0,SIMULATED
+4120 Parts (gross),4120,2025-11,1490.16,1490.16,0.0,SIMULATED
+4120 Parts (gross),4120,2025-12,1138.18,1138.18,0.0,SIMULATED
+4120 Parts (gross),4120,2026-01,956.74,956.74,0.0,SIMULATED
+4120 Parts (gross),4120,2026-02,988.27,988.27,0.0,SIMULATED
+4120 Parts (gross),4120,2026-03,970.69,970.69,0.0,SIMULATED
+4120 Parts (gross),4120,2026-04,1091.15,1091.15,0.0,SIMULATED
+4120 Parts (gross),4120,2026-05,2093.43,2093.43,0.0,SIMULATED
+4120 Parts (gross),4120,2026-06,2605.86,2605.86,0.0,SIMULATED
+4120 Parts (gross),4120,2026-07,2004.47,2004.47,0.0,SIMULATED
+4120 Parts (gross),4120,2026-08,1467.55,1467.55,0.0,SIMULATED
+4120 Parts (gross),4120,2026-09,1407.13,1407.13,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-01,721.87,721.87,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-02,1044.09,1044.09,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-03,2256.85,2256.85,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-04,13934.24,13934.24,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-05,9471.36,9471.36,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-06,7632.92,7632.92,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-07,5914.76,5914.76,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-08,3959.27,3959.27,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-09,3195.07,3195.07,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-10,1904.03,1904.03,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-11,6328.37,6328.37,0.0,SIMULATED
+4900 Discounts & allowances,4900,2024-12,3384.44,3384.44,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-01,1024.59,1024.59,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-02,488.94,488.94,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-03,1331.5,1331.5,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-04,15891.6,15891.6,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-05,9656.74,9656.74,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-06,7955.35,7955.35,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-07,4657.57,4657.57,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-08,4897.54,4897.54,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-09,3200.12,3200.12,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-10,2250.6,2250.6,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-11,4362.38,4362.38,0.0,SIMULATED
+4900 Discounts & allowances,4900,2025-12,3198.57,3198.57,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-01,1350.77,1350.77,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-02,1083.3,1083.3,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-03,2320.98,2320.98,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-04,12953.76,12953.76,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-05,9322.12,9322.12,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-06,8742.45,8742.45,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-07,5407.47,5407.47,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-08,6511.39,6511.39,0.0,SIMULATED
+4900 Discounts & allowances,4900,2026-09,3389.15,3389.15,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-01,94.98,94.98,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-02,192.47,192.47,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-03,5318.09,5318.09,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-04,5077.03,5077.03,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-05,7789.39,7789.39,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-06,14431.61,14431.61,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-07,6553.18,6553.18,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-08,11741.96,11741.96,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-09,9224.04,9224.04,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-10,3975.47,3975.47,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-11,189.97,189.97,0.0,SIMULATED
+4910 Returns & refunds,4910,2024-12,4183.13,4183.13,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-01,3361.94,3361.94,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-02,2429.1,2429.1,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-03,2739.98,2739.98,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-04,6092.96,6092.96,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-05,14106.22,14106.22,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-06,7845.0,7845.0,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-07,9325.97,9325.97,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-08,2622.42,2622.42,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-09,14089.4,14089.4,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-10,6167.93,6167.93,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-11,79.98,79.98,0.0,SIMULATED
+4910 Returns & refunds,4910,2025-12,699.99,699.99,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-01,6285.12,6285.12,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-02,5382.96,5382.96,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-03,3772.43,3772.43,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-04,3327.9,3327.9,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-05,11295.93,11295.93,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-06,3243.93,3243.93,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-07,24283.47,24283.47,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-08,6521.67,6521.67,0.0,SIMULATED
+4910 Returns & refunds,4910,2026-09,8514.48,8514.48,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-01,10273.42,10273.42,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-02,21423.15,21423.15,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-03,20074.52,20074.52,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-04,29612.82,29612.82,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-05,36268.35,36268.35,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-06,32183.75,32183.75,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-07,34837.63,34837.63,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-08,34881.16,34881.16,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-09,32069.32,32069.32,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-10,21902.96,21902.96,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-11,14990.45,14990.45,0.0,SIMULATED
+4200 Service labour (customer),4200,2024-12,14053.4,14053.4,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-01,16860.3,16860.3,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-02,17424.36,17424.36,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-03,28831.33,28831.33,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-04,35273.68,35273.68,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-05,38128.24,38128.24,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-06,38158.92,38158.92,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-07,34357.13,34357.13,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-08,35971.55,35971.55,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-09,36226.28,36226.28,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-10,24418.09,24418.09,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-11,15082.46,15082.46,0.0,SIMULATED
+4200 Service labour (customer),4200,2025-12,11785.22,11785.22,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-01,19532.13,19532.13,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-02,20209.03,20209.03,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-03,28048.61,28048.61,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-04,35765.36,35765.36,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-05,47212.11,47212.11,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-06,48753.56,48753.56,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-07,43960.64,43960.64,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-08,37786.02,37786.02,0.0,SIMULATED
+4200 Service labour (customer),4200,2026-09,26023.05,26023.05,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-01,6890.14,6890.14,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-02,18431.68,18431.68,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-03,14163.01,14163.01,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-04,28639.83,28639.83,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-05,27713.31,27713.31,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-06,20456.84,20456.84,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-07,33374.21,33374.21,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-08,24632.07,24632.07,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-09,23108.48,23108.48,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-10,11500.27,11500.27,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-11,12100.38,12100.38,0.0,SIMULATED
+4210 Service parts revenue,4210,2024-12,10590.54,10590.54,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-01,11729.17,11729.17,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-02,16489.87,16489.87,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-03,21101.16,21101.16,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-04,28502.31,28502.31,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-05,21786.4,21786.4,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-06,25897.74,25897.74,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-07,27771.99,27771.99,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-08,30383.74,30383.74,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-09,30834.52,30834.52,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-10,15466.75,15466.75,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-11,9824.84,9824.84,0.0,SIMULATED
+4210 Service parts revenue,4210,2025-12,7908.21,7908.21,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-01,12254.66,12254.66,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-02,13567.91,13567.91,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-03,26837.95,26837.95,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-04,33686.81,33686.81,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-05,30379.08,30379.08,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-06,34126.75,34126.75,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-07,30614.53,30614.53,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-08,28592.12,28592.12,0.0,SIMULATED
+4210 Service parts revenue,4210,2026-09,17011.25,17011.25,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-01,845.1,845.1,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-02,567.0,567.0,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-03,480.6,480.6,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-04,526.5,526.5,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-05,441.9,441.9,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-06,750.6,750.6,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-07,1400.4,1400.4,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-08,1228.5,1228.5,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-09,739.8,739.8,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-10,837.0,837.0,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-11,1146.6,1146.6,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2024-12,414.0,414.0,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-01,854.1,854.1,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-02,1081.8,1081.8,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-03,1930.5,1930.5,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-04,972.0,972.0,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-05,2651.4,2651.4,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-06,1473.3,1473.3,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-07,2060.1,2060.1,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-08,1044.0,1044.0,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-09,1778.4,1778.4,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-10,1098.0,1098.0,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-11,1033.2,1033.2,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2025-12,1493.1,1493.1,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-01,1331.1,1331.1,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-02,1740.6,1740.6,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-03,1102.5,1102.5,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-04,2225.7,2225.7,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-05,1490.4,1490.4,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-06,2462.4,2462.4,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-07,2197.8,2197.8,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-08,1975.5,1975.5,0.0,SIMULATED
+4220 Warranty reimbursements,4220,2026-09,1291.5,1291.5,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-01,35896.09,35896.09,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-02,35449.04,35449.04,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-03,82587.84,82587.84,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-04,203983.61,203983.61,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-05,245508.81,245508.81,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-06,208890.53,208890.53,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-07,220113.58,220113.58,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-08,185421.0,185421.0,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-09,107153.09,107153.09,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-10,84130.54,84130.54,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-11,73568.87,73568.87,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2024-12,70609.53,70609.53,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-01,33766.81,33766.81,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-02,28905.42,28905.42,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-03,50352.42,50352.42,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-04,214777.2,214777.2,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-05,226197.89,226197.89,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-06,226926.58,226926.58,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-07,204061.93,204061.93,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-08,198589.64,198589.64,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-09,133690.81,133690.81,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-10,72695.89,72695.89,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-11,75043.57,75043.57,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2025-12,48145.3,48145.3,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-01,46825.8,46825.8,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-02,45738.13,45738.13,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-03,95136.16,95136.16,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-04,182161.14,182161.14,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-05,271694.58,271694.58,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-06,242159.34,242159.34,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-07,211792.24,211792.24,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-08,205132.33,205132.33,0.0,SIMULATED
+5000 COGS e-bikes (sales cost less returns restocked),5000,2026-09,114500.02,114500.02,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-01,8277.9,8277.9,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-02,7439.31,7439.31,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-03,9717.22,9717.22,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-04,11763.59,11763.59,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-05,14195.76,14195.76,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-06,13864.89,13864.89,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-07,14555.3,14555.3,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-08,13040.05,13040.05,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-09,13522.62,13522.62,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-10,14635.14,14635.14,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-11,7991.11,7991.11,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2024-12,7635.69,7635.69,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-01,8028.86,8028.86,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-02,6366.57,6366.57,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-03,9537.73,9537.73,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-04,10809.52,10809.52,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-05,20786.51,20786.51,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-06,16580.46,16580.46,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-07,11213.99,11213.99,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-08,12001.02,12001.02,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-09,11460.37,11460.37,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-10,11019.86,11019.86,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-11,7619.92,7619.92,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2025-12,6965.36,6965.36,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-01,10197.62,10197.62,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-02,4397.82,4397.82,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-03,8476.11,8476.11,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-04,17173.77,17173.77,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-05,20205.84,20205.84,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-06,23186.21,23186.21,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-07,16453.63,16453.63,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-08,16078.87,16078.87,0.0,SIMULATED
+5010 COGS accessories/batteries/parts,5010,2026-09,12492.04,12492.04,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-01,574.17,574.17,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-02,899.3,899.3,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-03,0.0,0.0,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-04,37.69,37.69,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-05,64.98,64.98,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-06,5518.53,5518.53,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-07,160.46,160.46,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-08,3011.76,3011.76,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-09,0.0,0.0,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-10,129.99,129.99,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-11,0.0,0.0,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2024-12,1751.27,1751.27,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-01,12.99,12.99,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-02,2170.71,2170.71,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-03,54.74,54.74,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-04,0.0,0.0,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-05,1021.27,1021.27,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-06,2435.33,2435.33,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-07,2938.6,2938.6,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-08,1539.3,1539.3,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-09,857.49,857.49,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-10,546.38,546.38,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-11,0.0,0.0,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2025-12,119.58,119.58,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-01,974.62,974.62,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-02,1252.43,1252.43,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-03,36.9,36.9,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-04,117.51,117.51,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-05,2713.98,2713.98,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-06,97.38,97.38,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-07,1088.11,1088.11,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-08,123.72,123.72,0.0,SIMULATED
+5100 Shrinkage & write-offs (movement records),5100,2026-09,33.79,33.79,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-01,3787.28,3787.28,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-02,10069.1,10069.1,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-03,7607.8,7607.8,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-04,15482.43,15482.43,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-05,15185.34,15185.34,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-06,11135.92,11135.92,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-07,18078.84,18078.84,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-08,13436.63,13436.63,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-09,12440.48,12440.48,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-10,6309.32,6309.32,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-11,6586.36,6586.36,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2024-12,5681.16,5681.16,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-01,6374.14,6374.14,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-02,9003.93,9003.93,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-03,11463.84,11463.84,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-04,15484.19,15484.19,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-05,11871.02,11871.02,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-06,14041.99,14041.99,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-07,14981.76,14981.76,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-08,16562.11,16562.11,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-09,16685.96,16685.96,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-10,8290.97,8290.97,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-11,5388.92,5388.92,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2025-12,4244.65,4244.65,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-01,6616.94,6616.94,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-02,7293.43,7293.43,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-03,14444.33,14444.33,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-04,18124.7,18124.7,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-05,16288.23,16288.23,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-06,18403.89,18403.89,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-07,16576.44,16576.44,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-08,15391.4,15391.4,0.0,SIMULATED
+5200 Service parts cost (completed orders),5200,2026-09,9117.45,9117.45,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-01,3578.93,3578.93,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-02,6656.3,6656.3,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-03,6061.61,6061.61,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-04,8929.38,8929.38,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-05,10405.02,10405.02,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-06,9081.09,9081.09,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-07,10504.23,10504.23,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-08,10197.43,10197.43,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-09,9427.64,9427.64,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-10,6477.54,6477.54,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-11,4762.9,4762.9,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2024-12,4339.15,4339.15,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-01,5489.53,5489.53,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-02,5496.33,5496.33,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-03,8825.06,8825.06,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-04,9968.94,9968.94,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-05,11182.73,11182.73,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-06,11185.3,11185.3,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-07,10549.68,10549.68,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-08,9918.64,9918.64,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-09,10370.61,10370.61,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-10,7046.28,7046.28,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-11,4818.17,4818.17,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2025-12,3861.39,3861.39,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-01,6091.83,6091.83,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-02,6408.44,6408.44,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-03,8623.72,8623.72,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-04,10847.4,10847.4,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-05,13844.71,13844.71,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-06,14671.17,14671.17,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-07,13012.22,13012.22,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-08,11299.53,11299.53,0.0,SIMULATED
+5210 Direct service labour (completed orders),5210,2026-09,7689.42,7689.42,0.0,SIMULATED

@@ -1,0 +1,32 @@
+key,2024,2025,2026,label,data_status
+bike_rev,2270410.65,2208321.67,2081298.67,Bicycle sales revenue,SIMULATED
+acc_rev,249094.39,245267.29,230015.6,Accessories and parts revenue,SIMULATED
+svc_rev,543549.69,597684.16,550179.07,Maintenance and repair revenue,SIMULATED
+gross_rev,3063054.73,3051273.12,2861493.34,Gross revenue,SIMULATED
+discounts,-59747.27,-58915.5,-51081.39,Sales discounts & promotional allowances,SIMULATED
+returns,-68771.32,-69560.89,-72627.89,Sales returns & refunds,SIMULATED
+returns_allow,-128518.59,-128476.39,-123709.28,Sales returns and allowances,SIMULATED
+net_rev,2934536.14,2922796.73,2737784.06,Net revenue,SIMULATED
+cogs_bike,-1553312.53,-1513153.46,-1415139.74,Cost of goods sold - e-bikes,SIMULATED
+cogs_acc,-136638.58,-132390.17,-128661.91,"Cost of goods sold - accessories, batteries & parts",SIMULATED
+shrink,-12148.15,-11696.39,-6438.44,Inventory shrinkage & write-offs,SIMULATED
+svc_parts,-125800.66,-134393.48,-122256.81,Service parts cost,SIMULATED
+svc_labour,-90421.22,-98712.66,-92488.44,Direct service labour,SIMULATED
+cogs,-1918321.14,-1890346.16,-1764985.34,Cost of goods sold (total cost of sales),SIMULATED
+gross_profit,1016215.0,1032450.57,972798.72,Gross profit,SIMULATED
+emp_comp,-393143.66,-436764.46,-376831.47,Employee compensation,SIMULATED
+rent,-228000.0,-234840.0,-181413.9,Rent and occupancy,SIMULATED
+utilities,-19891.02,-19299.5,-13697.4,Utilities,SIMULATED
+marketing,-75663.61,-79545.78,-67311.22,Marketing and advertising,SIMULATED
+admin,-72795.26,-73908.17,-56533.77,Administrative expenses (incl. insurance & corporate allocation),SIMULATED
+freight,-70893.55,-63761.07,-55674.61,Freight and logistics,SIMULATED
+fees,-60582.22,-57434.6,-53921.76,Merchant and financing fees,SIMULATED
+storage,-49862.9,-41107.31,-38492.33,"Inventory storage, handling & obsolescence",SIMULATED
+opex,-970832.22,-1006660.89,-843876.46,Total operating expenses (before D&A),SIMULATED
+ebitda,45382.78,25789.68,128922.26,EBITDA,SIMULATED
+da,-33366.64,-36277.26,-31929.35,Depreciation and amortization,SIMULATED
+ebit,12016.14,-10487.58,96992.91,EBIT (operating profit),SIMULATED
+interest,-22857.08,-13244.17,-9869.94,Interest expense,SIMULATED
+pbt,-10840.94,-23731.75,87122.97,Profit before tax,SIMULATED
+tax,0.0,0.0,0.0,Income taxes,SIMULATED
+net_income,-10840.94,-23731.75,87122.97,Net income,SIMULATED

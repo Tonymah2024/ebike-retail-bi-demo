@@ -1,0 +1,28 @@
+item,cad,window,data_status
+"Operating profit per operational P&L (monthly_pnl, pre-existing dashboards)",27399.909999999993,2024-01 to 2024-12,SIMULATED
++ Imputed inventory financing cost removed (replaced by actual interest below EBIT),31577.46999999999,2024-01 to 2024-12,SIMULATED
++/- Retail returns timing: GP of later-returned lines sold in window less GP reversed by refunds in window,1046.2800000000025,2024-01 to 2024-12,SIMULATED
+- Inventory shrinkage & damaged write-offs (movement records; not in operational P&L),-12148.150000000001,2024-01 to 2024-12,SIMULATED
++/- Service recognition timing: GP of orders completed in window less GP of orders received in window,-2492.730000000098,2024-01 to 2024-12,SIMULATED
+- Depreciation of fixed assets (not in operational P&L),-33366.63999999999,2024-01 to 2024-12,SIMULATED
+= Explained GL EBIT,12016.139999999898,2024-01 to 2024-12,SIMULATED
+GL EBIT (income statement),12016.140000000007,2024-01 to 2024-12,SIMULATED
+Unexplained residual (must be 0),1.0913936421275139e-10,2024-01 to 2024-12,SIMULATED
+"Operating profit per operational P&L (monthly_pnl, pre-existing dashboards)",17641.449999999983,2025-01 to 2025-12,SIMULATED
++ Imputed inventory financing cost removed (replaced by actual interest below EBIT),19567.92,2025-01 to 2025-12,SIMULATED
++/- Retail returns timing: GP of later-returned lines sold in window less GP reversed by refunds in window,-495.08000000000175,2025-01 to 2025-12,SIMULATED
+- Inventory shrinkage & damaged write-offs (movement records; not in operational P&L),-11696.39,2025-01 to 2025-12,SIMULATED
++/- Service recognition timing: GP of orders completed in window less GP of orders received in window,771.7800000000279,2025-01 to 2025-12,SIMULATED
+- Depreciation of fixed assets (not in operational P&L),-36277.26,2025-01 to 2025-12,SIMULATED
+= Explained GL EBIT,-10487.579999999994,2025-01 to 2025-12,SIMULATED
+GL EBIT (income statement),-10487.580000000009,2025-01 to 2025-12,SIMULATED
+Unexplained residual (must be 0),-1.4551915228366852e-11,2025-01 to 2025-12,SIMULATED
+"Operating profit per operational P&L (monthly_pnl, pre-existing dashboards)",127906.79000000001,2026-01 to 2026-09,SIMULATED
++ Imputed inventory financing cost removed (replaced by actual interest below EBIT),16840.41,2026-01 to 2026-09,SIMULATED
++/- Retail returns timing: GP of later-returned lines sold in window less GP reversed by refunds in window,-551.1999999999971,2026-01 to 2026-09,SIMULATED
+- Inventory shrinkage & damaged write-offs (movement records; not in operational P&L),-6438.44,2026-01 to 2026-09,SIMULATED
++/- Service recognition timing: GP of orders completed in window less GP of orders received in window,-8835.300000000047,2026-01 to 2026-09,SIMULATED
+- Depreciation of fixed assets (not in operational P&L),-31929.35,2026-01 to 2026-09,SIMULATED
+= Explained GL EBIT,96992.90999999995,2026-01 to 2026-09,SIMULATED
+GL EBIT (income statement),96992.90999999999,2026-01 to 2026-09,SIMULATED
+Unexplained residual (must be 0),4.3655745685100555e-11,2026-01 to 2026-09,SIMULATED

@@ -1,0 +1,9 @@
+asset_id,description,account,acquired,cost,useful_life_months,monthly_depreciation,accumulated_depreciation_30sep2026,net_book_value_30sep2026,data_status
+FA-001,Store fit-out & showroom (leasehold improvements),1500,2023-10-25,165000.0,120,1375.0,48125.0,116875.0,SIMULATED
+FA-002,"Workshop benches, stands & tools",1510,2023-10-25,38000.0,60,633.33,22166.55,15833.45,SIMULATED
+FA-003,"POS terminals, IT & showroom furniture",1520,2023-10-25,22000.0,36,611.11,21388.85,611.15,SIMULATED
+FA-004,Third service bench & tooling (seasonal technician),1510,2024-04-02,14500.0,60,241.67,7008.43,7491.57,SIMULATED
+FA-005,E-bike diagnostic tools (Bosch/Shimano/Bafang),1510,2025-03-03,9800.0,60,163.33,2939.94,6860.06,SIMULATED
+FA-006,Exterior signage refresh,1500,2025-05-05,6500.0,96,67.71,1083.36,5416.64,SIMULATED
+FA-007,POS & inventory-system upgrade,1520,2026-02-02,18000.0,36,500.0,3500.0,14500.0,SIMULATED
+FA-008,Back-room bike storage racking,1510,2026-04-06,7200.0,60,120.0,600.0,6600.0,SIMULATED

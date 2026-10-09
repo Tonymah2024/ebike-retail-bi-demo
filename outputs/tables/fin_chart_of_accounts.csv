@@ -1,0 +1,55 @@
+code,name,type,normal_balance,statement_line,cash_flow_class,data_status
+1000,Cash - operating bank account,asset,D,Cash and cash equivalents,cash,SIMULATED
+1100,Card & debit processor settlements receivable,asset,D,Accounts receivable,op_wc,SIMULATED
+1110,Consumer-financing partner receivable,asset,D,Accounts receivable,op_wc,SIMULATED
+1120,Trade receivables - business/fleet accounts,asset,D,Accounts receivable,op_wc,SIMULATED
+1130,Manufacturer warranty claims receivable,asset,D,Accounts receivable,op_wc,SIMULATED
+1200,Merchandise inventory (standard cost),asset,D,Inventory,op_wc,SIMULATED
+1250,Service work in progress,asset,D,Inventory,op_wc,SIMULATED
+1300,Prepaid insurance,asset,D,Prepaid expenses,op_wc,SIMULATED
+1310,Supplier deposits on open purchase orders,asset,D,Prepaid expenses,op_wc,SIMULATED
+1400,GST input tax credits (ITCs),asset,D,Sales tax payable (recoverable),op_wc,SIMULATED
+1500,Leasehold improvements,asset,D,"Property, plant and equipment",ppe,SIMULATED
+1510,Workshop equipment & racking,asset,D,"Property, plant and equipment",ppe,SIMULATED
+1520,"POS, IT & furniture",asset,D,"Property, plant and equipment",ppe,SIMULATED
+1590,Accumulated depreciation,contra_asset,C,Accumulated depreciation,accdep,SIMULATED
+2000,Accounts payable - inventory & parts suppliers,liability,C,Accounts payable,op_wc,SIMULATED
+2010,Accounts payable - operating vendors,liability,C,Accounts payable,op_wc,SIMULATED
+2100,"Accrued payroll, commissions & source deductions",liability,C,Accrued expenses,op_wc,SIMULATED
+2300,GST collected,liability,C,Sales tax payable (recoverable),op_wc,SIMULATED
+2400,Income tax payable (allocated),liability,C,Accrued expenses,op_wc,SIMULATED
+2500,Due to head office - shared services,liability,C,Accrued expenses,op_wc,SIMULATED
+2600,Revolving inventory line of credit,liability,C,Short-term borrowings,fin_rev,SIMULATED
+2700,Term loan (allocated corporate debt),liability,C,Long-term debt,fin_term,SIMULATED
+3000,Allocated corporate equity (head-office investment),equity,C,Share capital / allocated corporate equity,equity,SIMULATED
+3200,Retained earnings,equity,C,Retained earnings,re,SIMULATED
+3300,Distributions to head office,equity,D,Retained earnings,equity,SIMULATED
+4000,Bicycle sales,revenue,C,Bicycle sales revenue,pnl,SIMULATED
+4100,Accessories sales,revenue,C,Accessories and parts revenue,pnl,SIMULATED
+4110,Batteries & chargers sales,revenue,C,Accessories and parts revenue,pnl,SIMULATED
+4120,Parts sales (retail),revenue,C,Accessories and parts revenue,pnl,SIMULATED
+4200,Service labour revenue,revenue,C,Maintenance and repair revenue,pnl,SIMULATED
+4210,Service parts revenue,revenue,C,Maintenance and repair revenue,pnl,SIMULATED
+4220,Warranty labour reimbursements,revenue,C,Maintenance and repair revenue,pnl,SIMULATED
+4900,Sales discounts & promotional allowances,contra_revenue,D,Sales returns and allowances,pnl,SIMULATED
+4910,Sales returns & refunds,contra_revenue,D,Sales returns and allowances,pnl,SIMULATED
+5000,Cost of goods sold - e-bikes,cogs,D,Cost of goods sold,pnl,SIMULATED
+5010,"Cost of goods sold - accessories, batteries & parts",cogs,D,Cost of goods sold,pnl,SIMULATED
+5100,Inventory shrinkage & damaged write-offs,cogs,D,Cost of goods sold,pnl,SIMULATED
+5200,Service parts cost,cogs,D,Cost of goods sold,pnl,SIMULATED
+5210,Direct service labour,cogs,D,Cost of goods sold,pnl,SIMULATED
+6000,"Wages - sales, management & admin (incl. commission)",opex,D,Employee compensation,pnl,SIMULATED
+6010,Technician unapplied & assembly time,opex,D,Employee compensation,pnl,SIMULATED
+6100,Rent,opex,D,Rent and occupancy,pnl,SIMULATED
+6110,Utilities,opex,D,Utilities,pnl,SIMULATED
+6200,Advertising & marketing,opex,D,Marketing and advertising,pnl,SIMULATED
+6300,Insurance,opex,D,Administrative expenses,pnl,SIMULATED
+6310,Administrative - local,opex,D,Administrative expenses,pnl,SIMULATED
+6320,Corporate shared-services allocation,opex,D,Administrative expenses,pnl,SIMULATED
+6400,Freight & logistics,opex,D,Freight and logistics,pnl,SIMULATED
+6410,"Merchant, financing-partner & sundry fees",opex,D,Merchant and financing fees,pnl,SIMULATED
+6420,"Inventory storage, handling & obsolescence",opex,D,Inventory storage and handling,pnl,SIMULATED
+6900,Depreciation,opex,D,Depreciation and amortization,pnl,SIMULATED
+7000,Interest - term loan,other_exp,D,Interest expense,pnl,SIMULATED
+7010,Interest - revolving line of credit,other_exp,D,Interest expense,pnl,SIMULATED
+8000,Income tax expense (allocated),tax,D,Income taxes,pnl,SIMULATED

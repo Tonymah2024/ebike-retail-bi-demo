@@ -1,0 +1,1635 @@
+month,account,account_name,type,debit,credit,data_status
+2023-12,1000,Cash - operating bank account,asset,384178.15,0.0,SIMULATED
+2023-12,1200,Merchandise inventory (standard cost),asset,237697.93,0.0,SIMULATED
+2023-12,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2023-12,1510,Workshop equipment & racking,asset,38000.0,0.0,SIMULATED
+2023-12,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2023-12,1590,Accumulated depreciation,contra_asset,0.0,5238.88,SIMULATED
+2023-12,2000,Accounts payable - inventory & parts suppliers,liability,0.0,55276.08,SIMULATED
+2023-12,2700,Term loan (allocated corporate debt),liability,0.0,250000.0,SIMULATED
+2023-12,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2023-12,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-01,1000,Cash - operating bank account,asset,283273.97,0.0,SIMULATED
+2024-01,1100,Card & debit processor settlements receivable,asset,6011.42,0.0,SIMULATED
+2024-01,1110,Consumer-financing partner receivable,asset,2765.69,0.0,SIMULATED
+2024-01,1130,Manufacturer warranty claims receivable,asset,887.37,0.0,SIMULATED
+2024-01,1200,Merchandise inventory (standard cost),asset,349578.53,0.0,SIMULATED
+2024-01,1250,Service work in progress,asset,1793.49,0.0,SIMULATED
+2024-01,1300,Prepaid insurance,asset,25300.0,0.0,SIMULATED
+2024-01,1310,Supplier deposits on open purchase orders,asset,41768.22,0.0,SIMULATED
+2024-01,1400,GST input tax credits (ITCs),asset,9984.44,0.0,SIMULATED
+2024-01,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-01,1510,Workshop equipment & racking,asset,38000.0,0.0,SIMULATED
+2024-01,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-01,1590,Accumulated depreciation,contra_asset,0.0,7858.32,SIMULATED
+2024-01,2000,Accounts payable - inventory & parts suppliers,liability,0.0,157912.9,SIMULATED
+2024-01,2010,Accounts payable - operating vendors,liability,0.0,22560.42,SIMULATED
+2024-01,2100,"Accrued payroll, commissions & source deductions",liability,0.0,14814.69,SIMULATED
+2024-01,2300,GST collected,liability,0.0,4081.78,SIMULATED
+2024-01,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2024-01,2700,Term loan (allocated corporate debt),liability,0.0,245833.33,SIMULATED
+2024-01,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-01,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-01,4000,Bicycle sales,revenue,0.0,50428.97,SIMULATED
+2024-01,4100,Accessories sales,revenue,0.0,7056.26,SIMULATED
+2024-01,4110,Batteries & chargers sales,revenue,0.0,5897.97,SIMULATED
+2024-01,4120,Parts sales (retail),revenue,0.0,1059.17,SIMULATED
+2024-01,4200,Service labour revenue,revenue,0.0,10273.42,SIMULATED
+2024-01,4210,Service parts revenue,revenue,0.0,6890.14,SIMULATED
+2024-01,4220,Warranty labour reimbursements,revenue,0.0,845.1,SIMULATED
+2024-01,4900,Sales discounts & promotional allowances,contra_revenue,721.87,0.0,SIMULATED
+2024-01,4910,Sales returns & refunds,contra_revenue,94.98,0.0,SIMULATED
+2024-01,5000,Cost of goods sold - e-bikes,cogs,35896.09,0.0,SIMULATED
+2024-01,5010,"Cost of goods sold - accessories, batteries & parts",cogs,8277.9,0.0,SIMULATED
+2024-01,5100,Inventory shrinkage & damaged write-offs,cogs,574.17,0.0,SIMULATED
+2024-01,5200,Service parts cost,cogs,3787.28,0.0,SIMULATED
+2024-01,5210,Direct service labour,cogs,3578.93,0.0,SIMULATED
+2024-01,6000,"Wages - sales, management & admin (incl. commission)",opex,18147.79,0.0,SIMULATED
+2024-01,6010,Technician unapplied & assembly time,opex,6954.21,0.0,SIMULATED
+2024-01,6100,Rent,opex,19000.0,0.0,SIMULATED
+2024-01,6110,Utilities,opex,2360.36,0.0,SIMULATED
+2024-01,6200,Advertising & marketing,opex,4417.58,0.0,SIMULATED
+2024-01,6300,Insurance,opex,2300.0,0.0,SIMULATED
+2024-01,6310,Administrative - local,opex,3196.99,0.0,SIMULATED
+2024-01,6320,Corporate shared-services allocation,opex,650.0,0.0,SIMULATED
+2024-01,6400,Freight & logistics,opex,5956.58,0.0,SIMULATED
+2024-01,6410,"Merchant, financing-partner & sundry fees",opex,2161.75,0.0,SIMULATED
+2024-01,6420,"Inventory storage, handling & obsolescence",opex,3495.79,0.0,SIMULATED
+2024-01,6900,Depreciation,opex,2619.44,0.0,SIMULATED
+2024-01,7000,Interest - term loan,other_exp,1968.75,0.0,SIMULATED
+2024-02,1000,Cash - operating bank account,asset,73882.28,0.0,SIMULATED
+2024-02,1100,Card & debit processor settlements receivable,asset,6079.2,0.0,SIMULATED
+2024-02,1130,Manufacturer warranty claims receivable,asset,1482.73,0.0,SIMULATED
+2024-02,1200,Merchandise inventory (standard cost),asset,511975.69,0.0,SIMULATED
+2024-02,1250,Service work in progress,asset,1416.61,0.0,SIMULATED
+2024-02,1300,Prepaid insurance,asset,23000.0,0.0,SIMULATED
+2024-02,1310,Supplier deposits on open purchase orders,asset,67541.2,0.0,SIMULATED
+2024-02,1400,GST input tax credits (ITCs),asset,22811.88,0.0,SIMULATED
+2024-02,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-02,1510,Workshop equipment & racking,asset,38000.0,0.0,SIMULATED
+2024-02,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-02,1590,Accumulated depreciation,contra_asset,0.0,10477.76,SIMULATED
+2024-02,2000,Accounts payable - inventory & parts suppliers,liability,0.0,168874.11,SIMULATED
+2024-02,2010,Accounts payable - operating vendors,liability,0.0,24668.73,SIMULATED
+2024-02,2100,"Accrued payroll, commissions & source deductions",liability,0.0,13993.54,SIMULATED
+2024-02,2300,GST collected,liability,0.0,9206.17,SIMULATED
+2024-02,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2024-02,2700,Term loan (allocated corporate debt),liability,0.0,241666.66,SIMULATED
+2024-02,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-02,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-02,4000,Bicycle sales,revenue,0.0,100767.97,SIMULATED
+2024-02,4100,Accessories sales,revenue,0.0,14926.39,SIMULATED
+2024-02,4110,Batteries & chargers sales,revenue,0.0,10395.96,SIMULATED
+2024-02,4120,Parts sales (retail),revenue,0.0,1652.48,SIMULATED
+2024-02,4200,Service labour revenue,revenue,0.0,31696.57,SIMULATED
+2024-02,4210,Service parts revenue,revenue,0.0,25321.82,SIMULATED
+2024-02,4220,Warranty labour reimbursements,revenue,0.0,1412.1,SIMULATED
+2024-02,4900,Sales discounts & promotional allowances,contra_revenue,1765.96,0.0,SIMULATED
+2024-02,4910,Sales returns & refunds,contra_revenue,287.45,0.0,SIMULATED
+2024-02,5000,Cost of goods sold - e-bikes,cogs,71345.13,0.0,SIMULATED
+2024-02,5010,"Cost of goods sold - accessories, batteries & parts",cogs,15717.21,0.0,SIMULATED
+2024-02,5100,Inventory shrinkage & damaged write-offs,cogs,1473.47,0.0,SIMULATED
+2024-02,5200,Service parts cost,cogs,13856.38,0.0,SIMULATED
+2024-02,5210,Direct service labour,cogs,10235.23,0.0,SIMULATED
+2024-02,6000,"Wages - sales, management & admin (incl. commission)",opex,35536.48,0.0,SIMULATED
+2024-02,6010,Technician unapplied & assembly time,opex,11087.17,0.0,SIMULATED
+2024-02,6100,Rent,opex,38000.0,0.0,SIMULATED
+2024-02,6110,Utilities,opex,4417.83,0.0,SIMULATED
+2024-02,6200,Advertising & marketing,opex,8857.77,0.0,SIMULATED
+2024-02,6300,Insurance,opex,4600.0,0.0,SIMULATED
+2024-02,6310,Administrative - local,opex,6264.68,0.0,SIMULATED
+2024-02,6320,Corporate shared-services allocation,opex,1300.0,0.0,SIMULATED
+2024-02,6400,Freight & logistics,opex,13564.38,0.0,SIMULATED
+2024-02,6410,"Merchant, financing-partner & sundry fees",opex,4275.52,0.0,SIMULATED
+2024-02,6420,"Inventory storage, handling & obsolescence",opex,7803.56,0.0,SIMULATED
+2024-02,6900,Depreciation,opex,5238.88,0.0,SIMULATED
+2024-02,7000,Interest - term loan,other_exp,3904.69,0.0,SIMULATED
+2024-03,1000,Cash - operating bank account,asset,100770.82,0.0,SIMULATED
+2024-03,1100,Card & debit processor settlements receivable,asset,778.02,0.0,SIMULATED
+2024-03,1120,Trade receivables - business/fleet accounts,asset,2971.48,0.0,SIMULATED
+2024-03,1130,Manufacturer warranty claims receivable,asset,922.33,0.0,SIMULATED
+2024-03,1200,Merchandise inventory (standard cost),asset,678710.31,0.0,SIMULATED
+2024-03,1250,Service work in progress,asset,4766.22,0.0,SIMULATED
+2024-03,1300,Prepaid insurance,asset,20700.0,0.0,SIMULATED
+2024-03,1310,Supplier deposits on open purchase orders,asset,28535.91,0.0,SIMULATED
+2024-03,1400,GST input tax credits (ITCs),asset,38532.81,0.0,SIMULATED
+2024-03,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-03,1510,Workshop equipment & racking,asset,38000.0,0.0,SIMULATED
+2024-03,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-03,1590,Accumulated depreciation,contra_asset,0.0,13097.2,SIMULATED
+2024-03,2000,Accounts payable - inventory & parts suppliers,liability,0.0,209481.54,SIMULATED
+2024-03,2010,Accounts payable - operating vendors,liability,0.0,30807.97,SIMULATED
+2024-03,2100,"Accrued payroll, commissions & source deductions",liability,0.0,16618.2,SIMULATED
+2024-03,2300,GST collected,liability,0.0,17560.89,SIMULATED
+2024-03,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2024-03,2600,Revolving inventory line of credit,liability,0.0,133000.0,SIMULATED
+2024-03,2700,Term loan (allocated corporate debt),liability,0.0,237499.99,SIMULATED
+2024-03,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-03,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-03,4000,Bicycle sales,revenue,0.0,223584.89,SIMULATED
+2024-03,4100,Accessories sales,revenue,0.0,26059.1,SIMULATED
+2024-03,4110,Batteries & chargers sales,revenue,0.0,15692.93,SIMULATED
+2024-03,4120,Parts sales (retail),revenue,0.0,2354.21,SIMULATED
+2024-03,4200,Service labour revenue,revenue,0.0,51771.09,SIMULATED
+2024-03,4210,Service parts revenue,revenue,0.0,39484.83,SIMULATED
+2024-03,4220,Warranty labour reimbursements,revenue,0.0,1892.7,SIMULATED
+2024-03,4900,Sales discounts & promotional allowances,contra_revenue,4022.81,0.0,SIMULATED
+2024-03,4910,Sales returns & refunds,contra_revenue,5605.54,0.0,SIMULATED
+2024-03,5000,Cost of goods sold - e-bikes,cogs,153932.97,0.0,SIMULATED
+2024-03,5010,"Cost of goods sold - accessories, batteries & parts",cogs,25434.43,0.0,SIMULATED
+2024-03,5100,Inventory shrinkage & damaged write-offs,cogs,1473.47,0.0,SIMULATED
+2024-03,5200,Service parts cost,cogs,21464.18,0.0,SIMULATED
+2024-03,5210,Direct service labour,cogs,16296.84,0.0,SIMULATED
+2024-03,6000,"Wages - sales, management & admin (incl. commission)",opex,57732.88,0.0,SIMULATED
+2024-03,6010,Technician unapplied & assembly time,opex,15264.59,0.0,SIMULATED
+2024-03,6100,Rent,opex,57000.0,0.0,SIMULATED
+2024-03,6110,Utilities,opex,6538.95,0.0,SIMULATED
+2024-03,6200,Advertising & marketing,opex,14204.77,0.0,SIMULATED
+2024-03,6300,Insurance,opex,6900.0,0.0,SIMULATED
+2024-03,6310,Administrative - local,opex,9561.55,0.0,SIMULATED
+2024-03,6320,Corporate shared-services allocation,opex,1950.0,0.0,SIMULATED
+2024-03,6400,Freight & logistics,opex,23066.92,0.0,SIMULATED
+2024-03,6410,"Merchant, financing-partner & sundry fees",opex,7551.48,0.0,SIMULATED
+2024-03,6420,"Inventory storage, handling & obsolescence",opex,13756.99,0.0,SIMULATED
+2024-03,6900,Depreciation,opex,7858.32,0.0,SIMULATED
+2024-03,7000,Interest - term loan,other_exp,5807.81,0.0,SIMULATED
+2024-03,7010,Interest - revolving line of credit,other_exp,104.26,0.0,SIMULATED
+2024-04,1000,Cash - operating bank account,asset,100625.71,0.0,SIMULATED
+2024-04,1100,Card & debit processor settlements receivable,asset,24424.63,0.0,SIMULATED
+2024-04,1110,Consumer-financing partner receivable,asset,10099.95,0.0,SIMULATED
+2024-04,1130,Manufacturer warranty claims receivable,asset,762.63,0.0,SIMULATED
+2024-04,1200,Merchandise inventory (standard cost),asset,579158.97,0.0,SIMULATED
+2024-04,1250,Service work in progress,asset,4914.05,0.0,SIMULATED
+2024-04,1300,Prepaid insurance,asset,18400.0,0.0,SIMULATED
+2024-04,1310,Supplier deposits on open purchase orders,asset,4828.28,0.0,SIMULATED
+2024-04,1400,GST input tax credits (ITCs),asset,9342.71,0.0,SIMULATED
+2024-04,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-04,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-04,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-04,1590,Accumulated depreciation,contra_asset,0.0,15716.64,SIMULATED
+2024-04,2000,Accounts payable - inventory & parts suppliers,liability,0.0,91675.32,SIMULATED
+2024-04,2010,Accounts payable - operating vendors,liability,0.0,31266.29,SIMULATED
+2024-04,2100,"Accrued payroll, commissions & source deductions",liability,0.0,24427.43,SIMULATED
+2024-04,2300,GST collected,liability,0.0,17879.37,SIMULATED
+2024-04,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2024-04,2600,Revolving inventory line of credit,liability,0.0,115000.0,SIMULATED
+2024-04,2700,Term loan (allocated corporate debt),liability,0.0,233333.32,SIMULATED
+2024-04,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-04,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-04,4000,Bicycle sales,revenue,0.0,519100.73,SIMULATED
+2024-04,4100,Accessories sales,revenue,0.0,44816.15,SIMULATED
+2024-04,4110,Batteries & chargers sales,revenue,0.0,17792.9,SIMULATED
+2024-04,4120,Parts sales (retail),revenue,0.0,3799.77,SIMULATED
+2024-04,4200,Service labour revenue,revenue,0.0,81383.91,SIMULATED
+2024-04,4210,Service parts revenue,revenue,0.0,68124.66,SIMULATED
+2024-04,4220,Warranty labour reimbursements,revenue,0.0,2419.2,SIMULATED
+2024-04,4900,Sales discounts & promotional allowances,contra_revenue,17957.05,0.0,SIMULATED
+2024-04,4910,Sales returns & refunds,contra_revenue,10682.57,0.0,SIMULATED
+2024-04,5000,Cost of goods sold - e-bikes,cogs,357916.58,0.0,SIMULATED
+2024-04,5010,"Cost of goods sold - accessories, batteries & parts",cogs,37198.02,0.0,SIMULATED
+2024-04,5100,Inventory shrinkage & damaged write-offs,cogs,1511.16,0.0,SIMULATED
+2024-04,5200,Service parts cost,cogs,36946.61,0.0,SIMULATED
+2024-04,5210,Direct service labour,cogs,25226.22,0.0,SIMULATED
+2024-04,6000,"Wages - sales, management & admin (incl. commission)",opex,86180.99,0.0,SIMULATED
+2024-04,6010,Technician unapplied & assembly time,opex,25723.01,0.0,SIMULATED
+2024-04,6100,Rent,opex,76000.0,0.0,SIMULATED
+2024-04,6110,Utilities,opex,8171.12,0.0,SIMULATED
+2024-04,6200,Advertising & marketing,opex,21376.84,0.0,SIMULATED
+2024-04,6300,Insurance,opex,9200.0,0.0,SIMULATED
+2024-04,6310,Administrative - local,opex,12498.84,0.0,SIMULATED
+2024-04,6320,Corporate shared-services allocation,opex,2600.0,0.0,SIMULATED
+2024-04,6400,Freight & logistics,opex,27544.11,0.0,SIMULATED
+2024-04,6410,"Merchant, financing-partner & sundry fees",opex,15184.31,0.0,SIMULATED
+2024-04,6420,"Inventory storage, handling & obsolescence",opex,20046.33,0.0,SIMULATED
+2024-04,6900,Depreciation,opex,10477.76,0.0,SIMULATED
+2024-04,7000,Interest - term loan,other_exp,7678.12,0.0,SIMULATED
+2024-04,7010,Interest - revolving line of credit,other_exp,1570.24,0.0,SIMULATED
+2024-05,1000,Cash - operating bank account,asset,190676.27,0.0,SIMULATED
+2024-05,1100,Card & debit processor settlements receivable,asset,21719.28,0.0,SIMULATED
+2024-05,1110,Consumer-financing partner receivable,asset,14741.41,0.0,SIMULATED
+2024-05,1120,Trade receivables - business/fleet accounts,asset,9555.66,0.0,SIMULATED
+2024-05,1130,Manufacturer warranty claims receivable,asset,1016.85,0.0,SIMULATED
+2024-05,1200,Merchandise inventory (standard cost),asset,390873.1,0.0,SIMULATED
+2024-05,1250,Service work in progress,asset,9206.33,0.0,SIMULATED
+2024-05,1300,Prepaid insurance,asset,16100.0,0.0,SIMULATED
+2024-05,1310,Supplier deposits on open purchase orders,asset,29215.17,0.0,SIMULATED
+2024-05,1400,GST input tax credits (ITCs),asset,15785.34,0.0,SIMULATED
+2024-05,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-05,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-05,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-05,1590,Accumulated depreciation,contra_asset,0.0,18577.75,SIMULATED
+2024-05,2000,Accounts payable - inventory & parts suppliers,liability,0.0,81234.8,SIMULATED
+2024-05,2010,Accounts payable - operating vendors,liability,0.0,30471.23,SIMULATED
+2024-05,2100,"Accrued payroll, commissions & source deductions",liability,0.0,24926.2,SIMULATED
+2024-05,2300,GST collected,liability,0.0,39434.08,SIMULATED
+2024-05,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2024-05,2700,Term loan (allocated corporate debt),liability,0.0,229166.65,SIMULATED
+2024-05,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-05,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-05,4000,Bicycle sales,revenue,0.0,876741.44,SIMULATED
+2024-05,4100,Accessories sales,revenue,0.0,65981.96,SIMULATED
+2024-05,4110,Batteries & chargers sales,revenue,0.0,21589.88,SIMULATED
+2024-05,4120,Parts sales (retail),revenue,0.0,5124.38,SIMULATED
+2024-05,4200,Service labour revenue,revenue,0.0,117652.26,SIMULATED
+2024-05,4210,Service parts revenue,revenue,0.0,95837.97,SIMULATED
+2024-05,4220,Warranty labour reimbursements,revenue,0.0,2861.1,SIMULATED
+2024-05,4900,Sales discounts & promotional allowances,contra_revenue,27428.41,0.0,SIMULATED
+2024-05,4910,Sales returns & refunds,contra_revenue,18471.96,0.0,SIMULATED
+2024-05,5000,Cost of goods sold - e-bikes,cogs,603425.39,0.0,SIMULATED
+2024-05,5010,"Cost of goods sold - accessories, batteries & parts",cogs,51393.78,0.0,SIMULATED
+2024-05,5100,Inventory shrinkage & damaged write-offs,cogs,1576.14,0.0,SIMULATED
+2024-05,5200,Service parts cost,cogs,52131.95,0.0,SIMULATED
+2024-05,5210,Direct service labour,cogs,35631.24,0.0,SIMULATED
+2024-05,6000,"Wages - sales, management & admin (incl. commission)",opex,115626.64,0.0,SIMULATED
+2024-05,6010,Technician unapplied & assembly time,opex,33965.08,0.0,SIMULATED
+2024-05,6100,Rent,opex,95000.0,0.0,SIMULATED
+2024-05,6110,Utilities,opex,9522.16,0.0,SIMULATED
+2024-05,6200,Advertising & marketing,opex,29723.46,0.0,SIMULATED
+2024-05,6300,Insurance,opex,11500.0,0.0,SIMULATED
+2024-05,6310,Administrative - local,opex,15653.71,0.0,SIMULATED
+2024-05,6320,Corporate shared-services allocation,opex,3250.0,0.0,SIMULATED
+2024-05,6400,Freight & logistics,opex,30491.87,0.0,SIMULATED
+2024-05,6410,"Merchant, financing-partner & sundry fees",opex,23972.57,0.0,SIMULATED
+2024-05,6420,"Inventory storage, handling & obsolescence",opex,24896.49,0.0,SIMULATED
+2024-05,6900,Depreciation,opex,13338.87,0.0,SIMULATED
+2024-05,7000,Interest - term loan,other_exp,9515.62,0.0,SIMULATED
+2024-05,7010,Interest - revolving line of credit,other_exp,2356.07,0.0,SIMULATED
+2024-06,1000,Cash - operating bank account,asset,397881.74,0.0,SIMULATED
+2024-06,1100,Card & debit processor settlements receivable,asset,4303.42,0.0,SIMULATED
+2024-06,1110,Consumer-financing partner receivable,asset,7423.15,0.0,SIMULATED
+2024-06,1120,Trade receivables - business/fleet accounts,asset,3072.7,0.0,SIMULATED
+2024-06,1130,Manufacturer warranty claims receivable,asset,915.72,0.0,SIMULATED
+2024-06,1200,Merchandise inventory (standard cost),asset,317051.88,0.0,SIMULATED
+2024-06,1250,Service work in progress,asset,17678.89,0.0,SIMULATED
+2024-06,1300,Prepaid insurance,asset,13800.0,0.0,SIMULATED
+2024-06,1310,Supplier deposits on open purchase orders,asset,36919.8,0.0,SIMULATED
+2024-06,1400,GST input tax credits (ITCs),asset,26495.09,0.0,SIMULATED
+2024-06,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-06,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-06,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-06,1590,Accumulated depreciation,contra_asset,0.0,21438.86,SIMULATED
+2024-06,2000,Accounts payable - inventory & parts suppliers,liability,0.0,165012.84,SIMULATED
+2024-06,2010,Accounts payable - operating vendors,liability,0.0,31414.53,SIMULATED
+2024-06,2100,"Accrued payroll, commissions & source deductions",liability,0.0,23873.55,SIMULATED
+2024-06,2300,GST collected,liability,0.0,57824.48,SIMULATED
+2024-06,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2024-06,2700,Term loan (allocated corporate debt),liability,0.0,224999.98,SIMULATED
+2024-06,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-06,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-06,4000,Bicycle sales,revenue,0.0,1187200.28,SIMULATED
+2024-06,4100,Accessories sales,revenue,0.0,86763.8,SIMULATED
+2024-06,4110,Batteries & chargers sales,revenue,0.0,25387.86,SIMULATED
+2024-06,4120,Parts sales (retail),revenue,0.0,6564.4,SIMULATED
+2024-06,4200,Service labour revenue,revenue,0.0,149836.01,SIMULATED
+2024-06,4210,Service parts revenue,revenue,0.0,116294.81,SIMULATED
+2024-06,4220,Warranty labour reimbursements,revenue,0.0,3611.7,SIMULATED
+2024-06,4900,Sales discounts & promotional allowances,contra_revenue,35061.33,0.0,SIMULATED
+2024-06,4910,Sales returns & refunds,contra_revenue,32903.57,0.0,SIMULATED
+2024-06,5000,Cost of goods sold - e-bikes,cogs,812315.92,0.0,SIMULATED
+2024-06,5010,"Cost of goods sold - accessories, batteries & parts",cogs,65258.67,0.0,SIMULATED
+2024-06,5100,Inventory shrinkage & damaged write-offs,cogs,7094.67,0.0,SIMULATED
+2024-06,5200,Service parts cost,cogs,63267.87,0.0,SIMULATED
+2024-06,5210,Direct service labour,cogs,44712.33,0.0,SIMULATED
+2024-06,6000,"Wages - sales, management & admin (incl. commission)",opex,143751.86,0.0,SIMULATED
+2024-06,6010,Technician unapplied & assembly time,opex,43044.8,0.0,SIMULATED
+2024-06,6100,Rent,opex,114000.0,0.0,SIMULATED
+2024-06,6110,Utilities,opex,10701.36,0.0,SIMULATED
+2024-06,6200,Advertising & marketing,opex,38636.46,0.0,SIMULATED
+2024-06,6300,Insurance,opex,13800.0,0.0,SIMULATED
+2024-06,6310,Administrative - local,opex,18776.69,0.0,SIMULATED
+2024-06,6320,Corporate shared-services allocation,opex,3900.0,0.0,SIMULATED
+2024-06,6400,Freight & logistics,opex,36332.65,0.0,SIMULATED
+2024-06,6410,"Merchant, financing-partner & sundry fees",opex,31662.2,0.0,SIMULATED
+2024-06,6420,"Inventory storage, handling & obsolescence",opex,28435.67,0.0,SIMULATED
+2024-06,6900,Depreciation,opex,16199.98,0.0,SIMULATED
+2024-06,7000,Interest - term loan,other_exp,11279.73,0.0,SIMULATED
+2024-06,7010,Interest - revolving line of credit,other_exp,2356.07,0.0,SIMULATED
+2024-07,1000,Cash - operating bank account,asset,452726.02,0.0,SIMULATED
+2024-07,1100,Card & debit processor settlements receivable,asset,28088.37,0.0,SIMULATED
+2024-07,1120,Trade receivables - business/fleet accounts,asset,2833.95,0.0,SIMULATED
+2024-07,1130,Manufacturer warranty claims receivable,asset,1470.45,0.0,SIMULATED
+2024-07,1200,Merchandise inventory (standard cost),asset,316752.7,0.0,SIMULATED
+2024-07,1250,Service work in progress,asset,13983.06,0.0,SIMULATED
+2024-07,1300,Prepaid insurance,asset,11500.0,0.0,SIMULATED
+2024-07,1310,Supplier deposits on open purchase orders,asset,30663.42,0.0,SIMULATED
+2024-07,1400,GST input tax credits (ITCs),asset,14634.04,0.0,SIMULATED
+2024-07,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-07,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-07,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-07,1590,Accumulated depreciation,contra_asset,0.0,24299.97,SIMULATED
+2024-07,2000,Accounts payable - inventory & parts suppliers,liability,0.0,208273.43,SIMULATED
+2024-07,2010,Accounts payable - operating vendors,liability,0.0,32692.63,SIMULATED
+2024-07,2100,"Accrued payroll, commissions & source deductions",liability,0.0,24656.19,SIMULATED
+2024-07,2300,GST collected,liability,0.0,20140.99,SIMULATED
+2024-07,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2024-07,2700,Term loan (allocated corporate debt),liability,0.0,220833.31,SIMULATED
+2024-07,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-07,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-07,4000,Bicycle sales,revenue,0.0,1505346.07,SIMULATED
+2024-07,4100,Accessories sales,revenue,0.0,107405.67,SIMULATED
+2024-07,4110,Batteries & chargers sales,revenue,0.0,30584.82,SIMULATED
+2024-07,4120,Parts sales (retail),revenue,0.0,8250.39,SIMULATED
+2024-07,4200,Service labour revenue,revenue,0.0,184673.64,SIMULATED
+2024-07,4210,Service parts revenue,revenue,0.0,149669.02,SIMULATED
+2024-07,4220,Warranty labour reimbursements,revenue,0.0,5012.1,SIMULATED
+2024-07,4900,Sales discounts & promotional allowances,contra_revenue,40976.09,0.0,SIMULATED
+2024-07,4910,Sales returns & refunds,contra_revenue,39456.75,0.0,SIMULATED
+2024-07,5000,Cost of goods sold - e-bikes,cogs,1032429.5,0.0,SIMULATED
+2024-07,5010,"Cost of goods sold - accessories, batteries & parts",cogs,79813.97,0.0,SIMULATED
+2024-07,5100,Inventory shrinkage & damaged write-offs,cogs,7255.13,0.0,SIMULATED
+2024-07,5200,Service parts cost,cogs,81346.71,0.0,SIMULATED
+2024-07,5210,Direct service labour,cogs,55216.56,0.0,SIMULATED
+2024-07,6000,"Wages - sales, management & admin (incl. commission)",opex,172657.49,0.0,SIMULATED
+2024-07,6010,Technician unapplied & assembly time,opex,53458.55,0.0,SIMULATED
+2024-07,6100,Rent,opex,133000.0,0.0,SIMULATED
+2024-07,6110,Utilities,opex,11937.39,0.0,SIMULATED
+2024-07,6200,Advertising & marketing,opex,46513.58,0.0,SIMULATED
+2024-07,6300,Insurance,opex,16100.0,0.0,SIMULATED
+2024-07,6310,Administrative - local,opex,22141.67,0.0,SIMULATED
+2024-07,6320,Corporate shared-services allocation,opex,4550.0,0.0,SIMULATED
+2024-07,6400,Freight & logistics,opex,44941.37,0.0,SIMULATED
+2024-07,6410,"Merchant, financing-partner & sundry fees",opex,38886.89,0.0,SIMULATED
+2024-07,6420,"Inventory storage, handling & obsolescence",opex,31603.99,0.0,SIMULATED
+2024-07,6900,Depreciation,opex,19061.09,0.0,SIMULATED
+2024-07,7000,Interest - term loan,other_exp,12994.54,0.0,SIMULATED
+2024-07,7010,Interest - revolving line of credit,other_exp,2356.07,0.0,SIMULATED
+2024-08,1000,Cash - operating bank account,asset,436670.57,0.0,SIMULATED
+2024-08,1100,Card & debit processor settlements receivable,asset,17785.72,0.0,SIMULATED
+2024-08,1110,Consumer-financing partner receivable,asset,22506.97,0.0,SIMULATED
+2024-08,1130,Manufacturer warranty claims receivable,asset,1478.01,0.0,SIMULATED
+2024-08,1200,Merchandise inventory (standard cost),asset,332144.87,0.0,SIMULATED
+2024-08,1250,Service work in progress,asset,8549.32,0.0,SIMULATED
+2024-08,1300,Prepaid insurance,asset,9200.0,0.0,SIMULATED
+2024-08,1310,Supplier deposits on open purchase orders,asset,15096.9,0.0,SIMULATED
+2024-08,1400,GST input tax credits (ITCs),asset,28053.51,0.0,SIMULATED
+2024-08,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-08,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-08,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-08,1590,Accumulated depreciation,contra_asset,0.0,27161.08,SIMULATED
+2024-08,2000,Accounts payable - inventory & parts suppliers,liability,0.0,171774.31,SIMULATED
+2024-08,2010,Accounts payable - operating vendors,liability,0.0,31295.62,SIMULATED
+2024-08,2100,"Accrued payroll, commissions & source deductions",liability,0.0,25038.85,SIMULATED
+2024-08,2300,GST collected,liability,0.0,37279.1,SIMULATED
+2024-08,2400,Income tax payable (allocated),liability,0.0,108.16,SIMULATED
+2024-08,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2024-08,2700,Term loan (allocated corporate debt),liability,0.0,216666.64,SIMULATED
+2024-08,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-08,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-08,4000,Bicycle sales,revenue,0.0,1777642.93,SIMULATED
+2024-08,4100,Accessories sales,revenue,0.0,125824.69,SIMULATED
+2024-08,4110,Batteries & chargers sales,revenue,0.0,36281.81,SIMULATED
+2024-08,4120,Parts sales (retail),revenue,0.0,9556.01,SIMULATED
+2024-08,4200,Service labour revenue,revenue,0.0,219554.8,SIMULATED
+2024-08,4210,Service parts revenue,revenue,0.0,174301.09,SIMULATED
+2024-08,4220,Warranty labour reimbursements,revenue,0.0,6240.6,SIMULATED
+2024-08,4900,Sales discounts & promotional allowances,contra_revenue,44935.36,0.0,SIMULATED
+2024-08,4910,Sales returns & refunds,contra_revenue,51198.71,0.0,SIMULATED
+2024-08,5000,Cost of goods sold - e-bikes,cogs,1217850.5,0.0,SIMULATED
+2024-08,5010,"Cost of goods sold - accessories, batteries & parts",cogs,92854.02,0.0,SIMULATED
+2024-08,5100,Inventory shrinkage & damaged write-offs,cogs,10266.89,0.0,SIMULATED
+2024-08,5200,Service parts cost,cogs,94783.34,0.0,SIMULATED
+2024-08,5210,Direct service labour,cogs,65413.99,0.0,SIMULATED
+2024-08,6000,"Wages - sales, management & admin (incl. commission)",opex,201543.58,0.0,SIMULATED
+2024-08,6010,Technician unapplied & assembly time,opex,65766.38,0.0,SIMULATED
+2024-08,6100,Rent,opex,152000.0,0.0,SIMULATED
+2024-08,6110,Utilities,opex,13110.06,0.0,SIMULATED
+2024-08,6200,Advertising & marketing,opex,54292.48,0.0,SIMULATED
+2024-08,6300,Insurance,opex,18400.0,0.0,SIMULATED
+2024-08,6310,Administrative - local,opex,25121.02,0.0,SIMULATED
+2024-08,6320,Corporate shared-services allocation,opex,5200.0,0.0,SIMULATED
+2024-08,6400,Freight & logistics,opex,52973.19,0.0,SIMULATED
+2024-08,6410,"Merchant, financing-partner & sundry fees",opex,45814.92,0.0,SIMULATED
+2024-08,6420,"Inventory storage, handling & obsolescence",opex,34848.48,0.0,SIMULATED
+2024-08,6900,Depreciation,opex,21922.2,0.0,SIMULATED
+2024-08,7000,Interest - term loan,other_exp,14641.59,0.0,SIMULATED
+2024-08,7010,Interest - revolving line of credit,other_exp,2356.07,0.0,SIMULATED
+2024-08,8000,Income tax expense (allocated),tax,108.16,0.0,SIMULATED
+2024-09,1000,Cash - operating bank account,asset,400722.01,0.0,SIMULATED
+2024-09,1100,Card & debit processor settlements receivable,asset,11413.96,0.0,SIMULATED
+2024-09,1130,Manufacturer warranty claims receivable,asset,1238.93,0.0,SIMULATED
+2024-09,1200,Merchandise inventory (standard cost),asset,389634.13,0.0,SIMULATED
+2024-09,1250,Service work in progress,asset,2393.71,0.0,SIMULATED
+2024-09,1300,Prepaid insurance,asset,6900.0,0.0,SIMULATED
+2024-09,1310,Supplier deposits on open purchase orders,asset,23509.71,0.0,SIMULATED
+2024-09,1400,GST input tax credits (ITCs),asset,39413.89,0.0,SIMULATED
+2024-09,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-09,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-09,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-09,1590,Accumulated depreciation,contra_asset,0.0,30022.19,SIMULATED
+2024-09,2000,Accounts payable - inventory & parts suppliers,liability,0.0,176707.44,SIMULATED
+2024-09,2010,Accounts payable - operating vendors,liability,0.0,26762.53,SIMULATED
+2024-09,2100,"Accrued payroll, commissions & source deductions",liability,0.0,22072.68,SIMULATED
+2024-09,2300,GST collected,liability,0.0,48668.49,SIMULATED
+2024-09,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2024-09,2700,Term loan (allocated corporate debt),liability,0.0,212499.97,SIMULATED
+2024-09,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-09,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-09,4000,Bicycle sales,revenue,0.0,1938520.84,SIMULATED
+2024-09,4100,Accessories sales,revenue,0.0,139254.34,SIMULATED
+2024-09,4110,Batteries & chargers sales,revenue,0.0,44778.76,SIMULATED
+2024-09,4120,Parts sales (retail),revenue,0.0,11038.2,SIMULATED
+2024-09,4200,Service labour revenue,revenue,0.0,251624.12,SIMULATED
+2024-09,4210,Service parts revenue,revenue,0.0,197409.57,SIMULATED
+2024-09,4220,Warranty labour reimbursements,revenue,0.0,6980.4,SIMULATED
+2024-09,4900,Sales discounts & promotional allowances,contra_revenue,48130.43,0.0,SIMULATED
+2024-09,4910,Sales returns & refunds,contra_revenue,60422.75,0.0,SIMULATED
+2024-09,5000,Cost of goods sold - e-bikes,cogs,1325003.59,0.0,SIMULATED
+2024-09,5010,"Cost of goods sold - accessories, batteries & parts",cogs,106376.64,0.0,SIMULATED
+2024-09,5100,Inventory shrinkage & damaged write-offs,cogs,10266.89,0.0,SIMULATED
+2024-09,5200,Service parts cost,cogs,107223.82,0.0,SIMULATED
+2024-09,5210,Direct service labour,cogs,74841.63,0.0,SIMULATED
+2024-09,6000,"Wages - sales, management & admin (incl. commission)",opex,226851.94,0.0,SIMULATED
+2024-09,6010,Technician unapplied & assembly time,opex,78021.31,0.0,SIMULATED
+2024-09,6100,Rent,opex,171000.0,0.0,SIMULATED
+2024-09,6110,Utilities,opex,14192.97,0.0,SIMULATED
+2024-09,6200,Advertising & marketing,opex,60826.95,0.0,SIMULATED
+2024-09,6300,Insurance,opex,20700.0,0.0,SIMULATED
+2024-09,6310,Administrative - local,opex,28098.35,0.0,SIMULATED
+2024-09,6320,Corporate shared-services allocation,opex,5850.0,0.0,SIMULATED
+2024-09,6400,Freight & logistics,opex,59682.73,0.0,SIMULATED
+2024-09,6410,"Merchant, financing-partner & sundry fees",opex,50619.49,0.0,SIMULATED
+2024-09,6420,"Inventory storage, handling & obsolescence",opex,38456.57,0.0,SIMULATED
+2024-09,6900,Depreciation,opex,24783.31,0.0,SIMULATED
+2024-09,7000,Interest - term loan,other_exp,16218.87,0.0,SIMULATED
+2024-09,7010,Interest - revolving line of credit,other_exp,2356.07,0.0,SIMULATED
+2024-10,1000,Cash - operating bank account,asset,289312.24,0.0,SIMULATED
+2024-10,1100,Card & debit processor settlements receivable,asset,11003.07,0.0,SIMULATED
+2024-10,1110,Consumer-financing partner receivable,asset,3001.94,0.0,SIMULATED
+2024-10,1130,Manufacturer warranty claims receivable,asset,878.87,0.0,SIMULATED
+2024-10,1200,Merchandise inventory (standard cost),asset,371878.78,0.0,SIMULATED
+2024-10,1250,Service work in progress,asset,4179.17,0.0,SIMULATED
+2024-10,1300,Prepaid insurance,asset,4600.0,0.0,SIMULATED
+2024-10,1310,Supplier deposits on open purchase orders,asset,26161.11,0.0,SIMULATED
+2024-10,1400,GST input tax credits (ITCs),asset,6242.52,0.0,SIMULATED
+2024-10,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-10,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-10,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-10,1590,Accumulated depreciation,contra_asset,0.0,32883.3,SIMULATED
+2024-10,2000,Accounts payable - inventory & parts suppliers,liability,0.0,83872.98,SIMULATED
+2024-10,2010,Accounts payable - operating vendors,liability,0.0,21629.28,SIMULATED
+2024-10,2100,"Accrued payroll, commissions & source deductions",liability,0.0,19519.41,SIMULATED
+2024-10,2300,GST collected,liability,0.0,8808.43,SIMULATED
+2024-10,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2024-10,2700,Term loan (allocated corporate debt),liability,0.0,208333.3,SIMULATED
+2024-10,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-10,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-10,4000,Bicycle sales,revenue,0.0,2061400.77,SIMULATED
+2024-10,4100,Accessories sales,revenue,0.0,152837.02,SIMULATED
+2024-10,4110,Batteries & chargers sales,revenue,0.0,54771.74,SIMULATED
+2024-10,4120,Parts sales (retail),revenue,0.0,12387.84,SIMULATED
+2024-10,4200,Service labour revenue,revenue,0.0,273527.08,SIMULATED
+2024-10,4210,Service parts revenue,revenue,0.0,208909.84,SIMULATED
+2024-10,4220,Warranty labour reimbursements,revenue,0.0,7817.4,SIMULATED
+2024-10,4900,Sales discounts & promotional allowances,contra_revenue,50034.46,0.0,SIMULATED
+2024-10,4910,Sales returns & refunds,contra_revenue,64398.22,0.0,SIMULATED
+2024-10,5000,Cost of goods sold - e-bikes,cogs,1409134.13,0.0,SIMULATED
+2024-10,5010,"Cost of goods sold - accessories, batteries & parts",cogs,121011.78,0.0,SIMULATED
+2024-10,5100,Inventory shrinkage & damaged write-offs,cogs,10396.88,0.0,SIMULATED
+2024-10,5200,Service parts cost,cogs,113533.14,0.0,SIMULATED
+2024-10,5210,Direct service labour,cogs,81319.17,0.0,SIMULATED
+2024-10,6000,"Wages - sales, management & admin (incl. commission)",opex,249565.37,0.0,SIMULATED
+2024-10,6010,Technician unapplied & assembly time,opex,87656.77,0.0,SIMULATED
+2024-10,6100,Rent,opex,190000.0,0.0,SIMULATED
+2024-10,6110,Utilities,opex,15720.93,0.0,SIMULATED
+2024-10,6200,Advertising & marketing,opex,65891.01,0.0,SIMULATED
+2024-10,6300,Insurance,opex,23000.0,0.0,SIMULATED
+2024-10,6310,Administrative - local,opex,31229.67,0.0,SIMULATED
+2024-10,6320,Corporate shared-services allocation,opex,6500.0,0.0,SIMULATED
+2024-10,6400,Freight & logistics,opex,62978.66,0.0,SIMULATED
+2024-10,6410,"Merchant, financing-partner & sundry fees",opex,54580.68,0.0,SIMULATED
+2024-10,6420,"Inventory storage, handling & obsolescence",opex,42264.05,0.0,SIMULATED
+2024-10,6900,Depreciation,opex,27644.42,0.0,SIMULATED
+2024-10,7000,Interest - term loan,other_exp,17736.4,0.0,SIMULATED
+2024-10,7010,Interest - revolving line of credit,other_exp,2356.07,0.0,SIMULATED
+2024-11,1000,Cash - operating bank account,asset,241110.08,0.0,SIMULATED
+2024-11,1100,Card & debit processor settlements receivable,asset,12760.16,0.0,SIMULATED
+2024-11,1110,Consumer-financing partner receivable,asset,7696.88,0.0,SIMULATED
+2024-11,1130,Manufacturer warranty claims receivable,asset,1523.36,0.0,SIMULATED
+2024-11,1200,Merchandise inventory (standard cost),asset,368673.68,0.0,SIMULATED
+2024-11,1250,Service work in progress,asset,2360.68,0.0,SIMULATED
+2024-11,1300,Prepaid insurance,asset,2300.0,0.0,SIMULATED
+2024-11,1310,Supplier deposits on open purchase orders,asset,17675.86,0.0,SIMULATED
+2024-11,1400,GST input tax credits (ITCs),asset,12234.88,0.0,SIMULATED
+2024-11,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-11,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-11,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-11,1590,Accumulated depreciation,contra_asset,0.0,35744.41,SIMULATED
+2024-11,2000,Accounts payable - inventory & parts suppliers,liability,0.0,56825.26,SIMULATED
+2024-11,2010,Accounts payable - operating vendors,liability,0.0,21137.97,SIMULATED
+2024-11,2100,"Accrued payroll, commissions & source deductions",liability,0.0,16583.45,SIMULATED
+2024-11,2300,GST collected,liability,0.0,15883.53,SIMULATED
+2024-11,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2024-11,2700,Term loan (allocated corporate debt),liability,0.0,204166.63,SIMULATED
+2024-11,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-11,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-11,4000,Bicycle sales,revenue,0.0,2166235.72,SIMULATED
+2024-11,4100,Accessories sales,revenue,0.0,164740.8,SIMULATED
+2024-11,4110,Batteries & chargers sales,revenue,0.0,56670.73,SIMULATED
+2024-11,4120,Parts sales (retail),revenue,0.0,13530.06,SIMULATED
+2024-11,4200,Service labour revenue,revenue,0.0,288517.53,SIMULATED
+2024-11,4210,Service parts revenue,revenue,0.0,221010.22,SIMULATED
+2024-11,4220,Warranty labour reimbursements,revenue,0.0,8964.0,SIMULATED
+2024-11,4900,Sales discounts & promotional allowances,contra_revenue,56362.83,0.0,SIMULATED
+2024-11,4910,Sales returns & refunds,contra_revenue,64588.19,0.0,SIMULATED
+2024-11,5000,Cost of goods sold - e-bikes,cogs,1482703.0,0.0,SIMULATED
+2024-11,5010,"Cost of goods sold - accessories, batteries & parts",cogs,129002.89,0.0,SIMULATED
+2024-11,5100,Inventory shrinkage & damaged write-offs,cogs,10396.88,0.0,SIMULATED
+2024-11,5200,Service parts cost,cogs,120119.5,0.0,SIMULATED
+2024-11,5210,Direct service labour,cogs,86082.07,0.0,SIMULATED
+2024-11,6000,"Wages - sales, management & admin (incl. commission)",opex,271692.27,0.0,SIMULATED
+2024-11,6010,Technician unapplied & assembly time,opex,94472.88,0.0,SIMULATED
+2024-11,6100,Rent,opex,209000.0,0.0,SIMULATED
+2024-11,6110,Utilities,opex,17782.41,0.0,SIMULATED
+2024-11,6200,Advertising & marketing,opex,71018.6,0.0,SIMULATED
+2024-11,6300,Insurance,opex,25300.0,0.0,SIMULATED
+2024-11,6310,Administrative - local,opex,34326.1,0.0,SIMULATED
+2024-11,6320,Corporate shared-services allocation,opex,7150.0,0.0,SIMULATED
+2024-11,6400,Freight & logistics,opex,66175.26,0.0,SIMULATED
+2024-11,6410,"Merchant, financing-partner & sundry fees",opex,57674.55,0.0,SIMULATED
+2024-11,6420,"Inventory storage, handling & obsolescence",opex,45966.81,0.0,SIMULATED
+2024-11,6900,Depreciation,opex,30505.53,0.0,SIMULATED
+2024-11,7000,Interest - term loan,other_exp,19160.01,0.0,SIMULATED
+2024-11,7010,Interest - revolving line of credit,other_exp,2356.07,0.0,SIMULATED
+2024-12,1000,Cash - operating bank account,asset,235783.35,0.0,SIMULATED
+2024-12,1100,Card & debit processor settlements receivable,asset,5502.49,0.0,SIMULATED
+2024-12,1120,Trade receivables - business/fleet accounts,asset,8593.18,0.0,SIMULATED
+2024-12,1130,Manufacturer warranty claims receivable,asset,776.79,0.0,SIMULATED
+2024-12,1200,Merchandise inventory (standard cost),asset,410467.71,0.0,SIMULATED
+2024-12,1250,Service work in progress,asset,1715.1,0.0,SIMULATED
+2024-12,1310,Supplier deposits on open purchase orders,asset,7737.92,0.0,SIMULATED
+2024-12,1400,GST input tax credits (ITCs),asset,20450.16,0.0,SIMULATED
+2024-12,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2024-12,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2024-12,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2024-12,1590,Accumulated depreciation,contra_asset,0.0,38605.52,SIMULATED
+2024-12,2000,Accounts payable - inventory & parts suppliers,liability,0.0,103871.92,SIMULATED
+2024-12,2010,Accounts payable - operating vendors,liability,0.0,22266.68,SIMULATED
+2024-12,2100,"Accrued payroll, commissions & source deductions",liability,0.0,15637.99,SIMULATED
+2024-12,2300,GST collected,liability,0.0,22674.45,SIMULATED
+2024-12,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2024-12,2700,Term loan (allocated corporate debt),liability,0.0,199999.96,SIMULATED
+2024-12,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2024-12,3200,Retained earnings,equity,63638.88,0.0,SIMULATED
+2024-12,4000,Bicycle sales,revenue,0.0,2270410.65,SIMULATED
+2024-12,4100,Accessories sales,revenue,0.0,175708.8,SIMULATED
+2024-12,4110,Batteries & chargers sales,revenue,0.0,59269.71,SIMULATED
+2024-12,4120,Parts sales (retail),revenue,0.0,14115.88,SIMULATED
+2024-12,4200,Service labour revenue,revenue,0.0,302570.93,SIMULATED
+2024-12,4210,Service parts revenue,revenue,0.0,231600.76,SIMULATED
+2024-12,4220,Warranty labour reimbursements,revenue,0.0,9378.0,SIMULATED
+2024-12,4900,Sales discounts & promotional allowances,contra_revenue,59747.27,0.0,SIMULATED
+2024-12,4910,Sales returns & refunds,contra_revenue,68771.32,0.0,SIMULATED
+2024-12,5000,Cost of goods sold - e-bikes,cogs,1553312.53,0.0,SIMULATED
+2024-12,5010,"Cost of goods sold - accessories, batteries & parts",cogs,136638.58,0.0,SIMULATED
+2024-12,5100,Inventory shrinkage & damaged write-offs,cogs,12148.15,0.0,SIMULATED
+2024-12,5200,Service parts cost,cogs,125800.66,0.0,SIMULATED
+2024-12,5210,Direct service labour,cogs,90421.22,0.0,SIMULATED
+2024-12,6000,"Wages - sales, management & admin (incl. commission)",opex,292811.46,0.0,SIMULATED
+2024-12,6010,Technician unapplied & assembly time,opex,100332.2,0.0,SIMULATED
+2024-12,6100,Rent,opex,228000.0,0.0,SIMULATED
+2024-12,6110,Utilities,opex,19891.02,0.0,SIMULATED
+2024-12,6200,Advertising & marketing,opex,75663.61,0.0,SIMULATED
+2024-12,6300,Insurance,opex,27600.0,0.0,SIMULATED
+2024-12,6310,Administrative - local,opex,37395.26,0.0,SIMULATED
+2024-12,6320,Corporate shared-services allocation,opex,7800.0,0.0,SIMULATED
+2024-12,6400,Freight & logistics,opex,70893.55,0.0,SIMULATED
+2024-12,6410,"Merchant, financing-partner & sundry fees",opex,60582.22,0.0,SIMULATED
+2024-12,6420,"Inventory storage, handling & obsolescence",opex,49862.9,0.0,SIMULATED
+2024-12,6900,Depreciation,opex,33366.64,0.0,SIMULATED
+2024-12,7000,Interest - term loan,other_exp,20501.01,0.0,SIMULATED
+2024-12,7010,Interest - revolving line of credit,other_exp,2356.07,0.0,SIMULATED
+2025-01,1000,Cash - operating bank account,asset,109112.94,0.0,SIMULATED
+2025-01,1100,Card & debit processor settlements receivable,asset,8886.03,0.0,SIMULATED
+2025-01,1120,Trade receivables - business/fleet accounts,asset,178.49,0.0,SIMULATED
+2025-01,1130,Manufacturer warranty claims receivable,asset,1331.52,0.0,SIMULATED
+2025-01,1200,Merchandise inventory (standard cost),asset,443372.09,0.0,SIMULATED
+2025-01,1250,Service work in progress,asset,2074.74,0.0,SIMULATED
+2025-01,1300,Prepaid insurance,asset,26312.0,0.0,SIMULATED
+2025-01,1310,Supplier deposits on open purchase orders,asset,2414.31,0.0,SIMULATED
+2025-01,1400,GST input tax credits (ITCs),asset,5906.67,0.0,SIMULATED
+2025-01,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2025-01,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2025-01,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-01,1590,Accumulated depreciation,contra_asset,0.0,41466.63,SIMULATED
+2025-01,2000,Accounts payable - inventory & parts suppliers,liability,0.0,72745.97,SIMULATED
+2025-01,2010,Accounts payable - operating vendors,liability,0.0,20100.21,SIMULATED
+2025-01,2100,"Accrued payroll, commissions & source deductions",liability,0.0,16690.37,SIMULATED
+2025-01,2300,GST collected,liability,0.0,4456.73,SIMULATED
+2025-01,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2025-01,2700,Term loan (allocated corporate debt),liability,0.0,195833.29,SIMULATED
+2025-01,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-01,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-01,4000,Bicycle sales,revenue,0.0,50401.97,SIMULATED
+2025-01,4100,Accessories sales,revenue,0.0,6670.2,SIMULATED
+2025-01,4110,Batteries & chargers sales,revenue,0.0,6498.95,SIMULATED
+2025-01,4120,Parts sales (retail),revenue,0.0,503.31,SIMULATED
+2025-01,4200,Service labour revenue,revenue,0.0,16860.3,SIMULATED
+2025-01,4210,Service parts revenue,revenue,0.0,11729.17,SIMULATED
+2025-01,4220,Warranty labour reimbursements,revenue,0.0,854.1,SIMULATED
+2025-01,4900,Sales discounts & promotional allowances,contra_revenue,1024.59,0.0,SIMULATED
+2025-01,4910,Sales returns & refunds,contra_revenue,3361.94,0.0,SIMULATED
+2025-01,5000,Cost of goods sold - e-bikes,cogs,33766.81,0.0,SIMULATED
+2025-01,5010,"Cost of goods sold - accessories, batteries & parts",cogs,8028.86,0.0,SIMULATED
+2025-01,5100,Inventory shrinkage & damaged write-offs,cogs,12.99,0.0,SIMULATED
+2025-01,5200,Service parts cost,cogs,6374.14,0.0,SIMULATED
+2025-01,5210,Direct service labour,cogs,5489.53,0.0,SIMULATED
+2025-01,6000,"Wages - sales, management & admin (incl. commission)",opex,21899.14,0.0,SIMULATED
+2025-01,6010,Technician unapplied & assembly time,opex,5939.99,0.0,SIMULATED
+2025-01,6100,Rent,opex,19570.0,0.0,SIMULATED
+2025-01,6110,Utilities,opex,2040.7,0.0,SIMULATED
+2025-01,6200,Advertising & marketing,opex,4851.59,0.0,SIMULATED
+2025-01,6300,Insurance,opex,2392.0,0.0,SIMULATED
+2025-01,6310,Administrative - local,opex,2874.13,0.0,SIMULATED
+2025-01,6320,Corporate shared-services allocation,opex,650.0,0.0,SIMULATED
+2025-01,6400,Freight & logistics,opex,3133.22,0.0,SIMULATED
+2025-01,6410,"Merchant, financing-partner & sundry fees",opex,2073.35,0.0,SIMULATED
+2025-01,6420,"Inventory storage, handling & obsolescence",opex,4268.79,0.0,SIMULATED
+2025-01,6900,Depreciation,opex,2861.11,0.0,SIMULATED
+2025-01,7000,Interest - term loan,other_exp,1279.71,0.0,SIMULATED
+2025-02,1000,Cash - operating bank account,asset,100352.47,0.0,SIMULATED
+2025-02,1100,Card & debit processor settlements receivable,asset,7888.69,0.0,SIMULATED
+2025-02,1130,Manufacturer warranty claims receivable,asset,1649.99,0.0,SIMULATED
+2025-02,1200,Merchandise inventory (standard cost),asset,426880.82,0.0,SIMULATED
+2025-02,1250,Service work in progress,asset,3262.13,0.0,SIMULATED
+2025-02,1300,Prepaid insurance,asset,23920.0,0.0,SIMULATED
+2025-02,1310,Supplier deposits on open purchase orders,asset,7599.92,0.0,SIMULATED
+2025-02,1400,GST input tax credits (ITCs),asset,9210.67,0.0,SIMULATED
+2025-02,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2025-02,1510,Workshop equipment & racking,asset,52500.0,0.0,SIMULATED
+2025-02,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-02,1590,Accumulated depreciation,contra_asset,0.0,44327.74,SIMULATED
+2025-02,2000,Accounts payable - inventory & parts suppliers,liability,0.0,32686.95,SIMULATED
+2025-02,2010,Accounts payable - operating vendors,liability,0.0,18846.61,SIMULATED
+2025-02,2100,"Accrued payroll, commissions & source deductions",liability,0.0,15199.97,SIMULATED
+2025-02,2300,GST collected,liability,0.0,8819.24,SIMULATED
+2025-02,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2025-02,2600,Revolving inventory line of credit,liability,0.0,54000.0,SIMULATED
+2025-02,2700,Term loan (allocated corporate debt),liability,0.0,191666.62,SIMULATED
+2025-02,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-02,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-02,4000,Bicycle sales,revenue,0.0,94035.96,SIMULATED
+2025-02,4100,Accessories sales,revenue,0.0,14623.23,SIMULATED
+2025-02,4110,Batteries & chargers sales,revenue,0.0,8697.93,SIMULATED
+2025-02,4120,Parts sales (retail),revenue,0.0,1887.47,SIMULATED
+2025-02,4200,Service labour revenue,revenue,0.0,34284.66,SIMULATED
+2025-02,4210,Service parts revenue,revenue,0.0,28219.04,SIMULATED
+2025-02,4220,Warranty labour reimbursements,revenue,0.0,1935.9,SIMULATED
+2025-02,4900,Sales discounts & promotional allowances,contra_revenue,1513.53,0.0,SIMULATED
+2025-02,4910,Sales returns & refunds,contra_revenue,5791.04,0.0,SIMULATED
+2025-02,5000,Cost of goods sold - e-bikes,cogs,62672.23,0.0,SIMULATED
+2025-02,5010,"Cost of goods sold - accessories, batteries & parts",cogs,14395.43,0.0,SIMULATED
+2025-02,5100,Inventory shrinkage & damaged write-offs,cogs,2183.7,0.0,SIMULATED
+2025-02,5200,Service parts cost,cogs,15378.07,0.0,SIMULATED
+2025-02,5210,Direct service labour,cogs,10985.86,0.0,SIMULATED
+2025-02,6000,"Wages - sales, management & admin (incl. commission)",opex,42142.28,0.0,SIMULATED
+2025-02,6010,Technician unapplied & assembly time,opex,9993.29,0.0,SIMULATED
+2025-02,6100,Rent,opex,39140.0,0.0,SIMULATED
+2025-02,6110,Utilities,opex,4424.72,0.0,SIMULATED
+2025-02,6200,Advertising & marketing,opex,9784.76,0.0,SIMULATED
+2025-02,6300,Insurance,opex,4784.0,0.0,SIMULATED
+2025-02,6310,Administrative - local,opex,5991.42,0.0,SIMULATED
+2025-02,6320,Corporate shared-services allocation,opex,1300.0,0.0,SIMULATED
+2025-02,6400,Freight & logistics,opex,4322.41,0.0,SIMULATED
+2025-02,6410,"Merchant, financing-partner & sundry fees",opex,4146.28,0.0,SIMULATED
+2025-02,6420,"Inventory storage, handling & obsolescence",opex,8620.06,0.0,SIMULATED
+2025-02,6900,Depreciation,opex,5722.22,0.0,SIMULATED
+2025-02,7000,Interest - term loan,other_exp,2495.51,0.0,SIMULATED
+2025-03,1000,Cash - operating bank account,asset,115450.11,0.0,SIMULATED
+2025-03,1100,Card & debit processor settlements receivable,asset,1836.55,0.0,SIMULATED
+2025-03,1130,Manufacturer warranty claims receivable,asset,2819.91,0.0,SIMULATED
+2025-03,1200,Merchandise inventory (standard cost),asset,420183.86,0.0,SIMULATED
+2025-03,1250,Service work in progress,asset,3723.83,0.0,SIMULATED
+2025-03,1300,Prepaid insurance,asset,21528.0,0.0,SIMULATED
+2025-03,1310,Supplier deposits on open purchase orders,asset,9095.93,0.0,SIMULATED
+2025-03,1400,GST input tax credits (ITCs),asset,14798.39,0.0,SIMULATED
+2025-03,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2025-03,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-03,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-03,1590,Accumulated depreciation,contra_asset,0.0,47188.85,SIMULATED
+2025-03,2000,Accounts payable - inventory & parts suppliers,liability,0.0,57288.87,SIMULATED
+2025-03,2010,Accounts payable - operating vendors,liability,0.0,20856.82,SIMULATED
+2025-03,2100,"Accrued payroll, commissions & source deductions",liability,0.0,19467.41,SIMULATED
+2025-03,2300,GST collected,liability,0.0,15748.28,SIMULATED
+2025-03,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2025-03,2600,Revolving inventory line of credit,liability,0.0,54000.0,SIMULATED
+2025-03,2700,Term loan (allocated corporate debt),liability,0.0,187499.95,SIMULATED
+2025-03,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-03,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-03,4000,Bicycle sales,revenue,0.0,168106.93,SIMULATED
+2025-03,4100,Accessories sales,revenue,0.0,24972.05,SIMULATED
+2025-03,4110,Batteries & chargers sales,revenue,0.0,14192.92,SIMULATED
+2025-03,4120,Parts sales (retail),revenue,0.0,2758.73,SIMULATED
+2025-03,4200,Service labour revenue,revenue,0.0,63115.99,SIMULATED
+2025-03,4210,Service parts revenue,revenue,0.0,49320.2,SIMULATED
+2025-03,4220,Warranty labour reimbursements,revenue,0.0,3866.4,SIMULATED
+2025-03,4900,Sales discounts & promotional allowances,contra_revenue,2845.03,0.0,SIMULATED
+2025-03,4910,Sales returns & refunds,contra_revenue,8531.02,0.0,SIMULATED
+2025-03,5000,Cost of goods sold - e-bikes,cogs,113024.65,0.0,SIMULATED
+2025-03,5010,"Cost of goods sold - accessories, batteries & parts",cogs,23933.16,0.0,SIMULATED
+2025-03,5100,Inventory shrinkage & damaged write-offs,cogs,2238.44,0.0,SIMULATED
+2025-03,5200,Service parts cost,cogs,26841.91,0.0,SIMULATED
+2025-03,5210,Direct service labour,cogs,19810.92,0.0,SIMULATED
+2025-03,6000,"Wages - sales, management & admin (incl. commission)",opex,64392.89,0.0,SIMULATED
+2025-03,6010,Technician unapplied & assembly time,opex,17860.55,0.0,SIMULATED
+2025-03,6100,Rent,opex,58710.0,0.0,SIMULATED
+2025-03,6110,Utilities,opex,6226.93,0.0,SIMULATED
+2025-03,6200,Advertising & marketing,opex,15418.52,0.0,SIMULATED
+2025-03,6300,Insurance,opex,7176.0,0.0,SIMULATED
+2025-03,6310,Administrative - local,opex,9157.1,0.0,SIMULATED
+2025-03,6320,Corporate shared-services allocation,opex,1950.0,0.0,SIMULATED
+2025-03,6400,Freight & logistics,opex,6689.19,0.0,SIMULATED
+2025-03,6410,"Merchant, financing-partner & sundry fees",opex,6940.35,0.0,SIMULATED
+2025-03,6420,"Inventory storage, handling & obsolescence",opex,12854.25,0.0,SIMULATED
+2025-03,6900,Depreciation,opex,8583.33,0.0,SIMULATED
+2025-03,7000,Interest - term loan,other_exp,3660.72,0.0,SIMULATED
+2025-03,7010,Interest - revolving line of credit,other_exp,272.04,0.0,SIMULATED
+2025-04,1000,Cash - operating bank account,asset,241567.77,0.0,SIMULATED
+2025-04,1100,Card & debit processor settlements receivable,asset,20615.76,0.0,SIMULATED
+2025-04,1110,Consumer-financing partner receivable,asset,11485.41,0.0,SIMULATED
+2025-04,1130,Manufacturer warranty claims receivable,asset,1898.53,0.0,SIMULATED
+2025-04,1200,Merchandise inventory (standard cost),asset,311582.46,0.0,SIMULATED
+2025-04,1250,Service work in progress,asset,4559.47,0.0,SIMULATED
+2025-04,1300,Prepaid insurance,asset,19136.0,0.0,SIMULATED
+2025-04,1310,Supplier deposits on open purchase orders,asset,25552.34,0.0,SIMULATED
+2025-04,1400,GST input tax credits (ITCs),asset,8575.14,0.0,SIMULATED
+2025-04,1500,Leasehold improvements,asset,165000.0,0.0,SIMULATED
+2025-04,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-04,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-04,1590,Accumulated depreciation,contra_asset,0.0,50213.29,SIMULATED
+2025-04,2000,Accounts payable - inventory & parts suppliers,liability,0.0,122737.31,SIMULATED
+2025-04,2010,Accounts payable - operating vendors,liability,0.0,27557.09,SIMULATED
+2025-04,2100,"Accrued payroll, commissions & source deductions",liability,0.0,26298.38,SIMULATED
+2025-04,2300,GST collected,liability,0.0,18808.27,SIMULATED
+2025-04,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2025-04,2700,Term loan (allocated corporate debt),liability,0.0,183333.28,SIMULATED
+2025-04,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-04,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-04,4000,Bicycle sales,revenue,0.0,480293.71,SIMULATED
+2025-04,4100,Accessories sales,revenue,0.0,44061.07,SIMULATED
+2025-04,4110,Batteries & chargers sales,revenue,0.0,14892.91,SIMULATED
+2025-04,4120,Parts sales (retail),revenue,0.0,4182.82,SIMULATED
+2025-04,4200,Service labour revenue,revenue,0.0,98389.67,SIMULATED
+2025-04,4210,Service parts revenue,revenue,0.0,77822.51,SIMULATED
+2025-04,4220,Warranty labour reimbursements,revenue,0.0,4838.4,SIMULATED
+2025-04,4900,Sales discounts & promotional allowances,contra_revenue,18736.63,0.0,SIMULATED
+2025-04,4910,Sales returns & refunds,contra_revenue,14623.98,0.0,SIMULATED
+2025-04,5000,Cost of goods sold - e-bikes,cogs,327801.85,0.0,SIMULATED
+2025-04,5010,"Cost of goods sold - accessories, batteries & parts",cogs,34742.68,0.0,SIMULATED
+2025-04,5100,Inventory shrinkage & damaged write-offs,cogs,2238.44,0.0,SIMULATED
+2025-04,5200,Service parts cost,cogs,42326.1,0.0,SIMULATED
+2025-04,5210,Direct service labour,cogs,29779.86,0.0,SIMULATED
+2025-04,6000,"Wages - sales, management & admin (incl. commission)",opex,96936.53,0.0,SIMULATED
+2025-04,6010,Technician unapplied & assembly time,opex,26898.89,0.0,SIMULATED
+2025-04,6100,Rent,opex,78280.0,0.0,SIMULATED
+2025-04,6110,Utilities,opex,7891.19,0.0,SIMULATED
+2025-04,6200,Advertising & marketing,opex,22103.11,0.0,SIMULATED
+2025-04,6300,Insurance,opex,9568.0,0.0,SIMULATED
+2025-04,6310,Administrative - local,opex,12259.33,0.0,SIMULATED
+2025-04,6320,Corporate shared-services allocation,opex,2600.0,0.0,SIMULATED
+2025-04,6400,Freight & logistics,opex,11252.52,0.0,SIMULATED
+2025-04,6410,"Merchant, financing-partner & sundry fees",opex,13840.54,0.0,SIMULATED
+2025-04,6420,"Inventory storage, handling & obsolescence",opex,16513.08,0.0,SIMULATED
+2025-04,6900,Depreciation,opex,11607.77,0.0,SIMULATED
+2025-04,7000,Interest - term loan,other_exp,4785.72,0.0,SIMULATED
+2025-04,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2025-05,1000,Cash - operating bank account,asset,390525.61,0.0,SIMULATED
+2025-05,1100,Card & debit processor settlements receivable,asset,19531.73,0.0,SIMULATED
+2025-05,1110,Consumer-financing partner receivable,asset,11873.38,0.0,SIMULATED
+2025-05,1130,Manufacturer warranty claims receivable,asset,3367.09,0.0,SIMULATED
+2025-05,1200,Merchandise inventory (standard cost),asset,234560.28,0.0,SIMULATED
+2025-05,1250,Service work in progress,asset,13663.06,0.0,SIMULATED
+2025-05,1300,Prepaid insurance,asset,16744.0,0.0,SIMULATED
+2025-05,1310,Supplier deposits on open purchase orders,asset,42265.97,0.0,SIMULATED
+2025-05,1400,GST input tax credits (ITCs),asset,20450.18,0.0,SIMULATED
+2025-05,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2025-05,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-05,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-05,1590,Accumulated depreciation,contra_asset,0.0,53237.73,SIMULATED
+2025-05,2000,Accounts payable - inventory & parts suppliers,liability,0.0,170301.83,SIMULATED
+2025-05,2010,Accounts payable - operating vendors,liability,0.0,31014.58,SIMULATED
+2025-05,2100,"Accrued payroll, commissions & source deductions",liability,0.0,27335.65,SIMULATED
+2025-05,2300,GST collected,liability,0.0,39338.49,SIMULATED
+2025-05,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2025-05,2700,Term loan (allocated corporate debt),liability,0.0,179166.61,SIMULATED
+2025-05,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-05,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-05,4000,Bicycle sales,revenue,0.0,816142.53,SIMULATED
+2025-05,4100,Accessories sales,revenue,0.0,65745.68,SIMULATED
+2025-05,4110,Batteries & chargers sales,revenue,0.0,27488.85,SIMULATED
+2025-05,4120,Parts sales (retail),revenue,0.0,5853.36,SIMULATED
+2025-05,4200,Service labour revenue,revenue,0.0,136517.91,SIMULATED
+2025-05,4210,Service parts revenue,revenue,0.0,99608.91,SIMULATED
+2025-05,4220,Warranty labour reimbursements,revenue,0.0,7489.8,SIMULATED
+2025-05,4900,Sales discounts & promotional allowances,contra_revenue,28393.37,0.0,SIMULATED
+2025-05,4910,Sales returns & refunds,contra_revenue,28730.2,0.0,SIMULATED
+2025-05,5000,Cost of goods sold - e-bikes,cogs,553999.74,0.0,SIMULATED
+2025-05,5010,"Cost of goods sold - accessories, batteries & parts",cogs,55529.19,0.0,SIMULATED
+2025-05,5100,Inventory shrinkage & damaged write-offs,cogs,3259.71,0.0,SIMULATED
+2025-05,5200,Service parts cost,cogs,54197.12,0.0,SIMULATED
+2025-05,5210,Direct service labour,cogs,40962.59,0.0,SIMULATED
+2025-05,6000,"Wages - sales, management & admin (incl. commission)",opex,130752.59,0.0,SIMULATED
+2025-05,6010,Technician unapplied & assembly time,opex,33587.08,0.0,SIMULATED
+2025-05,6100,Rent,opex,97850.0,0.0,SIMULATED
+2025-05,6110,Utilities,opex,9085.71,0.0,SIMULATED
+2025-05,6200,Advertising & marketing,opex,31067.96,0.0,SIMULATED
+2025-05,6300,Insurance,opex,11960.0,0.0,SIMULATED
+2025-05,6310,Administrative - local,opex,15348.42,0.0,SIMULATED
+2025-05,6320,Corporate shared-services allocation,opex,3250.0,0.0,SIMULATED
+2025-05,6400,Freight & logistics,opex,17730.25,0.0,SIMULATED
+2025-05,6410,"Merchant, financing-partner & sundry fees",opex,21275.37,0.0,SIMULATED
+2025-05,6420,"Inventory storage, handling & obsolescence",opex,19243.79,0.0,SIMULATED
+2025-05,6900,Depreciation,opex,14632.21,0.0,SIMULATED
+2025-05,7000,Interest - term loan,other_exp,5885.72,0.0,SIMULATED
+2025-05,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2025-06,1000,Cash - operating bank account,asset,458978.56,0.0,SIMULATED
+2025-06,1100,Card & debit processor settlements receivable,asset,26304.55,0.0,SIMULATED
+2025-06,1110,Consumer-financing partner receivable,asset,19506.66,0.0,SIMULATED
+2025-06,1120,Trade receivables - business/fleet accounts,asset,4879.32,0.0,SIMULATED
+2025-06,1130,Manufacturer warranty claims receivable,asset,3276.37,0.0,SIMULATED
+2025-06,1200,Merchandise inventory (standard cost),asset,238496.44,0.0,SIMULATED
+2025-06,1250,Service work in progress,asset,12230.34,0.0,SIMULATED
+2025-06,1300,Prepaid insurance,asset,14352.0,0.0,SIMULATED
+2025-06,1310,Supplier deposits on open purchase orders,asset,50627.97,0.0,SIMULATED
+2025-06,1400,GST input tax credits (ITCs),asset,35883.44,0.0,SIMULATED
+2025-06,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2025-06,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-06,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-06,1590,Accumulated depreciation,contra_asset,0.0,56329.88,SIMULATED
+2025-06,2000,Accounts payable - inventory & parts suppliers,liability,0.0,223249.48,SIMULATED
+2025-06,2010,Accounts payable - operating vendors,liability,0.0,35839.93,SIMULATED
+2025-06,2100,"Accrued payroll, commissions & source deductions",liability,0.0,26492.33,SIMULATED
+2025-06,2300,GST collected,liability,0.0,59804.46,SIMULATED
+2025-06,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2025-06,2700,Term loan (allocated corporate debt),liability,0.0,174999.94,SIMULATED
+2025-06,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-06,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-06,4000,Bicycle sales,revenue,0.0,1146226.32,SIMULATED
+2025-06,4100,Accessories sales,revenue,0.0,84327.8,SIMULATED
+2025-06,4110,Batteries & chargers sales,revenue,0.0,36385.8,SIMULATED
+2025-06,4120,Parts sales (retail),revenue,0.0,7876.81,SIMULATED
+2025-06,4200,Service labour revenue,revenue,0.0,174676.83,SIMULATED
+2025-06,4210,Service parts revenue,revenue,0.0,125506.65,SIMULATED
+2025-06,4220,Warranty labour reimbursements,revenue,0.0,8963.1,SIMULATED
+2025-06,4900,Sales discounts & promotional allowances,contra_revenue,36348.72,0.0,SIMULATED
+2025-06,4910,Sales returns & refunds,contra_revenue,36575.2,0.0,SIMULATED
+2025-06,5000,Cost of goods sold - e-bikes,cogs,780926.32,0.0,SIMULATED
+2025-06,5010,"Cost of goods sold - accessories, batteries & parts",cogs,72109.65,0.0,SIMULATED
+2025-06,5100,Inventory shrinkage & damaged write-offs,cogs,5695.04,0.0,SIMULATED
+2025-06,5200,Service parts cost,cogs,68239.11,0.0,SIMULATED
+2025-06,5210,Direct service labour,cogs,52147.89,0.0,SIMULATED
+2025-06,6000,"Wages - sales, management & admin (incl. commission)",opex,163684.14,0.0,SIMULATED
+2025-06,6010,Technician unapplied & assembly time,opex,42907.23,0.0,SIMULATED
+2025-06,6100,Rent,opex,117420.0,0.0,SIMULATED
+2025-06,6110,Utilities,opex,10339.24,0.0,SIMULATED
+2025-06,6200,Advertising & marketing,opex,41102.78,0.0,SIMULATED
+2025-06,6300,Insurance,opex,14352.0,0.0,SIMULATED
+2025-06,6310,Administrative - local,opex,18671.61,0.0,SIMULATED
+2025-06,6320,Corporate shared-services allocation,opex,3900.0,0.0,SIMULATED
+2025-06,6400,Freight & logistics,opex,26908.15,0.0,SIMULATED
+2025-06,6410,"Merchant, financing-partner & sundry fees",opex,29652.84,0.0,SIMULATED
+2025-06,6420,"Inventory storage, handling & obsolescence",opex,21609.07,0.0,SIMULATED
+2025-06,6900,Depreciation,opex,17724.36,0.0,SIMULATED
+2025-06,7000,Interest - term loan,other_exp,6960.72,0.0,SIMULATED
+2025-06,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2025-07,1000,Cash - operating bank account,asset,478263.05,0.0,SIMULATED
+2025-07,1100,Card & debit processor settlements receivable,asset,11780.97,0.0,SIMULATED
+2025-07,1120,Trade receivables - business/fleet accounts,asset,14415.41,0.0,SIMULATED
+2025-07,1130,Manufacturer warranty claims receivable,asset,2736.77,0.0,SIMULATED
+2025-07,1200,Merchandise inventory (standard cost),asset,287015.18,0.0,SIMULATED
+2025-07,1250,Service work in progress,asset,10213.1,0.0,SIMULATED
+2025-07,1300,Prepaid insurance,asset,11960.0,0.0,SIMULATED
+2025-07,1310,Supplier deposits on open purchase orders,asset,32041.39,0.0,SIMULATED
+2025-07,1400,GST input tax credits (ITCs),asset,16279.98,0.0,SIMULATED
+2025-07,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2025-07,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-07,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-07,1590,Accumulated depreciation,contra_asset,0.0,59422.03,SIMULATED
+2025-07,2000,Accounts payable - inventory & parts suppliers,liability,0.0,248440.11,SIMULATED
+2025-07,2010,Accounts payable - operating vendors,liability,0.0,32894.85,SIMULATED
+2025-07,2100,"Accrued payroll, commissions & source deductions",liability,0.0,27070.71,SIMULATED
+2025-07,2300,GST collected,liability,0.0,18403.3,SIMULATED
+2025-07,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2025-07,2700,Term loan (allocated corporate debt),liability,0.0,170833.27,SIMULATED
+2025-07,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-07,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-07,4000,Bicycle sales,revenue,0.0,1442208.18,SIMULATED
+2025-07,4100,Accessories sales,revenue,0.0,102243.82,SIMULATED
+2025-07,4110,Batteries & chargers sales,revenue,0.0,38683.79,SIMULATED
+2025-07,4120,Parts sales (retail),revenue,0.0,9537.35,SIMULATED
+2025-07,4200,Service labour revenue,revenue,0.0,209033.96,SIMULATED
+2025-07,4210,Service parts revenue,revenue,0.0,153278.64,SIMULATED
+2025-07,4220,Warranty labour reimbursements,revenue,0.0,11023.2,SIMULATED
+2025-07,4900,Sales discounts & promotional allowances,contra_revenue,41006.29,0.0,SIMULATED
+2025-07,4910,Sales returns & refunds,contra_revenue,45901.17,0.0,SIMULATED
+2025-07,5000,Cost of goods sold - e-bikes,cogs,984988.25,0.0,SIMULATED
+2025-07,5010,"Cost of goods sold - accessories, batteries & parts",cogs,83323.64,0.0,SIMULATED
+2025-07,5100,Inventory shrinkage & damaged write-offs,cogs,8633.64,0.0,SIMULATED
+2025-07,5200,Service parts cost,cogs,83220.87,0.0,SIMULATED
+2025-07,5210,Direct service labour,cogs,62697.57,0.0,SIMULATED
+2025-07,6000,"Wages - sales, management & admin (incl. commission)",opex,196970.31,0.0,SIMULATED
+2025-07,6010,Technician unapplied & assembly time,opex,54422.34,0.0,SIMULATED
+2025-07,6100,Rent,opex,136990.0,0.0,SIMULATED
+2025-07,6110,Utilities,opex,11383.05,0.0,SIMULATED
+2025-07,6200,Advertising & marketing,opex,49703.14,0.0,SIMULATED
+2025-07,6300,Insurance,opex,16744.0,0.0,SIMULATED
+2025-07,6310,Administrative - local,opex,21711.83,0.0,SIMULATED
+2025-07,6320,Corporate shared-services allocation,opex,4550.0,0.0,SIMULATED
+2025-07,6400,Freight & logistics,opex,36718.09,0.0,SIMULATED
+2025-07,6410,"Merchant, financing-partner & sundry fees",opex,36169.7,0.0,SIMULATED
+2025-07,6420,"Inventory storage, handling & obsolescence",opex,24236.63,0.0,SIMULATED
+2025-07,6900,Depreciation,opex,20816.51,0.0,SIMULATED
+2025-07,7000,Interest - term loan,other_exp,8010.72,0.0,SIMULATED
+2025-07,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2025-08,1000,Cash - operating bank account,asset,438601.39,0.0,SIMULATED
+2025-08,1100,Card & debit processor settlements receivable,asset,13136.96,0.0,SIMULATED
+2025-08,1110,Consumer-financing partner receivable,asset,16594.23,0.0,SIMULATED
+2025-08,1120,Trade receivables - business/fleet accounts,asset,6615.24,0.0,SIMULATED
+2025-08,1130,Manufacturer warranty claims receivable,asset,1942.96,0.0,SIMULATED
+2025-08,1200,Merchandise inventory (standard cost),asset,266654.04,0.0,SIMULATED
+2025-08,1250,Service work in progress,asset,7557.49,0.0,SIMULATED
+2025-08,1300,Prepaid insurance,asset,9568.0,0.0,SIMULATED
+2025-08,1310,Supplier deposits on open purchase orders,asset,31135.94,0.0,SIMULATED
+2025-08,1400,GST input tax credits (ITCs),asset,28707.75,0.0,SIMULATED
+2025-08,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2025-08,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-08,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-08,1590,Accumulated depreciation,contra_asset,0.0,62514.18,SIMULATED
+2025-08,2000,Accounts payable - inventory & parts suppliers,liability,0.0,162270.22,SIMULATED
+2025-08,2010,Accounts payable - operating vendors,liability,0.0,30168.36,SIMULATED
+2025-08,2100,"Accrued payroll, commissions & source deductions",liability,0.0,26975.91,SIMULATED
+2025-08,2300,GST collected,liability,0.0,36724.99,SIMULATED
+2025-08,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2025-08,2700,Term loan (allocated corporate debt),liability,0.0,166666.6,SIMULATED
+2025-08,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-08,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-08,4000,Bicycle sales,revenue,0.0,1725707.02,SIMULATED
+2025-08,4100,Accessories sales,revenue,0.0,122106.81,SIMULATED
+2025-08,4110,Batteries & chargers sales,revenue,0.0,40182.78,SIMULATED
+2025-08,4120,Parts sales (retail),revenue,0.0,11227.89,SIMULATED
+2025-08,4200,Service labour revenue,revenue,0.0,245005.51,SIMULATED
+2025-08,4210,Service parts revenue,revenue,0.0,183662.38,SIMULATED
+2025-08,4220,Warranty labour reimbursements,revenue,0.0,12067.2,SIMULATED
+2025-08,4900,Sales discounts & promotional allowances,contra_revenue,45903.83,0.0,SIMULATED
+2025-08,4910,Sales returns & refunds,contra_revenue,48523.59,0.0,SIMULATED
+2025-08,5000,Cost of goods sold - e-bikes,cogs,1183577.89,0.0,SIMULATED
+2025-08,5010,"Cost of goods sold - accessories, batteries & parts",cogs,95324.66,0.0,SIMULATED
+2025-08,5100,Inventory shrinkage & damaged write-offs,cogs,10172.94,0.0,SIMULATED
+2025-08,5200,Service parts cost,cogs,99782.98,0.0,SIMULATED
+2025-08,5210,Direct service labour,cogs,72616.21,0.0,SIMULATED
+2025-08,6000,"Wages - sales, management & admin (incl. commission)",opex,230066.88,0.0,SIMULATED
+2025-08,6010,Technician unapplied & assembly time,opex,66456.63,0.0,SIMULATED
+2025-08,6100,Rent,opex,156560.0,0.0,SIMULATED
+2025-08,6110,Utilities,opex,12562.8,0.0,SIMULATED
+2025-08,6200,Advertising & marketing,opex,57679.27,0.0,SIMULATED
+2025-08,6300,Insurance,opex,19136.0,0.0,SIMULATED
+2025-08,6310,Administrative - local,opex,24865.86,0.0,SIMULATED
+2025-08,6320,Corporate shared-services allocation,opex,5200.0,0.0,SIMULATED
+2025-08,6400,Freight & logistics,opex,43850.7,0.0,SIMULATED
+2025-08,6410,"Merchant, financing-partner & sundry fees",opex,43016.64,0.0,SIMULATED
+2025-08,6420,"Inventory storage, handling & obsolescence",opex,27004.98,0.0,SIMULATED
+2025-08,6900,Depreciation,opex,23908.66,0.0,SIMULATED
+2025-08,7000,Interest - term loan,other_exp,9035.72,0.0,SIMULATED
+2025-08,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2025-09,1000,Cash - operating bank account,asset,434335.6,0.0,SIMULATED
+2025-09,1100,Card & debit processor settlements receivable,asset,9645.09,0.0,SIMULATED
+2025-09,1110,Consumer-financing partner receivable,asset,7031.94,0.0,SIMULATED
+2025-09,1130,Manufacturer warranty claims receivable,asset,2466.5,0.0,SIMULATED
+2025-09,1200,Merchandise inventory (standard cost),asset,307577.71,0.0,SIMULATED
+2025-09,1250,Service work in progress,asset,2282.79,0.0,SIMULATED
+2025-09,1300,Prepaid insurance,asset,7176.0,0.0,SIMULATED
+2025-09,1310,Supplier deposits on open purchase orders,asset,21260.75,0.0,SIMULATED
+2025-09,1400,GST input tax credits (ITCs),asset,40733.3,0.0,SIMULATED
+2025-09,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2025-09,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-09,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-09,1590,Accumulated depreciation,contra_asset,0.0,65606.33,SIMULATED
+2025-09,2000,Accounts payable - inventory & parts suppliers,liability,0.0,158125.9,SIMULATED
+2025-09,2010,Accounts payable - operating vendors,liability,0.0,27596.24,SIMULATED
+2025-09,2100,"Accrued payroll, commissions & source deductions",liability,0.0,25572.31,SIMULATED
+2025-09,2300,GST collected,liability,0.0,50506.9,SIMULATED
+2025-09,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2025-09,2700,Term loan (allocated corporate debt),liability,0.0,162499.93,SIMULATED
+2025-09,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-09,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-09,4000,Bicycle sales,revenue,0.0,1928408.85,SIMULATED
+2025-09,4100,Accessories sales,revenue,0.0,136992.19,SIMULATED
+2025-09,4110,Batteries & chargers sales,revenue,0.0,45278.77,SIMULATED
+2025-09,4120,Parts sales (retail),revenue,0.0,12629.03,SIMULATED
+2025-09,4200,Service labour revenue,revenue,0.0,281231.79,SIMULATED
+2025-09,4210,Service parts revenue,revenue,0.0,214496.9,SIMULATED
+2025-09,4220,Warranty labour reimbursements,revenue,0.0,13845.6,SIMULATED
+2025-09,4900,Sales discounts & promotional allowances,contra_revenue,49103.95,0.0,SIMULATED
+2025-09,4910,Sales returns & refunds,contra_revenue,62612.99,0.0,SIMULATED
+2025-09,5000,Cost of goods sold - e-bikes,cogs,1317268.7,0.0,SIMULATED
+2025-09,5010,"Cost of goods sold - accessories, batteries & parts",cogs,106785.03,0.0,SIMULATED
+2025-09,5100,Inventory shrinkage & damaged write-offs,cogs,11030.43,0.0,SIMULATED
+2025-09,5200,Service parts cost,cogs,116468.94,0.0,SIMULATED
+2025-09,5210,Direct service labour,cogs,82986.82,0.0,SIMULATED
+2025-09,6000,"Wages - sales, management & admin (incl. commission)",opex,261158.37,0.0,SIMULATED
+2025-09,6010,Technician unapplied & assembly time,opex,77929.73,0.0,SIMULATED
+2025-09,6100,Rent,opex,176130.0,0.0,SIMULATED
+2025-09,6110,Utilities,opex,13744.04,0.0,SIMULATED
+2025-09,6200,Advertising & marketing,opex,64323.47,0.0,SIMULATED
+2025-09,6300,Insurance,opex,21528.0,0.0,SIMULATED
+2025-09,6310,Administrative - local,opex,27985.51,0.0,SIMULATED
+2025-09,6320,Corporate shared-services allocation,opex,5850.0,0.0,SIMULATED
+2025-09,6400,Freight & logistics,opex,50841.5,0.0,SIMULATED
+2025-09,6410,"Merchant, financing-partner & sundry fees",opex,48765.87,0.0,SIMULATED
+2025-09,6420,"Inventory storage, handling & obsolescence",opex,29875.77,0.0,SIMULATED
+2025-09,6900,Depreciation,opex,27000.81,0.0,SIMULATED
+2025-09,7000,Interest - term loan,other_exp,10021.52,0.0,SIMULATED
+2025-09,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2025-10,1000,Cash - operating bank account,asset,322089.65,0.0,SIMULATED
+2025-10,1100,Card & debit processor settlements receivable,asset,4239.31,0.0,SIMULATED
+2025-10,1110,Consumer-financing partner receivable,asset,2471.69,0.0,SIMULATED
+2025-10,1130,Manufacturer warranty claims receivable,asset,2165.97,0.0,SIMULATED
+2025-10,1200,Merchandise inventory (standard cost),asset,379861.45,0.0,SIMULATED
+2025-10,1250,Service work in progress,asset,2091.4,0.0,SIMULATED
+2025-10,1300,Prepaid insurance,asset,4784.0,0.0,SIMULATED
+2025-10,1310,Supplier deposits on open purchase orders,asset,10604.58,0.0,SIMULATED
+2025-10,1400,GST input tax credits (ITCs),asset,10179.57,0.0,SIMULATED
+2025-10,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2025-10,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-10,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-10,1590,Accumulated depreciation,contra_asset,0.0,68698.48,SIMULATED
+2025-10,2000,Accounts payable - inventory & parts suppliers,liability,0.0,138153.92,SIMULATED
+2025-10,2010,Accounts payable - operating vendors,liability,0.0,23600.73,SIMULATED
+2025-10,2100,"Accrued payroll, commissions & source deductions",liability,0.0,19703.15,SIMULATED
+2025-10,2300,GST collected,liability,0.0,8089.02,SIMULATED
+2025-10,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2025-10,2700,Term loan (allocated corporate debt),liability,0.0,158333.26,SIMULATED
+2025-10,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-10,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-10,4000,Bicycle sales,revenue,0.0,2034730.77,SIMULATED
+2025-10,4100,Accessories sales,revenue,0.0,150104.96,SIMULATED
+2025-10,4110,Batteries & chargers sales,revenue,0.0,54073.75,SIMULATED
+2025-10,4120,Parts sales (retail),revenue,0.0,13613.25,SIMULATED
+2025-10,4200,Service labour revenue,revenue,0.0,305649.88,SIMULATED
+2025-10,4210,Service parts revenue,revenue,0.0,229963.65,SIMULATED
+2025-10,4220,Warranty labour reimbursements,revenue,0.0,14943.6,SIMULATED
+2025-10,4900,Sales discounts & promotional allowances,contra_revenue,51354.55,0.0,SIMULATED
+2025-10,4910,Sales returns & refunds,contra_revenue,68780.92,0.0,SIMULATED
+2025-10,5000,Cost of goods sold - e-bikes,cogs,1389964.59,0.0,SIMULATED
+2025-10,5010,"Cost of goods sold - accessories, batteries & parts",cogs,117804.89,0.0,SIMULATED
+2025-10,5100,Inventory shrinkage & damaged write-offs,cogs,11576.81,0.0,SIMULATED
+2025-10,5200,Service parts cost,cogs,124759.91,0.0,SIMULATED
+2025-10,5210,Direct service labour,cogs,90033.1,0.0,SIMULATED
+2025-10,6000,"Wages - sales, management & admin (incl. commission)",opex,283880.46,0.0,SIMULATED
+2025-10,6010,Technician unapplied & assembly time,opex,87508.26,0.0,SIMULATED
+2025-10,6100,Rent,opex,195700.0,0.0,SIMULATED
+2025-10,6110,Utilities,opex,15253.19,0.0,SIMULATED
+2025-10,6200,Advertising & marketing,opex,69893.25,0.0,SIMULATED
+2025-10,6300,Insurance,opex,23920.0,0.0,SIMULATED
+2025-10,6310,Administrative - local,opex,30948.68,0.0,SIMULATED
+2025-10,6320,Corporate shared-services allocation,opex,6500.0,0.0,SIMULATED
+2025-10,6400,Freight & logistics,opex,56797.46,0.0,SIMULATED
+2025-10,6410,"Merchant, financing-partner & sundry fees",opex,51960.14,0.0,SIMULATED
+2025-10,6420,"Inventory storage, handling & obsolescence",opex,33312.43,0.0,SIMULATED
+2025-10,6900,Depreciation,opex,30092.96,0.0,SIMULATED
+2025-10,7000,Interest - term loan,other_exp,10959.59,0.0,SIMULATED
+2025-10,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2025-11,1000,Cash - operating bank account,asset,231958.55,0.0,SIMULATED
+2025-11,1100,Card & debit processor settlements receivable,asset,701.12,0.0,SIMULATED
+2025-11,1130,Manufacturer warranty claims receivable,asset,1698.18,0.0,SIMULATED
+2025-11,1200,Merchandise inventory (standard cost),asset,381919.76,0.0,SIMULATED
+2025-11,1250,Service work in progress,asset,1831.21,0.0,SIMULATED
+2025-11,1300,Prepaid insurance,asset,2392.0,0.0,SIMULATED
+2025-11,1310,Supplier deposits on open purchase orders,asset,10949.52,0.0,SIMULATED
+2025-11,1400,GST input tax credits (ITCs),asset,16503.78,0.0,SIMULATED
+2025-11,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2025-11,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-11,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-11,1590,Accumulated depreciation,contra_asset,0.0,71790.63,SIMULATED
+2025-11,2000,Accounts payable - inventory & parts suppliers,liability,0.0,75228.3,SIMULATED
+2025-11,2010,Accounts payable - operating vendors,liability,0.0,21205.8,SIMULATED
+2025-11,2100,"Accrued payroll, commissions & source deductions",liability,0.0,18525.93,SIMULATED
+2025-11,2300,GST collected,liability,0.0,15158.95,SIMULATED
+2025-11,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2025-11,2700,Term loan (allocated corporate debt),liability,0.0,154166.59,SIMULATED
+2025-11,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-11,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-11,4000,Bicycle sales,revenue,0.0,2140843.72,SIMULATED
+2025-11,4100,Accessories sales,revenue,0.0,159500.97,SIMULATED
+2025-11,4110,Batteries & chargers sales,revenue,0.0,56972.72,SIMULATED
+2025-11,4120,Parts sales (retail),revenue,0.0,15103.41,SIMULATED
+2025-11,4200,Service labour revenue,revenue,0.0,320732.34,SIMULATED
+2025-11,4210,Service parts revenue,revenue,0.0,239788.49,SIMULATED
+2025-11,4220,Warranty labour reimbursements,revenue,0.0,15976.8,SIMULATED
+2025-11,4900,Sales discounts & promotional allowances,contra_revenue,55716.93,0.0,SIMULATED
+2025-11,4910,Sales returns & refunds,contra_revenue,68860.9,0.0,SIMULATED
+2025-11,5000,Cost of goods sold - e-bikes,cogs,1465008.16,0.0,SIMULATED
+2025-11,5010,"Cost of goods sold - accessories, batteries & parts",cogs,125424.81,0.0,SIMULATED
+2025-11,5100,Inventory shrinkage & damaged write-offs,cogs,11576.81,0.0,SIMULATED
+2025-11,5200,Service parts cost,cogs,130148.83,0.0,SIMULATED
+2025-11,5210,Direct service labour,cogs,94851.27,0.0,SIMULATED
+2025-11,6000,"Wages - sales, management & admin (incl. commission)",opex,305531.51,0.0,SIMULATED
+2025-11,6010,Technician unapplied & assembly time,opex,98121.62,0.0,SIMULATED
+2025-11,6100,Rent,opex,215270.0,0.0,SIMULATED
+2025-11,6110,Utilities,opex,17064.95,0.0,SIMULATED
+2025-11,6200,Advertising & marketing,opex,74680.05,0.0,SIMULATED
+2025-11,6300,Insurance,opex,26312.0,0.0,SIMULATED
+2025-11,6310,Administrative - local,opex,34188.74,0.0,SIMULATED
+2025-11,6320,Corporate shared-services allocation,opex,7150.0,0.0,SIMULATED
+2025-11,6400,Freight & logistics,opex,60181.95,0.0,SIMULATED
+2025-11,6410,"Merchant, financing-partner & sundry fees",opex,55282.33,0.0,SIMULATED
+2025-11,6420,"Inventory storage, handling & obsolescence",opex,37121.33,0.0,SIMULATED
+2025-11,6900,Depreciation,opex,33185.11,0.0,SIMULATED
+2025-11,7000,Interest - term loan,other_exp,11843.62,0.0,SIMULATED
+2025-11,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2025-12,1000,Cash - operating bank account,asset,153494.05,0.0,SIMULATED
+2025-12,1100,Card & debit processor settlements receivable,asset,11229.61,0.0,SIMULATED
+2025-12,1130,Manufacturer warranty claims receivable,asset,1955.24,0.0,SIMULATED
+2025-12,1200,Merchandise inventory (standard cost),asset,415275.11,0.0,SIMULATED
+2025-12,1250,Service work in progress,asset,900.16,0.0,SIMULATED
+2025-12,1310,Supplier deposits on open purchase orders,asset,8391.91,0.0,SIMULATED
+2025-12,1400,GST input tax credits (ITCs),asset,22995.08,0.0,SIMULATED
+2025-12,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2025-12,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2025-12,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2025-12,1590,Accumulated depreciation,contra_asset,0.0,74882.78,SIMULATED
+2025-12,2000,Accounts payable - inventory & parts suppliers,liability,0.0,82162.11,SIMULATED
+2025-12,2010,Accounts payable - operating vendors,liability,0.0,20927.13,SIMULATED
+2025-12,2100,"Accrued payroll, commissions & source deductions",liability,0.0,18248.92,SIMULATED
+2025-12,2300,GST collected,liability,0.0,20081.87,SIMULATED
+2025-12,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2025-12,2700,Term loan (allocated corporate debt),liability,0.0,149999.92,SIMULATED
+2025-12,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2025-12,3200,Retained earnings,equity,74479.82,0.0,SIMULATED
+2025-12,4000,Bicycle sales,revenue,0.0,2208321.67,SIMULATED
+2025-12,4100,Accessories sales,revenue,0.0,170054.98,SIMULATED
+2025-12,4110,Batteries & chargers sales,revenue,0.0,58970.72,SIMULATED
+2025-12,4120,Parts sales (retail),revenue,0.0,16241.59,SIMULATED
+2025-12,4200,Service labour revenue,revenue,0.0,332517.56,SIMULATED
+2025-12,4210,Service parts revenue,revenue,0.0,247696.7,SIMULATED
+2025-12,4220,Warranty labour reimbursements,revenue,0.0,17469.9,SIMULATED
+2025-12,4900,Sales discounts & promotional allowances,contra_revenue,58915.5,0.0,SIMULATED
+2025-12,4910,Sales returns & refunds,contra_revenue,69560.89,0.0,SIMULATED
+2025-12,5000,Cost of goods sold - e-bikes,cogs,1513153.46,0.0,SIMULATED
+2025-12,5010,"Cost of goods sold - accessories, batteries & parts",cogs,132390.17,0.0,SIMULATED
+2025-12,5100,Inventory shrinkage & damaged write-offs,cogs,11696.39,0.0,SIMULATED
+2025-12,5200,Service parts cost,cogs,134393.48,0.0,SIMULATED
+2025-12,5210,Direct service labour,cogs,98712.66,0.0,SIMULATED
+2025-12,6000,"Wages - sales, management & admin (incl. commission)",opex,326628.55,0.0,SIMULATED
+2025-12,6010,Technician unapplied & assembly time,opex,110135.91,0.0,SIMULATED
+2025-12,6100,Rent,opex,234840.0,0.0,SIMULATED
+2025-12,6110,Utilities,opex,19299.5,0.0,SIMULATED
+2025-12,6200,Advertising & marketing,opex,79545.78,0.0,SIMULATED
+2025-12,6300,Insurance,opex,28704.0,0.0,SIMULATED
+2025-12,6310,Administrative - local,opex,37404.17,0.0,SIMULATED
+2025-12,6320,Corporate shared-services allocation,opex,7800.0,0.0,SIMULATED
+2025-12,6400,Freight & logistics,opex,63761.07,0.0,SIMULATED
+2025-12,6410,"Merchant, financing-partner & sundry fees",opex,57434.6,0.0,SIMULATED
+2025-12,6420,"Inventory storage, handling & obsolescence",opex,41107.31,0.0,SIMULATED
+2025-12,6900,Depreciation,opex,36277.26,0.0,SIMULATED
+2025-12,7000,Interest - term loan,other_exp,12704.38,0.0,SIMULATED
+2025-12,7010,Interest - revolving line of credit,other_exp,539.79,0.0,SIMULATED
+2026-01,1000,Cash - operating bank account,asset,72974.76,0.0,SIMULATED
+2026-01,1100,Card & debit processor settlements receivable,asset,8783.89,0.0,SIMULATED
+2026-01,1130,Manufacturer warranty claims receivable,asset,2632.81,0.0,SIMULATED
+2026-01,1200,Merchandise inventory (standard cost),asset,420900.66,0.0,SIMULATED
+2026-01,1250,Service work in progress,asset,1666.38,0.0,SIMULATED
+2026-01,1300,Prepaid insurance,asset,27364.48,0.0,SIMULATED
+2026-01,1310,Supplier deposits on open purchase orders,asset,1931.31,0.0,SIMULATED
+2026-01,1400,GST input tax credits (ITCs),asset,5392.38,0.0,SIMULATED
+2026-01,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-01,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2026-01,1520,"POS, IT & furniture",asset,22000.0,0.0,SIMULATED
+2026-01,1590,Accumulated depreciation,contra_asset,0.0,77974.93,SIMULATED
+2026-01,2000,Accounts payable - inventory & parts suppliers,liability,0.0,59177.18,SIMULATED
+2026-01,2010,Accounts payable - operating vendors,liability,0.0,20425.28,SIMULATED
+2026-01,2100,"Accrued payroll, commissions & source deductions",liability,0.0,19463.31,SIMULATED
+2026-01,2300,GST collected,liability,0.0,5822.1,SIMULATED
+2026-01,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2026-01,2700,Term loan (allocated corporate debt),liability,0.0,145833.25,SIMULATED
+2026-01,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-01,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-01,4000,Bicycle sales,revenue,0.0,73577.94,SIMULATED
+2026-01,4100,Accessories sales,revenue,0.0,9429.01,SIMULATED
+2026-01,4110,Batteries & chargers sales,revenue,0.0,6993.98,SIMULATED
+2026-01,4120,Parts sales (retail),revenue,0.0,956.74,SIMULATED
+2026-01,4200,Service labour revenue,revenue,0.0,19532.13,SIMULATED
+2026-01,4210,Service parts revenue,revenue,0.0,12254.66,SIMULATED
+2026-01,4220,Warranty labour reimbursements,revenue,0.0,1331.1,SIMULATED
+2026-01,4900,Sales discounts & promotional allowances,contra_revenue,1350.77,0.0,SIMULATED
+2026-01,4910,Sales returns & refunds,contra_revenue,6285.12,0.0,SIMULATED
+2026-01,5000,Cost of goods sold - e-bikes,cogs,46825.8,0.0,SIMULATED
+2026-01,5010,"Cost of goods sold - accessories, batteries & parts",cogs,10197.62,0.0,SIMULATED
+2026-01,5100,Inventory shrinkage & damaged write-offs,cogs,974.62,0.0,SIMULATED
+2026-01,5200,Service parts cost,cogs,6616.94,0.0,SIMULATED
+2026-01,5210,Direct service labour,cogs,6091.83,0.0,SIMULATED
+2026-01,6000,"Wages - sales, management & admin (incl. commission)",opex,22242.41,0.0,SIMULATED
+2026-01,6010,Technician unapplied & assembly time,opex,10373.63,0.0,SIMULATED
+2026-01,6100,Rent,opex,20157.1,0.0,SIMULATED
+2026-01,6110,Utilities,opex,2143.58,0.0,SIMULATED
+2026-01,6200,Advertising & marketing,opex,4745.15,0.0,SIMULATED
+2026-01,6300,Insurance,opex,2487.68,0.0,SIMULATED
+2026-01,6310,Administrative - local,opex,3186.44,0.0,SIMULATED
+2026-01,6320,Corporate shared-services allocation,opex,650.0,0.0,SIMULATED
+2026-01,6400,Freight & logistics,opex,2645.66,0.0,SIMULATED
+2026-01,6410,"Merchant, financing-partner & sundry fees",opex,2678.49,0.0,SIMULATED
+2026-01,6420,"Inventory storage, handling & obsolescence",opex,4180.88,0.0,SIMULATED
+2026-01,6900,Depreciation,opex,3092.15,0.0,SIMULATED
+2026-01,7000,Interest - term loan,other_exp,837.5,0.0,SIMULATED
+2026-02,1000,Cash - operating bank account,asset,100304.24,0.0,SIMULATED
+2026-02,1100,Card & debit processor settlements receivable,asset,4528.41,0.0,SIMULATED
+2026-02,1110,Consumer-financing partner receivable,asset,3742.21,0.0,SIMULATED
+2026-02,1120,Trade receivables - business/fleet accounts,asset,3006.13,0.0,SIMULATED
+2026-02,1130,Manufacturer warranty claims receivable,asset,2839.74,0.0,SIMULATED
+2026-02,1200,Merchandise inventory (standard cost),asset,504446.16,0.0,SIMULATED
+2026-02,1250,Service work in progress,asset,3466.25,0.0,SIMULATED
+2026-02,1300,Prepaid insurance,asset,24876.8,0.0,SIMULATED
+2026-02,1310,Supplier deposits on open purchase orders,asset,53700.67,0.0,SIMULATED
+2026-02,1400,GST input tax credits (ITCs),asset,15464.75,0.0,SIMULATED
+2026-02,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-02,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2026-02,1520,"POS, IT & furniture",asset,40000.0,0.0,SIMULATED
+2026-02,1590,Accumulated depreciation,contra_asset,0.0,81067.08,SIMULATED
+2026-02,2000,Accounts payable - inventory & parts suppliers,liability,0.0,122896.69,SIMULATED
+2026-02,2010,Accounts payable - operating vendors,liability,0.0,23585.31,SIMULATED
+2026-02,2100,"Accrued payroll, commissions & source deductions",liability,0.0,17684.99,SIMULATED
+2026-02,2300,GST collected,liability,0.0,11176.59,SIMULATED
+2026-02,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2026-02,2600,Revolving inventory line of credit,liability,0.0,159000.0,SIMULATED
+2026-02,2700,Term loan (allocated corporate debt),liability,0.0,141666.58,SIMULATED
+2026-02,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-02,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-02,4000,Bicycle sales,revenue,0.0,142375.9,SIMULATED
+2026-02,4100,Accessories sales,revenue,0.0,16279.33,SIMULATED
+2026-02,4110,Batteries & chargers sales,revenue,0.0,8393.96,SIMULATED
+2026-02,4120,Parts sales (retail),revenue,0.0,1945.01,SIMULATED
+2026-02,4200,Service labour revenue,revenue,0.0,39741.16,SIMULATED
+2026-02,4210,Service parts revenue,revenue,0.0,25822.57,SIMULATED
+2026-02,4220,Warranty labour reimbursements,revenue,0.0,3071.7,SIMULATED
+2026-02,4900,Sales discounts & promotional allowances,contra_revenue,2434.07,0.0,SIMULATED
+2026-02,4910,Sales returns & refunds,contra_revenue,11668.08,0.0,SIMULATED
+2026-02,5000,Cost of goods sold - e-bikes,cogs,92563.93,0.0,SIMULATED
+2026-02,5010,"Cost of goods sold - accessories, batteries & parts",cogs,14595.44,0.0,SIMULATED
+2026-02,5100,Inventory shrinkage & damaged write-offs,cogs,2227.05,0.0,SIMULATED
+2026-02,5200,Service parts cost,cogs,13910.37,0.0,SIMULATED
+2026-02,5210,Direct service labour,cogs,12500.27,0.0,SIMULATED
+2026-02,6000,"Wages - sales, management & admin (incl. commission)",opex,42853.29,0.0,SIMULATED
+2026-02,6010,Technician unapplied & assembly time,opex,17990.02,0.0,SIMULATED
+2026-02,6100,Rent,opex,40314.2,0.0,SIMULATED
+2026-02,6110,Utilities,opex,4178.54,0.0,SIMULATED
+2026-02,6200,Advertising & marketing,opex,9867.8,0.0,SIMULATED
+2026-02,6300,Insurance,opex,4975.36,0.0,SIMULATED
+2026-02,6310,Administrative - local,opex,6268.44,0.0,SIMULATED
+2026-02,6320,Corporate shared-services allocation,opex,1300.0,0.0,SIMULATED
+2026-02,6400,Freight & logistics,opex,7775.72,0.0,SIMULATED
+2026-02,6410,"Merchant, financing-partner & sundry fees",opex,5267.58,0.0,SIMULATED
+2026-02,6420,"Inventory storage, handling & obsolescence",opex,8807.61,0.0,SIMULATED
+2026-02,6900,Depreciation,opex,6184.3,0.0,SIMULATED
+2026-02,7000,Interest - term loan,other_exp,1651.74,0.0,SIMULATED
+2026-02,7010,Interest - revolving line of credit,other_exp,286.13,0.0,SIMULATED
+2026-03,1000,Cash - operating bank account,asset,87020.94,0.0,SIMULATED
+2026-03,1100,Card & debit processor settlements receivable,asset,5440.15,0.0,SIMULATED
+2026-03,1110,Consumer-financing partner receivable,asset,5976.04,0.0,SIMULATED
+2026-03,1120,Trade receivables - business/fleet accounts,asset,7435.43,0.0,SIMULATED
+2026-03,1130,Manufacturer warranty claims receivable,asset,2002.47,0.0,SIMULATED
+2026-03,1200,Merchandise inventory (standard cost),asset,652730.09,0.0,SIMULATED
+2026-03,1250,Service work in progress,asset,6124.01,0.0,SIMULATED
+2026-03,1300,Prepaid insurance,asset,22389.12,0.0,SIMULATED
+2026-03,1310,Supplier deposits on open purchase orders,asset,40331.09,0.0,SIMULATED
+2026-03,1400,GST input tax credits (ITCs),asset,31197.98,0.0,SIMULATED
+2026-03,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-03,1510,Workshop equipment & racking,asset,62300.0,0.0,SIMULATED
+2026-03,1520,"POS, IT & furniture",asset,40000.0,0.0,SIMULATED
+2026-03,1590,Accumulated depreciation,contra_asset,0.0,84659.23,SIMULATED
+2026-03,2000,Accounts payable - inventory & parts suppliers,liability,0.0,258699.43,SIMULATED
+2026-03,2010,Accounts payable - operating vendors,liability,0.0,31868.04,SIMULATED
+2026-03,2100,"Accrued payroll, commissions & source deductions",liability,0.0,19941.61,SIMULATED
+2026-03,2300,GST collected,liability,0.0,21369.86,SIMULATED
+2026-03,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2026-03,2600,Revolving inventory line of credit,liability,0.0,159000.0,SIMULATED
+2026-03,2700,Term loan (allocated corporate debt),liability,0.0,137499.91,SIMULATED
+2026-03,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-03,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-03,4000,Bicycle sales,revenue,0.0,280438.84,SIMULATED
+2026-03,4100,Accessories sales,revenue,0.0,28514.03,SIMULATED
+2026-03,4110,Batteries & chargers sales,revenue,0.0,11091.95,SIMULATED
+2026-03,4120,Parts sales (retail),revenue,0.0,2915.7,SIMULATED
+2026-03,4200,Service labour revenue,revenue,0.0,67789.77,SIMULATED
+2026-03,4210,Service parts revenue,revenue,0.0,52660.52,SIMULATED
+2026-03,4220,Warranty labour reimbursements,revenue,0.0,4174.2,SIMULATED
+2026-03,4900,Sales discounts & promotional allowances,contra_revenue,4755.05,0.0,SIMULATED
+2026-03,4910,Sales returns & refunds,contra_revenue,15440.51,0.0,SIMULATED
+2026-03,5000,Cost of goods sold - e-bikes,cogs,187700.09,0.0,SIMULATED
+2026-03,5010,"Cost of goods sold - accessories, batteries & parts",cogs,23071.55,0.0,SIMULATED
+2026-03,5100,Inventory shrinkage & damaged write-offs,cogs,2263.95,0.0,SIMULATED
+2026-03,5200,Service parts cost,cogs,28354.7,0.0,SIMULATED
+2026-03,5210,Direct service labour,cogs,21123.99,0.0,SIMULATED
+2026-03,6000,"Wages - sales, management & admin (incl. commission)",opex,66052.31,0.0,SIMULATED
+2026-03,6010,Technician unapplied & assembly time,opex,25316.78,0.0,SIMULATED
+2026-03,6100,Rent,opex,60471.3,0.0,SIMULATED
+2026-03,6110,Utilities,opex,6092.62,0.0,SIMULATED
+2026-03,6200,Advertising & marketing,opex,16055.97,0.0,SIMULATED
+2026-03,6300,Insurance,opex,7463.04,0.0,SIMULATED
+2026-03,6310,Administrative - local,opex,9300.85,0.0,SIMULATED
+2026-03,6320,Corporate shared-services allocation,opex,1950.0,0.0,SIMULATED
+2026-03,6400,Freight & logistics,opex,17059.65,0.0,SIMULATED
+2026-03,6410,"Merchant, financing-partner & sundry fees",opex,9620.93,0.0,SIMULATED
+2026-03,6420,"Inventory storage, handling & obsolescence",opex,14593.49,0.0,SIMULATED
+2026-03,6900,Depreciation,opex,9776.45,0.0,SIMULATED
+2026-03,7000,Interest - term loan,other_exp,2442.71,0.0,SIMULATED
+2026-03,7010,Interest - revolving line of credit,other_exp,1008.26,0.0,SIMULATED
+2026-04,1000,Cash - operating bank account,asset,100079.8,0.0,SIMULATED
+2026-04,1100,Card & debit processor settlements receivable,asset,14957.13,0.0,SIMULATED
+2026-04,1110,Consumer-financing partner receivable,asset,2550.44,0.0,SIMULATED
+2026-04,1130,Manufacturer warranty claims receivable,asset,2981.52,0.0,SIMULATED
+2026-04,1200,Merchandise inventory (standard cost),asset,589924.94,0.0,SIMULATED
+2026-04,1250,Service work in progress,asset,9625.83,0.0,SIMULATED
+2026-04,1300,Prepaid insurance,asset,19901.44,0.0,SIMULATED
+2026-04,1310,Supplier deposits on open purchase orders,asset,13941.62,0.0,SIMULATED
+2026-04,1400,GST input tax credits (ITCs),asset,10424.87,0.0,SIMULATED
+2026-04,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-04,1510,Workshop equipment & racking,asset,69500.0,0.0,SIMULATED
+2026-04,1520,"POS, IT & furniture",asset,40000.0,0.0,SIMULATED
+2026-04,1590,Accumulated depreciation,contra_asset,0.0,88251.38,SIMULATED
+2026-04,2000,Accounts payable - inventory & parts suppliers,liability,0.0,106677.57,SIMULATED
+2026-04,2010,Accounts payable - operating vendors,liability,0.0,31855.73,SIMULATED
+2026-04,2100,"Accrued payroll, commissions & source deductions",liability,0.0,28968.55,SIMULATED
+2026-04,2300,GST collected,liability,0.0,17423.48,SIMULATED
+2026-04,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2026-04,2600,Revolving inventory line of credit,liability,0.0,204000.0,SIMULATED
+2026-04,2700,Term loan (allocated corporate debt),liability,0.0,133333.24,SIMULATED
+2026-04,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-04,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-04,4000,Bicycle sales,revenue,0.0,543461.63,SIMULATED
+2026-04,4100,Accessories sales,revenue,0.0,46879.17,SIMULATED
+2026-04,4110,Batteries & chargers sales,revenue,0.0,21685.91,SIMULATED
+2026-04,4120,Parts sales (retail),revenue,0.0,4006.85,SIMULATED
+2026-04,4200,Service labour revenue,revenue,0.0,103555.13,SIMULATED
+2026-04,4210,Service parts revenue,revenue,0.0,86347.33,SIMULATED
+2026-04,4220,Warranty labour reimbursements,revenue,0.0,6399.9,SIMULATED
+2026-04,4900,Sales discounts & promotional allowances,contra_revenue,17708.81,0.0,SIMULATED
+2026-04,4910,Sales returns & refunds,contra_revenue,18768.41,0.0,SIMULATED
+2026-04,5000,Cost of goods sold - e-bikes,cogs,369861.23,0.0,SIMULATED
+2026-04,5010,"Cost of goods sold - accessories, batteries & parts",cogs,40245.32,0.0,SIMULATED
+2026-04,5100,Inventory shrinkage & damaged write-offs,cogs,2381.46,0.0,SIMULATED
+2026-04,5200,Service parts cost,cogs,46479.4,0.0,SIMULATED
+2026-04,5210,Direct service labour,cogs,31971.39,0.0,SIMULATED
+2026-04,6000,"Wages - sales, management & admin (incl. commission)",opex,98006.6,0.0,SIMULATED
+2026-04,6010,Technician unapplied & assembly time,opex,39103.96,0.0,SIMULATED
+2026-04,6100,Rent,opex,80628.4,0.0,SIMULATED
+2026-04,6110,Utilities,opex,7810.61,0.0,SIMULATED
+2026-04,6200,Advertising & marketing,opex,23803.12,0.0,SIMULATED
+2026-04,6300,Insurance,opex,9950.72,0.0,SIMULATED
+2026-04,6310,Administrative - local,opex,12595.31,0.0,SIMULATED
+2026-04,6320,Corporate shared-services allocation,opex,2600.0,0.0,SIMULATED
+2026-04,6400,Freight & logistics,opex,22300.62,0.0,SIMULATED
+2026-04,6410,"Merchant, financing-partner & sundry fees",opex,16052.13,0.0,SIMULATED
+2026-04,6420,"Inventory storage, handling & obsolescence",opex,20806.76,0.0,SIMULATED
+2026-04,6900,Depreciation,opex,13368.6,0.0,SIMULATED
+2026-04,7000,Interest - term loan,other_exp,3210.42,0.0,SIMULATED
+2026-04,7010,Interest - revolving line of credit,other_exp,2243.44,0.0,SIMULATED
+2026-05,1000,Cash - operating bank account,asset,138781.11,0.0,SIMULATED
+2026-05,1100,Card & debit processor settlements receivable,asset,15569.58,0.0,SIMULATED
+2026-05,1110,Consumer-financing partner receivable,asset,7924.45,0.0,SIMULATED
+2026-05,1120,Trade receivables - business/fleet accounts,asset,5051.41,0.0,SIMULATED
+2026-05,1130,Manufacturer warranty claims receivable,asset,2433.41,0.0,SIMULATED
+2026-05,1200,Merchandise inventory (standard cost),asset,405109.75,0.0,SIMULATED
+2026-05,1250,Service work in progress,asset,7544.97,0.0,SIMULATED
+2026-05,1300,Prepaid insurance,asset,17413.76,0.0,SIMULATED
+2026-05,1310,Supplier deposits on open purchase orders,asset,22959.82,0.0,SIMULATED
+2026-05,1400,GST input tax credits (ITCs),asset,18807.76,0.0,SIMULATED
+2026-05,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-05,1510,Workshop equipment & racking,asset,69500.0,0.0,SIMULATED
+2026-05,1520,"POS, IT & furniture",asset,40000.0,0.0,SIMULATED
+2026-05,1590,Accumulated depreciation,contra_asset,0.0,91963.53,SIMULATED
+2026-05,2000,Accounts payable - inventory & parts suppliers,liability,0.0,100959.72,SIMULATED
+2026-05,2010,Accounts payable - operating vendors,liability,0.0,33255.4,SIMULATED
+2026-05,2100,"Accrued payroll, commissions & source deductions",liability,0.0,30001.71,SIMULATED
+2026-05,2300,GST collected,liability,0.0,42004.18,SIMULATED
+2026-05,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2026-05,2700,Term loan (allocated corporate debt),liability,0.0,129166.57,SIMULATED
+2026-05,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-05,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-05,4000,Bicycle sales,revenue,0.0,940396.38,SIMULATED
+2026-05,4100,Accessories sales,revenue,0.0,70605.55,SIMULATED
+2026-05,4110,Batteries & chargers sales,revenue,0.0,32077.89,SIMULATED
+2026-05,4120,Parts sales (retail),revenue,0.0,6100.28,SIMULATED
+2026-05,4200,Service labour revenue,revenue,0.0,150767.24,SIMULATED
+2026-05,4210,Service parts revenue,revenue,0.0,116726.41,SIMULATED
+2026-05,4220,Warranty labour reimbursements,revenue,0.0,7890.3,SIMULATED
+2026-05,4900,Sales discounts & promotional allowances,contra_revenue,27030.93,0.0,SIMULATED
+2026-05,4910,Sales returns & refunds,contra_revenue,30064.34,0.0,SIMULATED
+2026-05,5000,Cost of goods sold - e-bikes,cogs,641555.81,0.0,SIMULATED
+2026-05,5010,"Cost of goods sold - accessories, batteries & parts",cogs,60451.16,0.0,SIMULATED
+2026-05,5100,Inventory shrinkage & damaged write-offs,cogs,5095.44,0.0,SIMULATED
+2026-05,5200,Service parts cost,cogs,62767.63,0.0,SIMULATED
+2026-05,5210,Direct service labour,cogs,45816.1,0.0,SIMULATED
+2026-05,6000,"Wages - sales, management & admin (incl. commission)",opex,132027.2,0.0,SIMULATED
+2026-05,6010,Technician unapplied & assembly time,opex,51459.39,0.0,SIMULATED
+2026-05,6100,Rent,opex,100785.5,0.0,SIMULATED
+2026-05,6110,Utilities,opex,8997.72,0.0,SIMULATED
+2026-05,6200,Advertising & marketing,opex,33649.82,0.0,SIMULATED
+2026-05,6300,Insurance,opex,12438.4,0.0,SIMULATED
+2026-05,6310,Administrative - local,opex,15587.69,0.0,SIMULATED
+2026-05,6320,Corporate shared-services allocation,opex,3250.0,0.0,SIMULATED
+2026-05,6400,Freight & logistics,opex,26575.55,0.0,SIMULATED
+2026-05,6410,"Merchant, financing-partner & sundry fees",opex,24867.41,0.0,SIMULATED
+2026-05,6420,"Inventory storage, handling & obsolescence",opex,25781.93,0.0,SIMULATED
+2026-05,6900,Depreciation,opex,17080.75,0.0,SIMULATED
+2026-05,7000,Interest - term loan,other_exp,3954.86,0.0,SIMULATED
+2026-05,7010,Interest - revolving line of credit,other_exp,3169.94,0.0,SIMULATED
+2026-06,1000,Cash - operating bank account,asset,369552.74,0.0,SIMULATED
+2026-06,1100,Card & debit processor settlements receivable,asset,25426.66,0.0,SIMULATED
+2026-06,1110,Consumer-financing partner receivable,asset,4456.83,0.0,SIMULATED
+2026-06,1120,Trade receivables - business/fleet accounts,asset,2922.77,0.0,SIMULATED
+2026-06,1130,Manufacturer warranty claims receivable,asset,3260.3,0.0,SIMULATED
+2026-06,1200,Merchandise inventory (standard cost),asset,317073.75,0.0,SIMULATED
+2026-06,1250,Service work in progress,asset,7199.53,0.0,SIMULATED
+2026-06,1300,Prepaid insurance,asset,14926.08,0.0,SIMULATED
+2026-06,1310,Supplier deposits on open purchase orders,asset,24118.47,0.0,SIMULATED
+2026-06,1400,GST input tax credits (ITCs),asset,30778.0,0.0,SIMULATED
+2026-06,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-06,1510,Workshop equipment & racking,asset,69500.0,0.0,SIMULATED
+2026-06,1520,"POS, IT & furniture",asset,40000.0,0.0,SIMULATED
+2026-06,1590,Accumulated depreciation,contra_asset,0.0,95675.68,SIMULATED
+2026-06,2000,Accounts payable - inventory & parts suppliers,liability,0.0,180225.28,SIMULATED
+2026-06,2010,Accounts payable - operating vendors,liability,0.0,34167.62,SIMULATED
+2026-06,2100,"Accrued payroll, commissions & source deductions",liability,0.0,30554.65,SIMULATED
+2026-06,2300,GST collected,liability,0.0,64972.46,SIMULATED
+2026-06,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2026-06,2700,Term loan (allocated corporate debt),liability,0.0,124999.9,SIMULATED
+2026-06,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-06,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-06,4000,Bicycle sales,revenue,0.0,1286497.19,SIMULATED
+2026-06,4100,Accessories sales,revenue,0.0,92512.28,SIMULATED
+2026-06,4110,Batteries & chargers sales,revenue,0.0,47470.85,SIMULATED
+2026-06,4120,Parts sales (retail),revenue,0.0,8706.14,SIMULATED
+2026-06,4200,Service labour revenue,revenue,0.0,199520.8,SIMULATED
+2026-06,4210,Service parts revenue,revenue,0.0,150853.16,SIMULATED
+2026-06,4220,Warranty labour reimbursements,revenue,0.0,10352.7,SIMULATED
+2026-06,4900,Sales discounts & promotional allowances,contra_revenue,35773.38,0.0,SIMULATED
+2026-06,4910,Sales returns & refunds,contra_revenue,33308.27,0.0,SIMULATED
+2026-06,5000,Cost of goods sold - e-bikes,cogs,883715.15,0.0,SIMULATED
+2026-06,5010,"Cost of goods sold - accessories, batteries & parts",cogs,83637.37,0.0,SIMULATED
+2026-06,5100,Inventory shrinkage & damaged write-offs,cogs,5192.82,0.0,SIMULATED
+2026-06,5200,Service parts cost,cogs,81171.52,0.0,SIMULATED
+2026-06,5210,Direct service labour,cogs,60487.27,0.0,SIMULATED
+2026-06,6000,"Wages - sales, management & admin (incl. commission)",opex,166114.39,0.0,SIMULATED
+2026-06,6010,Technician unapplied & assembly time,opex,63310.6,0.0,SIMULATED
+2026-06,6100,Rent,opex,120942.6,0.0,SIMULATED
+2026-06,6110,Utilities,opex,10265.37,0.0,SIMULATED
+2026-06,6200,Advertising & marketing,opex,43241.92,0.0,SIMULATED
+2026-06,6300,Insurance,opex,14926.08,0.0,SIMULATED
+2026-06,6310,Administrative - local,opex,18703.68,0.0,SIMULATED
+2026-06,6320,Corporate shared-services allocation,opex,3900.0,0.0,SIMULATED
+2026-06,6400,Freight & logistics,opex,33269.96,0.0,SIMULATED
+2026-06,6410,"Merchant, financing-partner & sundry fees",opex,33539.91,0.0,SIMULATED
+2026-06,6420,"Inventory storage, handling & obsolescence",opex,29392.84,0.0,SIMULATED
+2026-06,6900,Depreciation,opex,20792.9,0.0,SIMULATED
+2026-06,7000,Interest - term loan,other_exp,4676.04,0.0,SIMULATED
+2026-06,7010,Interest - revolving line of credit,other_exp,3169.94,0.0,SIMULATED
+2026-07,1000,Cash - operating bank account,asset,422230.39,0.0,SIMULATED
+2026-07,1100,Card & debit processor settlements receivable,asset,15443.31,0.0,SIMULATED
+2026-07,1110,Consumer-financing partner receivable,asset,9472.67,0.0,SIMULATED
+2026-07,1130,Manufacturer warranty claims receivable,asset,3672.3,0.0,SIMULATED
+2026-07,1200,Merchandise inventory (standard cost),asset,302597.06,0.0,SIMULATED
+2026-07,1250,Service work in progress,asset,4844.33,0.0,SIMULATED
+2026-07,1300,Prepaid insurance,asset,12438.4,0.0,SIMULATED
+2026-07,1310,Supplier deposits on open purchase orders,asset,42187.61,0.0,SIMULATED
+2026-07,1400,GST input tax credits (ITCs),asset,13766.3,0.0,SIMULATED
+2026-07,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-07,1510,Workshop equipment & racking,asset,69500.0,0.0,SIMULATED
+2026-07,1520,"POS, IT & furniture",asset,40000.0,0.0,SIMULATED
+2026-07,1590,Accumulated depreciation,contra_asset,0.0,99387.83,SIMULATED
+2026-07,2000,Accounts payable - inventory & parts suppliers,liability,0.0,220589.77,SIMULATED
+2026-07,2010,Accounts payable - operating vendors,liability,0.0,33530.86,SIMULATED
+2026-07,2100,"Accrued payroll, commissions & source deductions",liability,0.0,30426.47,SIMULATED
+2026-07,2300,GST collected,liability,0.0,20133.88,SIMULATED
+2026-07,2500,Due to head office - shared services,liability,0.0,650.0,SIMULATED
+2026-07,2700,Term loan (allocated corporate debt),liability,0.0,120833.23,SIMULATED
+2026-07,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-07,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-07,4000,Bicycle sales,revenue,0.0,1612299.99,SIMULATED
+2026-07,4100,Accessories sales,revenue,0.0,113301.2,SIMULATED
+2026-07,4110,Batteries & chargers sales,revenue,0.0,54464.83,SIMULATED
+2026-07,4120,Parts sales (retail),revenue,0.0,10710.61,SIMULATED
+2026-07,4200,Service labour revenue,revenue,0.0,243481.44,SIMULATED
+2026-07,4210,Service parts revenue,revenue,0.0,181467.69,SIMULATED
+2026-07,4220,Warranty labour reimbursements,revenue,0.0,12550.5,SIMULATED
+2026-07,4900,Sales discounts & promotional allowances,contra_revenue,41180.85,0.0,SIMULATED
+2026-07,4910,Sales returns & refunds,contra_revenue,57591.74,0.0,SIMULATED
+2026-07,5000,Cost of goods sold - e-bikes,cogs,1095507.39,0.0,SIMULATED
+2026-07,5010,"Cost of goods sold - accessories, batteries & parts",cogs,100091.0,0.0,SIMULATED
+2026-07,5100,Inventory shrinkage & damaged write-offs,cogs,6280.93,0.0,SIMULATED
+2026-07,5200,Service parts cost,cogs,97747.96,0.0,SIMULATED
+2026-07,5210,Direct service labour,cogs,73499.49,0.0,SIMULATED
+2026-07,6000,"Wages - sales, management & admin (incl. commission)",opex,199945.21,0.0,SIMULATED
+2026-07,6010,Technician unapplied & assembly time,opex,79269.91,0.0,SIMULATED
+2026-07,6100,Rent,opex,141099.7,0.0,SIMULATED
+2026-07,6110,Utilities,opex,11434.74,0.0,SIMULATED
+2026-07,6200,Advertising & marketing,opex,51893.68,0.0,SIMULATED
+2026-07,6300,Insurance,opex,17413.76,0.0,SIMULATED
+2026-07,6310,Administrative - local,opex,21968.39,0.0,SIMULATED
+2026-07,6320,Corporate shared-services allocation,opex,4550.0,0.0,SIMULATED
+2026-07,6400,Freight & logistics,opex,41226.99,0.0,SIMULATED
+2026-07,6410,"Merchant, financing-partner & sundry fees",opex,41722.48,0.0,SIMULATED
+2026-07,6420,"Inventory storage, handling & obsolescence",opex,32491.19,0.0,SIMULATED
+2026-07,6900,Depreciation,opex,24505.05,0.0,SIMULATED
+2026-07,7000,Interest - term loan,other_exp,5373.96,0.0,SIMULATED
+2026-07,7010,Interest - revolving line of credit,other_exp,3169.94,0.0,SIMULATED
+2026-08,1000,Cash - operating bank account,asset,416997.2,0.0,SIMULATED
+2026-08,1100,Card & debit processor settlements receivable,asset,14067.56,0.0,SIMULATED
+2026-08,1110,Consumer-financing partner receivable,asset,13623.78,0.0,SIMULATED
+2026-08,1120,Trade receivables - business/fleet accounts,asset,103.95,0.0,SIMULATED
+2026-08,1130,Manufacturer warranty claims receivable,asset,3028.76,0.0,SIMULATED
+2026-08,1200,Merchandise inventory (standard cost),asset,277538.02,0.0,SIMULATED
+2026-08,1250,Service work in progress,asset,3495.83,0.0,SIMULATED
+2026-08,1300,Prepaid insurance,asset,9950.72,0.0,SIMULATED
+2026-08,1310,Supplier deposits on open purchase orders,asset,49714.79,0.0,SIMULATED
+2026-08,1400,GST input tax credits (ITCs),asset,26406.79,0.0,SIMULATED
+2026-08,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-08,1510,Workshop equipment & racking,asset,69500.0,0.0,SIMULATED
+2026-08,1520,"POS, IT & furniture",asset,40000.0,0.0,SIMULATED
+2026-08,1590,Accumulated depreciation,contra_asset,0.0,103099.98,SIMULATED
+2026-08,2000,Accounts payable - inventory & parts suppliers,liability,0.0,165873.82,SIMULATED
+2026-08,2010,Accounts payable - operating vendors,liability,0.0,30905.01,SIMULATED
+2026-08,2100,"Accrued payroll, commissions & source deductions",liability,0.0,30201.87,SIMULATED
+2026-08,2300,GST collected,liability,0.0,39193.57,SIMULATED
+2026-08,2400,Income tax payable (allocated),liability,0.0,1997.92,SIMULATED
+2026-08,2500,Due to head office - shared services,liability,0.0,1300.0,SIMULATED
+2026-08,2700,Term loan (allocated corporate debt),liability,0.0,116666.56,SIMULATED
+2026-08,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-08,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-08,4000,Bicycle sales,revenue,0.0,1908993.83,SIMULATED
+2026-08,4100,Accessories sales,revenue,0.0,133713.01,SIMULATED
+2026-08,4110,Batteries & chargers sales,revenue,0.0,61762.78,SIMULATED
+2026-08,4120,Parts sales (retail),revenue,0.0,12178.16,SIMULATED
+2026-08,4200,Service labour revenue,revenue,0.0,281267.46,SIMULATED
+2026-08,4210,Service parts revenue,revenue,0.0,210059.81,SIMULATED
+2026-08,4220,Warranty labour reimbursements,revenue,0.0,14526.0,SIMULATED
+2026-08,4900,Sales discounts & promotional allowances,contra_revenue,47692.24,0.0,SIMULATED
+2026-08,4910,Sales returns & refunds,contra_revenue,64113.41,0.0,SIMULATED
+2026-08,5000,Cost of goods sold - e-bikes,cogs,1300639.72,0.0,SIMULATED
+2026-08,5010,"Cost of goods sold - accessories, batteries & parts",cogs,116169.87,0.0,SIMULATED
+2026-08,5100,Inventory shrinkage & damaged write-offs,cogs,6404.65,0.0,SIMULATED
+2026-08,5200,Service parts cost,cogs,113139.36,0.0,SIMULATED
+2026-08,5210,Direct service labour,cogs,84799.02,0.0,SIMULATED
+2026-08,6000,"Wages - sales, management & admin (incl. commission)",opex,233326.82,0.0,SIMULATED
+2026-08,6010,Technician unapplied & assembly time,opex,94997.68,0.0,SIMULATED
+2026-08,6100,Rent,opex,161256.8,0.0,SIMULATED
+2026-08,6110,Utilities,opex,12487.48,0.0,SIMULATED
+2026-08,6200,Advertising & marketing,opex,59701.75,0.0,SIMULATED
+2026-08,6300,Insurance,opex,19901.44,0.0,SIMULATED
+2026-08,6310,Administrative - local,opex,25246.53,0.0,SIMULATED
+2026-08,6320,Corporate shared-services allocation,opex,5200.0,0.0,SIMULATED
+2026-08,6400,Freight & logistics,opex,48514.38,0.0,SIMULATED
+2026-08,6410,"Merchant, financing-partner & sundry fees",opex,49184.13,0.0,SIMULATED
+2026-08,6420,"Inventory storage, handling & obsolescence",opex,35391.86,0.0,SIMULATED
+2026-08,6900,Depreciation,opex,28217.2,0.0,SIMULATED
+2026-08,7000,Interest - term loan,other_exp,6048.61,0.0,SIMULATED
+2026-08,7010,Interest - revolving line of credit,other_exp,3169.94,0.0,SIMULATED
+2026-08,8000,Income tax expense (allocated),tax,1997.92,0.0,SIMULATED
+2026-09,1000,Cash - operating bank account,asset,354459.44,0.0,SIMULATED
+2026-09,1100,Card & debit processor settlements receivable,asset,13241.55,0.0,SIMULATED
+2026-09,1110,Consumer-financing partner receivable,asset,6713.68,0.0,SIMULATED
+2026-09,1120,Trade receivables - business/fleet accounts,asset,10.49,0.0,SIMULATED
+2026-09,1130,Manufacturer warranty claims receivable,asset,2758.5,0.0,SIMULATED
+2026-09,1200,Merchandise inventory (standard cost),asset,342554.88,0.0,SIMULATED
+2026-09,1250,Service work in progress,asset,8663.8,0.0,SIMULATED
+2026-09,1300,Prepaid insurance,asset,7463.04,0.0,SIMULATED
+2026-09,1310,Supplier deposits on open purchase orders,asset,19329.82,0.0,SIMULATED
+2026-09,1400,GST input tax credits (ITCs),asset,38811.25,0.0,SIMULATED
+2026-09,1500,Leasehold improvements,asset,171500.0,0.0,SIMULATED
+2026-09,1510,Workshop equipment & racking,asset,69500.0,0.0,SIMULATED
+2026-09,1520,"POS, IT & furniture",asset,40000.0,0.0,SIMULATED
+2026-09,1590,Accumulated depreciation,contra_asset,0.0,106812.13,SIMULATED
+2026-09,2000,Accounts payable - inventory & parts suppliers,liability,0.0,157952.65,SIMULATED
+2026-09,2010,Accounts payable - operating vendors,liability,0.0,27972.25,SIMULATED
+2026-09,2100,"Accrued payroll, commissions & source deductions",liability,0.0,28360.02,SIMULATED
+2026-09,2300,GST collected,liability,0.0,50548.11,SIMULATED
+2026-09,2500,Due to head office - shared services,liability,0.0,1950.0,SIMULATED
+2026-09,2700,Term loan (allocated corporate debt),liability,0.0,112499.89,SIMULATED
+2026-09,3000,Allocated corporate equity (head-office investment),equity,0.0,600000.0,SIMULATED
+2026-09,3200,Retained earnings,equity,98211.57,0.0,SIMULATED
+2026-09,4000,Bicycle sales,revenue,0.0,2081298.67,SIMULATED
+2026-09,4100,Accessories sales,revenue,0.0,149069.55,SIMULATED
+2026-09,4110,Batteries & chargers sales,revenue,0.0,67360.76,SIMULATED
+2026-09,4120,Parts sales (retail),revenue,0.0,13585.29,SIMULATED
+2026-09,4200,Service labour revenue,revenue,0.0,307290.51,SIMULATED
+2026-09,4210,Service parts revenue,revenue,0.0,227071.06,SIMULATED
+2026-09,4220,Warranty labour reimbursements,revenue,0.0,15817.5,SIMULATED
+2026-09,4900,Sales discounts & promotional allowances,contra_revenue,51081.39,0.0,SIMULATED
+2026-09,4910,Sales returns & refunds,contra_revenue,72627.89,0.0,SIMULATED
+2026-09,5000,Cost of goods sold - e-bikes,cogs,1415139.74,0.0,SIMULATED
+2026-09,5010,"Cost of goods sold - accessories, batteries & parts",cogs,128661.91,0.0,SIMULATED
+2026-09,5100,Inventory shrinkage & damaged write-offs,cogs,6438.44,0.0,SIMULATED
+2026-09,5200,Service parts cost,cogs,122256.81,0.0,SIMULATED
+2026-09,5210,Direct service labour,cogs,92488.44,0.0,SIMULATED
+2026-09,6000,"Wages - sales, management & admin (incl. commission)",opex,264064.05,0.0,SIMULATED
+2026-09,6010,Technician unapplied & assembly time,opex,112767.42,0.0,SIMULATED
+2026-09,6100,Rent,opex,181413.9,0.0,SIMULATED
+2026-09,6110,Utilities,opex,13697.4,0.0,SIMULATED
+2026-09,6200,Advertising & marketing,opex,67311.22,0.0,SIMULATED
+2026-09,6300,Insurance,opex,22389.12,0.0,SIMULATED
+2026-09,6310,Administrative - local,opex,28294.65,0.0,SIMULATED
+2026-09,6320,Corporate shared-services allocation,opex,5850.0,0.0,SIMULATED
+2026-09,6400,Freight & logistics,opex,55674.61,0.0,SIMULATED
+2026-09,6410,"Merchant, financing-partner & sundry fees",opex,53921.76,0.0,SIMULATED
+2026-09,6420,"Inventory storage, handling & obsolescence",opex,38492.33,0.0,SIMULATED
+2026-09,6900,Depreciation,opex,31929.35,0.0,SIMULATED
+2026-09,7000,Interest - term loan,other_exp,6700.0,0.0,SIMULATED
+2026-09,7010,Interest - revolving line of credit,other_exp,3169.94,0.0,SIMULATED

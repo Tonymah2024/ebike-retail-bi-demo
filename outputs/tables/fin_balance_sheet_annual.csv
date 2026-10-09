@@ -1,0 +1,27 @@
+key,2024,2025,2026,label,data_status
+cash,235783.35,153494.05,354459.44,Cash and cash equivalents,SIMULATED
+ar,14872.46,13184.85,22724.22,Accounts receivable,SIMULATED
+inventory,410467.71,415275.11,342554.88,Inventory (merchandise at cost),SIMULATED
+wip,1715.1,900.16,8663.8,Service work in progress,SIMULATED
+prepaid,7737.92,8391.91,26792.86,Prepaid expenses & supplier deposits,SIMULATED
+gst_rec,0.0,2913.21,0.0,Sales tax recoverable,SIMULATED
+current_assets,670576.54,594159.29,755195.2,Total current assets,SIMULATED
+ppe_gross,239500.0,255800.0,281000.0,"Property, plant and equipment (cost)",SIMULATED
+acc_dep,-38605.52,-74882.78,-106812.13,Accumulated depreciation,SIMULATED
+ppe_net,200894.48,180917.22,174187.87,"Net property, plant and equipment",SIMULATED
+total_assets,871471.02,775076.51,929383.07,TOTAL ASSETS,SIMULATED
+ap,126138.6,103089.24,185924.9,Accounts payable,SIMULATED
+accrued,17587.99,20198.92,30310.02,Accrued expenses (payroll & head office),SIMULATED
+tax_payable,-0.0,-0.0,-0.0,Income taxes payable,SIMULATED
+gst_pay,2224.29,0.0,11736.86,Sales tax payable,SIMULATED
+revolver,-0.0,-0.0,-0.0,Short-term borrowings - revolving line of credit,SIMULATED
+term_current,50000.04,50000.04,50000.04,Current portion of long-term debt,SIMULATED
+current_liabilities,195950.92,173288.2,277971.82,Total current liabilities,SIMULATED
+term_lt,149999.92,99999.88,62499.85,Long-term debt (non-current portion),SIMULATED
+total_liabilities,345950.84,273288.08,340471.67,TOTAL LIABILITIES,SIMULATED
+equity_cap,600000.0,600000.0,600000.0,Share capital / allocated corporate equity,SIMULATED
+retained,-74479.82,-98211.57,-98211.57,Retained earnings,SIMULATED
+cpe,-0.0,-0.0,87122.97,Current period earnings,SIMULATED
+total_equity,525520.18,501788.43,588911.4,TOTAL EQUITY,SIMULATED
+total_le,871471.02,775076.51,929383.07,TOTAL LIABILITIES AND EQUITY,SIMULATED
+check,0.0,0.0,-0.0,Check: assets - liabilities - equity,SIMULATED

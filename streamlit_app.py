@@ -15,8 +15,10 @@ import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(ROOT / "dashboard"))
 from src.config import BRAND, DB_PATH, SERIES, TABLES  # noqa: E402
 from src.models import scenarios as scn  # noqa: E402
+import finance_pages  # noqa: E402  (dashboard/finance_pages.py - Financial Intelligence pages 10-17)
 
 st.set_page_config(page_title="Prairie Pulse E-Bikes | VisiVault Analytics", page_icon="⚡", layout="wide")
 
@@ -139,10 +141,12 @@ st.markdown(f"""<div class='vv-banner'><div><h1>Prairie Pulse E-Bikes - Retail A
 
 PAGES = ["1. Executive Overview", "2. Sales Performance", "3. Product & Brand Performance", "4. Profitability",
          "5. Inventory Intelligence", "6. Customer Analytics", "7. Service & Repair Analytics", "8. Sales & Demand Forecasts",
-         "9. Business Scenario Simulator"]
+         "9. Business Scenario Simulator"] + finance_pages.FIN_PAGES
 with st.sidebar:
     st.markdown(f"<div style='font-weight:800;font-size:1.1rem;color:{BRAND['brand_dark']}'>VisiVault Analytics</div>", unsafe_allow_html=True)
     page = st.radio("Navigate", PAGES, label_visibility="collapsed")
+    st.divider()
+    st.caption("Pages 10-17: FINANCIAL INTELLIGENCE (simulated management accounts & forecasts)")
     st.divider()
     st.caption("FILTERS (pages 2-4)")
     s_all = sales_df()
@@ -467,6 +471,9 @@ elif page == PAGES[8]:
         st.code(scn.__doc__)
         st.json({k: (round(v, 4) if isinstance(v, float) else v) for k, v in b.items()})
     st.warning("Scenario results are illustrative estimates on synthetic data. They are not forecasts of Prairie Pulse E-Bikes results and are not guaranteed benefits.")
+
+elif page in finance_pages.FIN_PAGES:
+    finance_pages.render(page)
 
 st.markdown(f"<div style='text-align:center;color:{BRAND['subtle']};font-size:.75rem;margin-top:30px'>VisiVault Analytics Ltd. | Prairie Pulse E-Bikes proof of concept | "
             "SYNTHETIC DEMONSTRATION DATA - fictional retailer; product prices from public market listings; weather from ECCC; rates from Bank of Canada</div>",
