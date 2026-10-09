@@ -35,6 +35,7 @@ st.markdown(f"""
   .reco {{background:{BRAND['brand_light']}; border-left:4px solid {BRAND['brand']}; padding:10px 14px; border-radius:6px; margin:6px 0; font-size:.9rem;}}
 </style>""", unsafe_allow_html=True)
 
+px.defaults.color_discrete_sequence = SERIES
 PLOT = dict(template="plotly_white", colorway=SERIES, font=dict(family="Inter, Helvetica, Arial", size=12),
             margin=dict(l=10, r=10, t=50, b=10), legend=dict(orientation="h", y=-0.18))
 
@@ -102,6 +103,11 @@ def money(v, d=0):
     s = "-" if v < 0 else ""
     v = abs(v)
     return f"{s}${v / 1e6:,.2f}M" if v >= 1e6 else f"{s}${v:,.{d}f}"
+
+
+def md_safe(text):
+    """Escape $ so Streamlit markdown doesn't render dollar amounts as LaTeX math."""
+    return str(text).replace("$", "\\$")
 
 
 def kpis(items):
@@ -191,7 +197,7 @@ if page == PAGES[0]:
         st.subheader("Headline findings")
         for k in ["pnl", "stockouts", "service", "atv"]:
             if k in F:
-                st.markdown(f"- {F[k]}")
+                st.markdown(f"- {md_safe(F[k])}")
     st.subheader("Priority actions (ranked by value and effort)")
     rc = table("recommendations")
     if not rc.empty:
